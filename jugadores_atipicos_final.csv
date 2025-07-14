@@ -1,0 +1,1200 @@
+,Nombre,Edad,Club,Grupo_Posicion,Nacionalidad,Valoracion_General,Potencial,Valor_Mercado,Salario,Arquetipo_Atipico,Indice_Rendimiento,Ratio_Valor_Rendimiento,ZScore_Altura_cm,ZScore_Fuerza
+76,Iniesta,34,Vissel Kobe,Atacante,Spain,86,86,21500000,21000,['Maestro Veterano'],80.5,3.74E-06,-1.623995266,-0.617788927
+109,Z. Ibrahimovi?,36,LA Galaxy,Atacante,Sweden,85,85,14000000,15000,['Maestro Veterano'],86.16666667,6.15E-06,2.230737942,1.475942135
+152,A. Barzagli,37,Juventus,Defensor,Italy,84,84,4200000,95000,['Maestro Veterano'],84.83333333,1.98E-05,0.861364031,1.167760565
+226,M. de Ligt,18,Ajax,Defensor,Netherlands,82,91,27000000,11000,['Especialista Oculto'],82,3.04E-06,0.861364031,1.5457692
+227,Rodri,22,Atlético Madrid,Mediocampista,Spain,82,87,29000000,59000,['Especialista Oculto'],81.5,2.80E-06,2.11253748,1.082487342
+228,Arthur,21,FC Barcelona,Mediocampista,Brazil,82,90,32500000,125000,['Especialista Oculto'],82.33333333,2.52E-06,-1.37904057,0.026316933
+230,Rosberto Dourado,30,Atlético Mineiro,Mediocampista,Brazil,82,82,16500000,46000,"['Especialista Oculto', 'Especialista Oculto']",81,4.90E-06,-0.506146058,0.513780199
+231,Juiano Mestres,34,Cruzeiro,Defensor,Brazil,82,82,6500000,39000,['Especialista Oculto'],80.66666667,1.23E-05,-0.37392928,0.78975193
+233,Gelson Martins,23,Atlético Madrid,Mediocampista,Portugal,82,87,29500000,59000,['Especialista Oculto'],82.83333333,2.80E-06,-0.942593314,-1.111097353
+236,Malcom,21,FC Barcelona,Atacante,Brazil,82,89,31500000,140000,"['Especialista Oculto', 'Especialista Oculto']",80.33333333,2.54E-06,-1.238521945,-0.169132271
+238,L. Hernández,22,Atlético Madrid,Defensor,France,82,88,25500000,53000,['Especialista Oculto'],79.83333333,3.12E-06,0.037835157,0.506245454
+239,C. Lenglet,23,FC Barcelona,Defensor,France,82,88,26000000,135000,['Especialista Oculto'],81,3.10E-06,0.449599594,0.884254089
+241,A. Robertson,24,Liverpool,Defensor,Scotland,82,87,24500000,98000,"['Especialista Oculto', 'Especialista Oculto']",75.16666667,3.06E-06,-0.785693717,-0.438776133
+242,Dani García,28,Athletic Club de Bilbao,Mediocampista,Spain,82,83,20000000,33000,['Especialista Oculto'],78,3.89E-06,0.366748455,1.082487342
+243,F. Bernardeschi,24,Juventus,Mediocampista,Italy,82,87,29500000,110000,"['Especialista Oculto', 'Especialista Oculto']",83,2.80E-06,1.239642967,0.107560811
+245,D. Rugani,23,Juventus,Defensor,Italy,82,86,24500000,95000,['Especialista Oculto'],82.66666667,3.36E-06,1.273128468,0.78975193
+246,Samu Castillejo,23,Milan,Mediocampista,Spain,82,86,29000000,94000,['Especialista Oculto'],75.83333333,2.61E-06,0.803195711,-0.948609598
+247,João Cancelo,24,Juventus,Defensor,Portugal,82,88,25500000,95000,"['Especialista Oculto', 'Especialista Oculto']",74.5,2.91E-06,0.037835157,-0.438776133
+248,A. Romagnoli,23,Milan,Defensor,Italy,82,89,26500000,84000,['Especialista Oculto'],82.16666667,3.09E-06,0.861364031,0.978756248
+249,T. Partey,25,Atlético Madrid,Mediocampista,Ghana,82,88,25500000,59000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,3.12E-06,1.239642967,1.569950607
+250,Fred,25,Manchester United,Mediocampista,Brazil,82,84,26500000,140000,['Especialista Oculto'],82.5,3.10E-06,-1.37904057,-0.054926944
+253,E. Forsberg,26,RB Leipzig,Mediocampista,Sweden,82,83,26000000,67000,"['Especialista Oculto', 'Especialista Oculto']",81.33333333,3.12E-06,-0.069698801,0.026316933
+255,F. Vázquez,29,Sevilla FC,Mediocampista,Argentina,82,82,21500000,27000,['Especialista Oculto'],80.33333333,3.73E-06,1.239642967,1.407462852
+256,E. Viš?a,28,Medipol Ba?ak?ehir FK,Mediocampista,Bosnia Herzegovina,82,82,22500000,40000,['Especialista Oculto'],79.5,3.53E-06,-0.942593314,-0.298658577
+257,A. Rüdiger,25,Chelsea,Defensor,Germany,82,84,22500000,110000,['Especialista Oculto'],81.83333333,3.62E-06,1.273128468,1.073258406
+258,A. Florenzi,27,Roma,Defensor,Italy,82,83,20500000,73000,"['Especialista Oculto', 'Especialista Oculto']",75.33333333,3.66E-06,-1.609222591,-0.344273974
+259,H. Maguire,25,Leicester City,Defensor,England,82,85,23500000,77000,['Especialista Oculto'],83,3.52E-06,1.684892905,1.734773517
+260,T. Meunier,26,Paris Saint-Germain,Mediocampista,Belgium,82,83,21000000,87000,"['Especialista Oculto', 'Especialista Oculto']",80,3.79E-06,2.11253748,1.894926117
+261,S. Sané,27,FC Schalke 04,Defensor,Senegal,82,82,18500000,41000,['Especialista Oculto'],84.33333333,4.55E-06,2.096657342,1.640271358
+262,G. Kondogbia,25,Valencia CF,Mediocampista,Central African Rep.,82,85,27500000,46000,"['Especialista Oculto', 'Especialista Oculto']",81,2.94E-06,1.676090224,2.382389383
+264,Gabriel Paulista,27,Valencia CF,Defensor,Brazil,82,83,21000000,44000,['Especialista Oculto'],81.66666667,3.88E-06,0.861364031,1.073258406
+269,Pablo Sarabia,26,Sevilla FC,Mediocampista,Spain,82,83,26000000,26000,['Especialista Oculto'],80.5,3.09E-06,-0.506146058,-0.298658577
+270,W. Zaha,25,Crystal Palace,Atacante,Ivory Coast,82,85,28500000,78000,['Especialista Oculto'],79.66666667,2.79E-06,-0.082101983,0.653404932
+271,Luis Alberto,25,Lazio,Atacante,Spain,82,85,28500000,67000,"['Especialista Oculto', 'Especialista Oculto']",80.16666667,2.81E-06,0.303371338,0.055196057
+272,Jonathan Viera,28,Beijing Sinobo Guoan FC,Atacante,Spain,82,82,22500000,31000,['Especialista Oculto'],77.16666667,3.42E-06,-1.623995266,0.055196057
+273,Bartra,27,Real Betis,Defensor,Spain,82,83,21000000,32000,"['Especialista Oculto', 'Especialista Oculto']",80.16666667,3.81E-06,0.037835157,0.033734661
+274,S. Coates,27,Sporting CP,Defensor,Uruguay,82,83,21000000,19000,['Especialista Oculto'],83,3.95E-06,2.096657342,2.20728431
+276,Mário Fernandes,27,PFC CSKA Moscow,Defensor,Russia,82,82,18500000,1000,['Especialista Oculto'],79,4.27E-06,0.861364031,0.411743296
+277,Víctor Ruiz,29,Villarreal CF,Defensor,Spain,82,83,19500000,43000,['Especialista Oculto'],81.66666667,4.18E-06,0.449599594,1.5457692
+278,T. Delaney,26,Borussia Dortmund,Mediocampista,Denmark,82,83,21500000,61000,['Especialista Oculto'],79.5,3.69E-06,0.803195711,1.407462852
+280,M. Götze,26,Borussia Dortmund,Mediocampista,Germany,82,85,27000000,67000,['Especialista Oculto'],84.16666667,3.11E-06,-0.506146058,0.513780199
+281,S. Mustafi,26,Arsenal,Defensor,Germany,82,84,22500000,115000,['Especialista Oculto'],80.83333333,3.57E-06,0.037835157,0.695249772
+282,J. Pastore,29,Roma,Mediocampista,Argentina,82,82,21500000,84000,['Especialista Oculto'],81.33333333,3.77E-06,1.676090224,0.188804688
+284,G. Bonaventura,28,Milan,Mediocampista,Italy,82,82,22000000,115000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",83.33333333,3.77E-06,0.366748455,0.351292443
+289,A. Ramsey,27,Arsenal,Mediocampista,Wales,82,83,25000000,130000,['Especialista Oculto'],82.66666667,3.29E-06,0.803195711,0.432536321
+290,K. Trippier,27,Tottenham Hotspur,Defensor,England,82,82,18500000,99000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",76.16666667,4.10E-06,-0.785693717,-0.533278291
+291,A. Kolarov,32,Roma,Defensor,Serbia,82,82,12500000,73000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",80.83333333,6.43E-06,0.861364031,0.600747613
+292,G. Sigurðsson,28,Everton,Mediocampista,Iceland,82,82,22500000,125000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",84.16666667,3.72E-06,1.239642967,0.513780199
+293,S. Giovinco,31,Toronto FC,Atacante,Italy,82,82,20000000,15000,['Especialista Oculto'],81.66666667,4.08E-06,-2.780415229,-1.814206677
+294,M. Arnautovi?,29,West Ham United,Atacante,Austria,82,82,22000000,120000,['Especialista Oculto'],81.5,3.68E-06,1.845264621,1.326389916
+295,N. Gaitán,30,Dalian YiFang FC,Mediocampista,Argentina,82,82,21000000,22000,['Especialista Oculto'],79.83333333,3.80E-06,-0.942593314,-1.273585108
+296,J. Henderson,28,Liverpool,Mediocampista,England,82,82,18000000,125000,"['Especialista Oculto', 'Especialista Oculto']",81.5,4.50E-06,0.803195711,0.838755709
+297,M. Kruse,30,SV Werder Bremen,Atacante,Germany,82,82,21500000,45000,"['Especialista Oculto', 'Especialista Oculto']",84.16666667,3.91E-06,-0.082101983,0.429076604
+298,M. Parolo,33,Lazio,Mediocampista,Italy,82,82,9000000,59000,"['Especialista Oculto', 'Especialista Oculto']",79.66666667,8.79E-06,0.803195711,1.244975097
+300,A. Rami,32,Olympique de Marseille,Defensor,France,82,82,12500000,57000,['Especialista Oculto'],81.66666667,6.50E-06,1.273128468,1.923777834
+301,V. ?orluka,32,Lokomotiv Moscow,Defensor,Croatia,82,82,12500000,1000,['Especialista Oculto'],80.83333333,6.47E-06,1.684892905,1.451267041
+303,F. Fazio,31,Roma,Defensor,Argentina,82,82,15000000,73000,['Especialista Oculto'],86.5,5.74E-06,2.096657342,1.923777834
+305,Marcano,31,Roma,Defensor,Spain,82,82,15000000,73000,['Especialista Oculto'],81.5,5.41E-06,0.861364031,0.600747613
+306,A. Guardado,31,Real Betis,Mediocampista,Mexico,82,82,19000000,35000,"['Especialista Oculto', 'Especialista Oculto']",82,4.31E-06,-1.37904057,-0.379902455
+307,E. Garay,31,Valencia CF,Defensor,Argentina,82,82,15000000,44000,['Especialista Oculto'],82,5.45E-06,0.861364031,1.640271358
+308,Jardel,32,SL Benfica,Defensor,Brazil,82,82,12500000,17000,['Especialista Oculto'],83.66666667,6.68E-06,1.684892905,1.734773517
+311,L. Koscielny,32,Arsenal,Defensor,France,82,82,12500000,115000,['Especialista Oculto'],79.83333333,6.33E-06,0.449599594,0.411743296
+313,L. Biglia,32,Milan,Mediocampista,Argentina,82,82,12500000,98000,['Especialista Oculto'],80.83333333,6.42E-06,-0.069698801,0.270048566
+314,Dani Alves,35,Paris Saint-Germain,Defensor,Brazil,82,82,4800000,62000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",72.33333333,1.49E-05,-1.609222591,-1.478299878
+315,David Villa,36,New York City FC,Atacante,Spain,82,82,8000000,12000,['Especialista Oculto'],84,1.05E-05,-0.853048625,-0.019580052
+316,Aduriz,37,Athletic Club de Bilbao,Atacante,Spain,82,82,8000000,29000,['Maestro Veterano'],84.33333333,1.05E-05,0.303371338,1.176837698
+319,M. Rashford,20,Manchester United,Atacante,England,81,89,27000000,110000,['Especialista Oculto'],79.66666667,2.94E-06,0.688844659,0.354300495
+320,Laure Santeiro,30,Fluminense,Mediocampista,Brazil,81,81,17000000,40000,['Especialista Oculto'],77.83333333,4.57E-06,-1.37904057,-1.111097353
+322,M. Akanji,22,Borussia Dortmund,Defensor,Switzerland,81,87,21000000,49000,['Especialista Oculto'],80.83333333,3.84E-06,0.861364031,1.262262724
+323,F. de Jong,21,Ajax,Mediocampista,Netherlands,81,89,26000000,19000,['Especialista Oculto'],84.33333333,3.24E-06,0.366748455,0.595024076
+324,Nélson Semedo,24,FC Barcelona,Defensor,Portugal,81,86,20000000,125000,['Especialista Oculto'],72.5,3.60E-06,-0.785693717,-0.816784767
+325,Pablo Fornals,22,Villarreal CF,Mediocampista,Spain,81,86,24000000,36000,['Especialista Oculto'],80,3.33E-06,-0.069698801,0.432536321
+326,Fabián,22,Napoli,Mediocampista,Spain,81,89,26000000,64000,['Especialista Oculto'],79.33333333,3.04E-06,1.676090224,0.595024076
+327,E. Bailly,24,Manchester United,Defensor,Ivory Coast,81,87,21000000,105000,['Especialista Oculto'],80.16666667,3.80E-06,0.449599594,1.356764882
+328,Dani Ceballos,21,Real Madrid,Mediocampista,Spain,81,88,25000000,120000,['Especialista Oculto'],81.83333333,3.26E-06,-0.069698801,0.026316933
+330,Morales,30,Levante UD,Atacante,Spain,81,81,17000000,33000,['Especialista Oculto'],79,4.64E-06,-0.082101983,-0.468236708
+331,J. Seri,26,Fulham,Mediocampista,Ivory Coast,81,82,20500000,73000,"['Especialista Oculto', 'Especialista Oculto']",81.5,3.96E-06,-1.37904057,0.107560811
+332,M. Politano,24,Inter,Mediocampista,Italy,81,84,22500000,57000,['Especialista Oculto'],79.66666667,3.53E-06,-1.37904057,-1.354828986
+333,M. Brozovi?,25,Inter,Mediocampista,Croatia,81,84,18500000,64000,['Especialista Oculto'],81.5,4.39E-06,0.366748455,0.351292443
+336,A. Christensen,22,Chelsea,Defensor,Denmark,81,88,21500000,91000,['Especialista Oculto'],80.16666667,3.71E-06,0.861364031,0.222738978
+337,João Mário,25,Inter,Mediocampista,Portugal,81,84,22500000,71000,['Especialista Oculto'],81.83333333,3.63E-06,-0.069698801,0.513780199
+339,E. Hysaj,24,Napoli,Defensor,Albania,81,86,20000000,58000,['Especialista Oculto'],75.83333333,3.78E-06,0.037835157,-0.155269657
+340,P. Zieli?ski,24,Napoli,Mediocampista,Poland,81,88,24500000,64000,['Especialista Oculto'],80,3.26E-06,0.366748455,-0.623634087
+341,Ricardo Pereira,24,Leicester City,Defensor,Portugal,81,85,19000000,64000,"['Especialista Oculto', 'Especialista Oculto']",73.33333333,3.85E-06,-1.197458154,-1.005789085
+342,Grimaldo,22,SL Benfica,Defensor,Spain,81,87,20500000,14000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",73,3.56E-06,-2.020987028,-0.722282609
+343,R. Guerreiro,24,Borussia Dortmund,Mediocampista,Portugal,81,86,24000000,54000,"['Especialista Oculto', 'Especialista Oculto']",79.5,3.31E-06,-1.37904057,-1.029853475
+348,B. Davies,25,Tottenham Hotspur,Defensor,Wales,81,84,18500000,87000,"['Especialista Oculto', 'Especialista Oculto']",76,4.09E-06,0.037835157,-0.155269657
+349,M. Nastasi?,25,FC Schalke 04,Defensor,Serbia,81,84,18500000,36000,['Especialista Oculto'],80,4.32E-06,0.861364031,0.695249772
+352,B. Mendy,23,Manchester City,Defensor,France,81,86,20000000,105000,"['Especialista Oculto', 'Especialista Oculto']",77,3.83E-06,0.449599594,0.978756248
+354,S. Vrsaljko,26,Inter,Defensor,Croatia,81,84,18000000,57000,['Especialista Oculto'],76.66666667,4.25E-06,-0.37392928,0.222738978
+355,T. Hazard,25,Borussia Mönchengladbach,Atacante,Belgium,81,83,21500000,40000,['Especialista Oculto'],78,3.62E-06,-0.853048625,-0.318684489
+358,F. Ghoulam,27,Napoli,Defensor,Algeria,81,82,16500000,68000,"['Especialista Oculto', 'Especialista Oculto']",75.5,4.56E-06,0.037835157,-0.249771815
+360,J. Ili?i?,30,Atalanta,Mediocampista,Slovenia,81,81,17000000,41000,['Especialista Oculto'],79.66666667,4.67E-06,2.11253748,1.001243464
+363,Vitolo,28,Atlético Madrid,Mediocampista,Spain,81,81,18000000,65000,['Especialista Oculto'],79,4.37E-06,1.239642967,1.569950607
+364,G. Xhaka,25,Arsenal,Mediocampista,Switzerland,81,84,22000000,115000,"['Especialista Oculto', 'Especialista Oculto']",78.33333333,3.54E-06,1.239642967,1.082487342
+365,D. Tadi?,29,Ajax,Mediocampista,Serbia,81,81,17500000,26000,['Especialista Oculto'],81.33333333,4.64E-06,0.366748455,0.026316933
+366,C. Aránguiz,29,Bayer 04 Leverkusen,Mediocampista,Chile,81,81,17000000,76000,['Especialista Oculto'],80.83333333,4.73E-06,-1.37904057,0.107560811
+367,S. Verdi,25,Napoli,Atacante,Italy,81,81,19500000,77000,"['Especialista Oculto', 'Especialista Oculto']",77.66666667,3.97E-06,-1.623995266,-1.365550021
+368,D. Lovren,28,Liverpool,Defensor,Croatia,81,82,16000000,115000,['Especialista Oculto'],79.66666667,4.94E-06,0.861364031,1.073258406
+369,G. Medel,30,Be?ikta? JK,Defensor,Chile,81,81,13000000,56000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,6.11E-06,-2.020987028,1.167760565
+370,X. Shaqiri,26,Liverpool,Mediocampista,Switzerland,81,81,19000000,130000,"['Especialista Oculto', 'Especialista Oculto']",81.5,4.26E-06,-1.37904057,0.919999586
+373,K. Vogt,26,TSG 1899 Hoffenheim,Defensor,Germany,81,82,17500000,42000,"['Especialista Oculto', 'Especialista Oculto']",81,4.62E-06,1.684892905,1.356764882
+374,Ander Herrera,28,Manchester United,Mediocampista,Spain,81,81,17500000,140000,['Especialista Oculto'],81.83333333,4.64E-06,0.803195711,0.432536321
+377,C. Smalling,28,Manchester United,Defensor,England,81,82,16000000,130000,['Especialista Oculto'],81.33333333,5.04E-06,1.684892905,1.5457692
+378,Hulk,31,Shanghai SIPG FC,Mediocampista,Brazil,81,81,15500000,25000,['Especialista Oculto'],79.16666667,5.10E-06,0.366748455,2.46363326
+380,M. Lanzini,25,West Ham United,Mediocampista,Argentina,81,85,23000000,90000,['Especialista Oculto'],80.33333333,3.48E-06,-1.815487826,-1.842292251
+383,O. Toprak,28,Borussia Dortmund,Defensor,Turkey,81,82,16000000,59000,['Especialista Oculto'],80.33333333,5.00E-06,0.449599594,0.695249772
+384,D. Perotti,29,Roma,Atacante,Argentina,81,81,17500000,84000,['Especialista Oculto'],77.66666667,4.42E-06,-0.467575304,-0.468236708
+386,B. Höwedes,30,Lokomotiv Moscow,Defensor,Germany,81,81,13000000,1000,['Especialista Oculto'],81.33333333,6.26E-06,0.861364031,0.695249772
+387,S. Kjær,29,Sevilla FC,Defensor,Denmark,81,81,14000000,23000,['Especialista Oculto'],79.83333333,5.69E-06,0.861364031,0.884254089
+388,S. Bender,29,Bayer 04 Leverkusen,Defensor,Germany,81,81,14000000,69000,['Especialista Oculto'],80.16666667,5.70E-06,0.449599594,0.600747613
+389,M. Valbuena,33,Fenerbahçe SK,Mediocampista,France,81,81,11000000,86000,"['Especialista Oculto', 'Especialista Oculto']",76.83333333,6.93E-06,-1.815487826,-2.004780006
+390,Pedro León,31,SD Eibar,Mediocampista,Spain,81,81,15500000,32000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",78.33333333,5.04E-06,0.803195711,0.107560811
+391,K. Boateng,31,Sassuolo,Mediocampista,Ghana,81,81,15000000,65000,['Especialista Oculto'],78.83333333,5.23E-06,1.239642967,1.326218974
+392,L. Piszczek,33,Borussia Dortmund,Defensor,Poland,81,81,7000000,57000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,1.13E-05,0.037835157,0.695249772
+393,A. Candreva,31,Inter,Mediocampista,Italy,81,81,15500000,74000,['Especialista Oculto'],79.83333333,5.13E-06,0.366748455,0.595024076
+394,D. Wass,29,Valencia CF,Defensor,Denmark,81,81,17000000,46000,"['Especialista Oculto', 'Especialista Oculto']",72.66666667,4.26E-06,-0.37392928,-0.060767498
+395,E. Lamela,26,Tottenham Hotspur,Mediocampista,Argentina,81,82,21000000,105000,['Especialista Oculto'],82,3.89E-06,0.803195711,0.513780199
+396,D. Rose,27,Tottenham Hotspur,Defensor,England,81,81,14500000,92000,"['Especialista Oculto', 'Especialista Oculto']",76.16666667,5.22E-06,-1.197458154,0.128236819
+397,C. Vela,29,Los Angeles FC,Atacante,Mexico,81,81,17500000,15000,['Especialista Oculto'],79.5,4.54E-06,-0.467575304,0.055196057
+398,Renato Augusto,30,Beijing Sinobo Guoan FC,Mediocampista,Brazil,81,81,16500000,28000,['Especialista Oculto'],79,4.78E-06,1.239642967,1.163731219
+399,A. Valencia,32,Manchester United,Mediocampista,Ecuador,81,81,10000000,120000,"['Especialista Oculto', 'Especialista Oculto']",79,7.81E-06,0.366748455,1.407462852
+401,João Moutinho,31,Wolverhampton Wanderers,Mediocampista,Portugal,81,81,15000000,85000,"['Especialista Oculto', 'Especialista Oculto']",81.33333333,5.39E-06,-1.37904057,0.107560811
+402,Borja Valero,33,Inter,Mediocampista,Spain,81,81,11000000,74000,['Especialista Oculto'],83.33333333,7.53E-06,-0.506146058,0.351292443
+403,F. Quagliarella,35,Sampdoria,Atacante,Italy,81,81,8000000,39000,['Especialista Oculto'],83,1.03E-05,-0.082101983,0.728181042
+405,Manuel Fernandes,32,Lokomotiv Moscow,Mediocampista,Portugal,81,81,14000000,1000,"['Especialista Oculto', 'Especialista Oculto']",80.5,5.75E-06,-0.506146058,0.757511831
+407,Raffael,33,Borussia Mönchengladbach,Atacante,Brazil,81,81,11000000,41000,['Especialista Oculto'],80.5,7.29E-06,-0.853048625,-0.318684489
+408,Nani,31,Sporting CP,Mediocampista,Portugal,81,81,15500000,19000,"['Especialista Oculto', 'Especialista Oculto']",81.16666667,5.23E-06,-0.069698801,0.026316933
+409,J. Milner,32,Liverpool,Mediocampista,England,81,81,13500000,120000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",82.5,6.06E-06,-0.506146058,0.757511831
+410,J. Mathieu,34,Sporting CP,Defensor,France,81,81,5500000,18000,"['Especialista Oculto', 'Especialista Oculto']",82.5,1.50E-05,0.861364031,1.734773517
+411,Joaquín,36,Real Betis,Atacante,Spain,81,81,6000000,24000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",79.66666667,1.32E-05,-0.467575304,-0.169132271
+414,T. Ndombele,21,Olympique Lyonnais,Mediocampista,France,80,89,22500000,51000,['Especialista Oculto'],82.16666667,3.64E-06,0.366748455,1.326218974
+415,H. Aouar,20,Olympique Lyonnais,Mediocampista,France,80,90,23500000,51000,['Especialista Oculto'],82.5,3.50E-06,-0.506146058,-0.054926944
+416,Carlos Soler,21,Valencia CF,Mediocampista,Spain,80,87,21000000,31000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",80.33333333,3.82E-06,0.366748455,0.270048566
+417,Odriozola,22,Real Madrid,Defensor,Spain,80,88,18500000,115000,"['Especialista Oculto', 'Especialista Oculto']",75,4.03E-06,-1.197458154,-0.722282609
+419,Welington Dano,30,Cruzeiro,Defensor,Brazil,80,80,10500000,34000,"['Especialista Oculto', 'Especialista Oculto']",73.5,6.98E-06,-0.785693717,-0.249771815
+421,Oyarzabal,21,Real Sociedad,Mediocampista,Spain,80,87,21000000,29000,['Especialista Oculto'],78,3.71E-06,0.366748455,-0.2174147
+424,B. Pavard,22,VfB Stuttgart,Defensor,France,80,86,17500000,33000,"['Especialista Oculto', 'Especialista Oculto']",78.5,4.48E-06,0.449599594,0.317241137
+425,W. Ndidi,21,Leicester City,Mediocampista,Nigeria,80,85,17000000,50000,['Especialista Oculto'],76,4.46E-06,0.803195711,1.082487342
+427,G. Lo Celso,22,Real Betis,Mediocampista,Argentina,80,86,20000000,72000,['Especialista Oculto'],80.66666667,4.02E-06,-0.506146058,0.432536321
+428,M. Acuña,26,Sporting CP,Defensor,Argentina,80,80,12500000,16000,"['Especialista Oculto', 'Especialista Oculto']",76.16666667,6.09E-06,-1.609222591,1.262262724
+429,Rúben Neves,21,Wolverhampton Wanderers,Mediocampista,Portugal,80,87,20500000,59000,"['Especialista Oculto', 'Especialista Oculto']",80.16666667,3.90E-06,0.366748455,0.676267954
+432,M. Caldara,24,Milan,Defensor,Italy,80,86,17500000,73000,['Especialista Oculto'],81.5,4.64E-06,0.861364031,0.78975193
+433,M. Vecino,26,Inter,Mediocampista,Uruguay,80,81,14500000,63000,['Especialista Oculto'],82.33333333,5.65E-06,1.676090224,1.082487342
+434,T. Bakayoko,23,Milan,Mediocampista,France,80,85,17000000,85000,['Especialista Oculto'],75.83333333,4.44E-06,1.676090224,1.488706729
+435,M. Dahoud,22,Borussia Dortmund,Mediocampista,Germany,80,86,20000000,50000,['Especialista Oculto'],80.16666667,4.00E-06,-0.069698801,-0.298658577
+442,K. Demirbay,24,TSG 1899 Hoffenheim,Mediocampista,Germany,80,84,19500000,37000,"['Especialista Oculto', 'Especialista Oculto']",80,4.09E-06,0.803195711,0.432536321
+443,Gayà,23,Valencia CF,Defensor,Spain,80,85,16500000,33000,"['Especialista Oculto', 'Especialista Oculto']",69.83333333,4.22E-06,-1.609222591,-0.911286926
+444,André Gomes,24,Everton,Mediocampista,Portugal,80,85,19500000,130000,['Especialista Oculto'],79.16666667,4.03E-06,1.676090224,1.976169995
+445,N. Tagliafico,25,Ajax,Defensor,Argentina,80,82,15000000,20000,['Especialista Oculto'],74,4.93E-06,-2.020987028,-0.722282609
+446,M. Sanson,23,Olympique de Marseille,Mediocampista,France,80,85,19500000,47000,['Especialista Oculto'],78.66666667,4.02E-06,0.366748455,1.163731219
+448,E. Can,24,Juventus,Mediocampista,Germany,80,85,19500000,91000,"['Especialista Oculto', 'Especialista Oculto']",79.33333333,4.05E-06,0.803195711,1.732438362
+449,H. Çalhano?lu,24,Milan,Mediocampista,Turkey,80,84,19500000,89000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",81.33333333,4.15E-06,-0.069698801,-0.623634087
+451,M. Keane,25,Everton,Defensor,England,80,83,15500000,88000,['Especialista Oculto'],80.33333333,5.15E-06,1.273128468,1.356764882
+452,L. Paredes,24,Agente Libre,Mediocampista,Argentina,80,85,0,0,"['Especialista Oculto', 'Especialista Oculto', 'Talento Infravalorado']",79.83333333,79.83333333,0.366748455,0.595024076
+454,L. Shaw,22,Manchester United,Defensor,England,80,85,16500000,96000,"['Especialista Oculto', 'Especialista Oculto']",76,4.58E-06,-0.37392928,0.411743296
+455,Z. Feddal,28,Real Betis,Defensor,Morocco,80,80,12000000,29000,['Especialista Oculto'],78.66666667,6.54E-06,1.273128468,0.978756248
+459,Portu,26,Girona FC,Mediocampista,Spain,80,81,17500000,37000,['Especialista Oculto'],79.5,4.53E-06,-0.069698801,0.757511831
+461,E. Zahavi,30,Guangzhou R&F; FC,Atacante,Israel,80,80,14500000,24000,['Especialista Oculto'],79.83333333,5.50E-06,0.303371338,0.129972167
+464,Héctor Bellerín,23,Arsenal,Defensor,Spain,80,85,16500000,85000,['Especialista Oculto'],71,4.28E-06,-0.785693717,-1.194793402
+465,P. Kade?ábek,26,TSG 1899 Hoffenheim,Defensor,Czech Republic,80,81,14000000,39000,['Especialista Oculto'],75.83333333,5.40E-06,0.037835157,0.78975193
+467,J. Vestergaard,25,Southampton,Defensor,Denmark,80,81,14500000,51000,['Especialista Oculto'],83.66666667,5.75E-06,2.508421779,2.20728431
+468,J. Tarkowski,25,Burnley,Defensor,England,80,83,15500000,56000,['Especialista Oculto'],79.33333333,5.10E-06,1.684892905,0.978756248
+469,Deulofeu,24,Watford,Atacante,Spain,80,82,18500000,56000,['Especialista Oculto'],75.66666667,4.08E-06,-0.467575304,-0.916893364
+470,E. Dier,24,Tottenham Hotspur,Mediocampista,England,80,84,16500000,73000,"['Especialista Oculto', 'Especialista Oculto']",72.33333333,4.36E-06,1.676090224,2.219901628
+471,J. Murillo,26,Valencia CF,Defensor,Colombia,80,84,16000000,38000,['Especialista Oculto'],77.83333333,4.85E-06,0.037835157,0.884254089
+472,M. Badelj,29,Lazio,Mediocampista,Croatia,80,80,11500000,53000,['Especialista Oculto'],77.16666667,6.68E-06,1.239642967,0.757511831
+473,Ismaily,28,Shakhtar Donetsk,Defensor,Brazil,80,80,11500000,1000,['Especialista Oculto'],74.16666667,6.45E-06,-0.785693717,0.411743296
+474,N. Schulz,25,TSG 1899 Hoffenheim,Defensor,Germany,80,81,14500000,37000,['Especialista Oculto'],72,4.95E-06,-0.37392928,0.506245454
+475,L. Digne,24,Everton,Defensor,France,80,84,16000000,79000,"['Especialista Oculto', 'Especialista Oculto']",74.16666667,4.61E-06,-0.785693717,-0.155269657
+478,D. Vida,29,Be?ikta? JK,Defensor,Croatia,80,80,11500000,55000,['Especialista Oculto'],79.33333333,6.87E-06,0.037835157,0.600747613
+482,S. Aurier,25,Tottenham Hotspur,Defensor,Ivory Coast,80,83,15500000,82000,"['Especialista Oculto', 'Especialista Oculto']",77.5,4.97E-06,-1.197458154,0.317241137
+483,J. Matip,26,Liverpool,Defensor,Cameroon,80,82,15000000,99000,['Especialista Oculto'],81,5.36E-06,1.684892905,0.600747613
+484,Y. Rakitskyi,28,Shakhtar Donetsk,Defensor,Ukraine,80,80,12000000,1000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",78.66666667,6.56E-06,0.449599594,1.262262724
+486,A. Yarmolenko,28,West Ham United,Mediocampista,Ukraine,80,80,15000000,92000,['Especialista Oculto'],76.5,5.07E-06,2.11253748,1.163731219
+487,Hugo Mallo,27,RC Celta,Defensor,Spain,80,81,13500000,27000,"['Especialista Oculto', 'Especialista Oculto']",74.16666667,5.48E-06,-1.197458154,-0.155269657
+488,André Almeida,27,SL Benfica,Defensor,Portugal,80,80,12000000,15000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,6.64E-06,0.449599594,0.695249772
+490,R. Rodríguez,25,Milan,Defensor,Switzerland,80,83,15500000,81000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",76.16666667,4.89E-06,-0.37392928,0.411743296
+492,Mario Gaspar,27,Villarreal CF,Defensor,Spain,80,80,12000000,35000,"['Especialista Oculto', 'Especialista Oculto']",77.5,6.44E-06,0.037835157,0.78975193
+494,D. Blind,28,Ajax,Defensor,Netherlands,80,80,12000000,22000,"['Especialista Oculto', 'Especialista Oculto']",78.66666667,6.54E-06,-0.37392928,0.317241137
+496,A. Ljaji?,26,Be?ikta? JK,Mediocampista,Serbia,80,81,17500000,52000,['Especialista Oculto'],77.33333333,4.41E-06,0.803195711,-0.298658577
+497,Canales,27,Real Betis,Mediocampista,Spain,80,80,15500000,30000,"['Especialista Oculto', 'Especialista Oculto']",74.5,4.80E-06,0.366748455,-0.461146332
+502,Susaeta,30,Athletic Club de Bilbao,Atacante,Spain,80,80,14000000,33000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",77,5.49E-06,-0.467575304,-0.617788927
+503,S. Rudy,28,FC Schalke 04,Mediocampista,Germany,80,80,12000000,37000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,6.63E-06,-0.069698801,0.351292443
+507,R. Boudebouz,28,Real Betis,Mediocampista,Algeria,80,80,15000000,31000,"['Especialista Oculto', 'Especialista Oculto']",79,5.26E-06,-0.069698801,-0.054926944
+510,M. Musacchio,27,Milan,Defensor,Argentina,80,80,12500000,85000,['Especialista Oculto'],80,6.36E-06,-0.37392928,0.506245454
+513,Bruno,34,Villarreal CF,Mediocampista,Spain,80,80,7000000,39000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",76,1.08E-05,0.803195711,0.838755709
+514,F. Delph,28,Manchester City,Defensor,England,80,80,11500000,120000,['Especialista Oculto'],74,6.37E-06,-1.197458154,-0.533278291
+517,S. Coleman,29,Everton,Defensor,Republic of Ireland,80,80,11000000,97000,"['Especialista Oculto', 'Especialista Oculto']",76.66666667,6.91E-06,-0.785693717,-0.155269657
+519,Antunes,31,Getafe CF,Defensor,Portugal,80,80,9500000,27000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",74,7.77E-06,-1.197458154,-0.249771815
+520,Nacho Monreal,32,Arsenal,Defensor,Spain,80,80,8000000,99000,['Especialista Oculto'],77.16666667,9.53E-06,-0.785693717,-0.533278291
+521,Beñat,31,Athletic Club de Bilbao,Mediocampista,Spain,80,80,12500000,30000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",78.33333333,6.25E-06,-0.069698801,0.676267954
+522,A. Fernández,32,Beijing Renhe FC,Mediocampista,Argentina,80,80,11000000,20000,['Especialista Oculto'],79.5,7.21E-06,-0.069698801,0.919999586
+525,V. Birsa,31,Chievo Verona,Mediocampista,Slovenia,80,80,13000000,23000,['Especialista Oculto'],81,6.22E-06,0.803195711,1.244975097
+527,D. Criscito,31,Genoa,Defensor,Italy,80,80,10000000,21000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",77.16666667,7.70E-06,0.037835157,0.222738978
+528,D. Valeri,32,Portland Timbers,Atacante,Argentina,80,80,11500000,12000,['Especialista Oculto'],82.33333333,7.15E-06,-0.467575304,-0.24390838
+530,Raúl García,31,Athletic Club de Bilbao,Mediocampista,Spain,80,80,13000000,30000,['Especialista Oculto'],80.33333333,6.17E-06,0.803195711,1.651194485
+531,S. Defour,30,Burnley,Mediocampista,Belgium,80,80,13500000,65000,"['Especialista Oculto', 'Especialista Oculto']",79.66666667,5.87E-06,-0.506146058,0.513780199
+532,M. Škrtel,33,Fenerbahçe SK,Defensor,Slovakia,80,80,6000000,68000,['Especialista Oculto'],79.83333333,1.32E-05,1.273128468,1.451267041
+533,S. Radu,31,Lazio,Defensor,Romania,80,80,10000000,51000,['Especialista Oculto'],79.83333333,7.94E-06,0.037835157,0.317241137
+534,G. Cahill,32,Chelsea,Defensor,England,80,80,8500000,99000,['Especialista Oculto'],81,9.42E-06,1.684892905,0.78975193
+535,L. Diarra,33,Paris Saint-Germain,Mediocampista,France,80,80,6000000,75000,['Especialista Oculto'],78.83333333,1.30E-05,-0.506146058,0.513780199
+536,L. Perrin,32,AS Saint-Étienne,Defensor,France,80,80,8500000,37000,['Especialista Oculto'],79.83333333,9.35E-06,-0.37392928,0.695249772
+537,Dante,34,OGC Nice,Defensor,Brazil,80,80,4500000,37000,['Especialista Oculto'],80,1.76E-05,0.861364031,0.978756248
+538,A. Granqvist,33,Agente Libre,Defensor,Sweden,80,80,0,0,"['Especialista Oculto', 'Talento Infravalorado']",81.16666667,81.16666667,1.684892905,1.167760565
+543,Juanfran,33,Atlético Madrid,Defensor,Spain,80,80,5500000,53000,"['Especialista Oculto', 'Especialista Oculto']",74.5,1.34E-05,-0.37392928,0.317241137
+545,Santi Cazorla,33,Villarreal CF,Mediocampista,Spain,80,80,8500000,39000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",80.33333333,9.41E-06,-1.815487826,-0.623634087
+546,Jesús Navas,32,Sevilla FC,Mediocampista,Spain,80,80,11500000,22000,['Especialista Oculto'],76.66666667,6.65E-06,-1.37904057,-2.167267761
+547,J. Mascherano,34,Hebei China Fortune FC,Mediocampista,Argentina,80,80,4500000,20000,['Especialista Oculto'],73.66666667,1.63E-05,-0.506146058,0.838755709
+549,D. Srna,36,Cagliari,Defensor,Croatia,80,80,1700000,27000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",75,4.34E-05,-0.785693717,0.128236819
+550,B. Schweinsteiger,33,Chicago Fire,Defensor,Germany,80,80,6000000,11000,['Especialista Oculto'],76.33333333,1.27E-05,0.037835157,0.411743296
+552,W. Rooney,32,DC United,Atacante,England,80,80,12000000,13000,"['Especialista Oculto', 'Especialista Oculto']",82.16666667,6.84E-06,-0.853048625,0.87773326
+566,Antônio Chiamuloira,30,Internacional,Defensor,Brazil,79,79,9500000,30000,['Especialista Oculto'],78.66666667,8.25E-06,0.037835157,0.978756248
+567,Maikel Catarino,34,Atlético Mineiro,Defensor,Brazil,79,79,3600000,38000,['Especialista Oculto'],74.33333333,2.04E-05,-0.785693717,-0.816784767
+568,A. Lunev,26,Agente Libre,Portero,Russia,79,81,0,0,['Talento Infravalorado'],76.8,76.8,-0.048748395,0.845775992
+573,Marcos Llorente,23,Real Madrid,Mediocampista,Spain,79,87,16000000,110000,['Especialista Oculto'],76.16666667,4.73E-06,0.803195711,0.838755709
+576,A. Diallo,22,Borussia Dortmund,Defensor,France,79,86,15000000,43000,"['Especialista Oculto', 'Especialista Oculto']",78.16666667,5.20E-06,0.449599594,0.695249772
+577,A. Golovin,22,AS Monaco,Mediocampista,Russia,79,85,17000000,61000,['Especialista Oculto'],81.83333333,4.80E-06,0.366748455,-0.623634087
+579,C. Pavón,22,Boca Juniors,Atacante,Argentina,79,85,17500000,27000,['Especialista Oculto'],75.83333333,4.33E-06,-0.853048625,0.503852713
+581,Granell,29,Girona FC,Defensor,Spain,79,79,12000000,37000,['Especialista Oculto'],65.83333333,5.47E-06,-1.197458154,-0.62778045
+583,J. Weigl,22,Borussia Dortmund,Mediocampista,Germany,79,84,14500000,43000,['Especialista Oculto'],79.16666667,5.44E-06,1.239642967,0.107560811
+590,D. Zappacosta,26,Chelsea,Defensor,Italy,79,81,12500000,94000,"['Especialista Oculto', 'Especialista Oculto']",73.83333333,5.86E-06,0.037835157,-0.249771815
+593,I. Marcone,28,Cruz Azul,Mediocampista,Argentina,79,80,11500000,31000,['Especialista Oculto'],75.5,6.55E-06,0.803195711,1.894926117
+595,J. Lerma,23,Bournemouth,Mediocampista,Colombia,79,84,14500000,55000,['Especialista Oculto'],74.16666667,5.10E-06,-0.069698801,1.163731219
+597,R. Zobnin,24,Spartak Moscow,Mediocampista,Russia,79,86,15000000,1000,['Especialista Oculto'],80.66666667,5.38E-06,0.803195711,0.107560811
+601,Jonny,24,Wolverhampton Wanderers,Defensor,Spain,79,83,13500000,43000,['Especialista Oculto'],73.5,5.43E-06,-2.020987028,-0.62778045
+603,J. Hofmann,25,Borussia Mönchengladbach,Mediocampista,Germany,79,80,15000000,32000,['Especialista Oculto'],77.33333333,5.14E-06,-0.506146058,-0.461146332
+604,N. Aké,23,Bournemouth,Defensor,Netherlands,79,84,14500000,55000,['Especialista Oculto'],77.66666667,5.34E-06,-0.37392928,0.411743296
+605,J. Hector,28,1. FC Köln,Defensor,Germany,79,79,10000000,26000,"['Especialista Oculto', 'Especialista Oculto']",77.16666667,7.70E-06,0.449599594,0.506245454
+606,S. Kolašinac,25,Arsenal,Defensor,Bosnia Herzegovina,79,82,13000000,89000,['Especialista Oculto'],78,5.96E-06,0.037835157,1.829275676
+610,L. Milivojevi?,27,Crystal Palace,Mediocampista,Serbia,79,81,12500000,56000,['Especialista Oculto'],74.5,5.93E-06,1.239642967,1.651194485
+611,D. Baselli,26,Torino,Mediocampista,Italy,79,82,15500000,49000,['Especialista Oculto'],79,5.08E-06,0.803195711,0.432536321
+612,K. Rekik,23,Hertha BSC,Defensor,Netherlands,79,83,14000000,26000,['Especialista Oculto'],77.83333333,5.55E-06,0.449599594,0.884254089
+613,Denis Suárez,24,FC Barcelona,Mediocampista,Spain,79,86,17500000,120000,['Especialista Oculto'],78.66666667,4.46E-06,-0.506146058,-0.379902455
+615,Mário Rui,27,Napoli,Defensor,Portugal,79,80,11500000,60000,['Especialista Oculto'],69.33333333,6.00E-06,-2.020987028,-1.572802037
+616,Iñigo Martínez,27,Athletic Club de Bilbao,Defensor,Spain,79,80,12000000,26000,"['Especialista Oculto', 'Especialista Oculto']",77,6.40E-06,0.037835157,0.695249772
+617,K. Zouma,23,Everton,Defensor,France,79,83,14000000,80000,['Especialista Oculto'],79.16666667,5.62E-06,1.273128468,1.923777834
+625,Sergi Darder,24,RCD Espanyol,Mediocampista,Spain,79,83,16000000,29000,['Especialista Oculto'],79.16666667,4.94E-06,0.366748455,0.513780199
+626,J. Roussillon,25,VfL Wolfsburg,Defensor,France,79,84,14000000,44000,['Especialista Oculto'],74.5,5.30E-06,-1.197458154,0.600747613
+627,D. Demme,26,RB Leipzig,Mediocampista,Germany,79,80,12000000,50000,['Especialista Oculto'],78.16666667,6.49E-06,-1.37904057,0.432536321
+628,J. Gouweleeuw,26,FC Augsburg,Defensor,Netherlands,79,80,12000000,28000,['Especialista Oculto'],79.16666667,6.58E-06,0.861364031,0.695249772
+629,M. Rojo,28,Manchester United,Defensor,Argentina,79,79,10000000,115000,['Especialista Oculto'],77.33333333,7.65E-06,0.861364031,0.600747613
+630,J. Veretout,25,Fiorentina,Mediocampista,France,79,84,16500000,59000,['Especialista Oculto'],79.33333333,4.79E-06,-0.506146058,0.513780199
+631,L. Kurzawa,25,Paris Saint-Germain,Defensor,France,79,82,13000000,68000,"['Especialista Oculto', 'Especialista Oculto']",75.33333333,5.76E-06,0.037835157,0.128236819
+632,G. Ramírez,27,Sampdoria,Mediocampista,Uruguay,79,79,13000000,41000,['Especialista Oculto'],76.83333333,5.89E-06,0.803195711,-0.704877965
+635,A. Mandi,26,Real Betis,Defensor,Algeria,79,82,13000000,26000,['Especialista Oculto'],78.5,6.03E-06,0.037835157,0.317241137
+637,Y. Konoplyanka,28,FC Schalke 04,Atacante,Ukraine,79,79,12500000,41000,['Especialista Oculto'],76.66666667,6.11E-06,-0.467575304,-0.24390838
+638,S. Berghuis,26,Feyenoord,Atacante,Netherlands,79,80,15000000,20000,['Especialista Oculto'],77.16666667,5.14E-06,0.303371338,-0.617788927
+639,H. Vanaken,25,Club Brugge KV,Mediocampista,Belgium,79,81,15500000,27000,"['Especialista Oculto', 'Especialista Oculto']",83,5.35E-06,2.985431992,1.163731219
+640,Campaña,25,Levante UD,Mediocampista,Spain,79,82,15500000,28000,"['Especialista Oculto', 'Especialista Oculto']",79.33333333,5.11E-06,-0.069698801,0.919999586
+641,M. van Ginkel,25,Chelsea,Mediocampista,Netherlands,79,80,14500000,98000,['Especialista Oculto'],79.16666667,5.42E-06,1.239642967,0.757511831
+642,Nolito,31,Sevilla FC,Mediocampista,Spain,79,79,11000000,21000,['Especialista Oculto'],77.83333333,7.06E-06,-0.506146058,0.107560811
+643,M. Gregoritsch,24,FC Augsburg,Mediocampista,Austria,79,82,16000000,27000,['Especialista Oculto'],72.83333333,4.54E-06,2.548984736,1.407462852
+644,Ibai Gómez,28,Deportivo Alavés,Mediocampista,Spain,79,79,12500000,31000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",75.83333333,6.05E-06,-0.069698801,0.351292443
+645,Danilo,26,Manchester City,Defensor,Brazil,79,80,12000000,110000,['Especialista Oculto'],76.66666667,6.33E-06,0.037835157,0.506245454
+646,R. Barkley,24,Chelsea,Mediocampista,England,79,82,16000000,89000,['Especialista Oculto'],79.83333333,4.96E-06,1.239642967,1.244975097
+649,B. Stambouli,27,FC Schalke 04,Defensor,France,79,79,10500000,33000,['Especialista Oculto'],78.33333333,7.44E-06,-0.37392928,0.506245454
+650,J. Guilavogui,27,VfL Wolfsburg,Mediocampista,France,79,80,12000000,46000,['Especialista Oculto'],72.33333333,6.00E-06,1.676090224,1.651194485
+651,Sérgio Oliveira,26,FC Porto,Mediocampista,Portugal,79,82,15500000,17000,"['Especialista Oculto', 'Especialista Oculto']",78.16666667,5.04E-06,0.366748455,0.270048566
+652,D. Caligiuri,30,FC Schalke 04,Defensor,Italy,79,79,9000000,33000,['Especialista Oculto'],72,7.97E-06,0.037835157,-0.060767498
+654,P. Jones,26,Manchester United,Defensor,England,79,80,12000000,110000,['Especialista Oculto'],78.5,6.48E-06,0.449599594,0.78975193
+655,Borja García,27,Girona FC,Mediocampista,Spain,79,79,13000000,35000,['Especialista Oculto'],75,5.75E-06,-0.506146058,0.432536321
+656,Y. Belhanda,28,Galatasaray SK,Mediocampista,Morocco,79,79,12500000,65000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,6.35E-06,-0.069698801,0.107560811
+657,G. Pezzella,27,Fiorentina,Defensor,Argentina,79,81,12500000,56000,['Especialista Oculto'],79.33333333,6.32E-06,0.449599594,0.600747613
+658,Jaume Costa,30,Villarreal CF,Defensor,Spain,79,79,9000000,34000,"['Especialista Oculto', 'Especialista Oculto']",72.33333333,8.01E-06,-2.020987028,-0.722282609
+660,Escudero,28,Sevilla FC,Mediocampista,Spain,79,79,10000000,20000,"['Especialista Oculto', 'Especialista Oculto']",71.33333333,7.12E-06,-0.506146058,0.595024076
+662,Elkeson,28,Shanghai SIPG FC,Atacante,Brazil,79,79,13000000,25000,['Especialista Oculto'],77.66666667,5.96E-06,-0.082101983,0.802957151
+664,J. Guðmundsson,27,Burnley,Mediocampista,Iceland,79,79,13000000,61000,"['Especialista Oculto', 'Especialista Oculto']",79,6.05E-06,-0.069698801,0.676267954
+665,N. Clyne,27,Liverpool,Defensor,England,79,80,11500000,94000,['Especialista Oculto'],74.66666667,6.44E-06,-1.197458154,-0.344273974
+668,B. Mee,28,Burnley,Defensor,England,79,79,10000000,58000,['Especialista Oculto'],79.16666667,7.87E-06,0.037835157,1.073258406
+670,Iborra,30,Leicester City,Mediocampista,Spain,79,79,9500000,66000,['Especialista Oculto'],75.5,7.89E-06,2.11253748,1.81368224
+671,J. Wilshere,26,West Ham United,Mediocampista,England,79,81,15000000,83000,['Especialista Oculto'],79.33333333,5.26E-06,-0.942593314,-0.136170822
+672,B. Hübner,28,TSG 1899 Hoffenheim,Defensor,Germany,79,79,10000000,39000,['Especialista Oculto'],81,8.07E-06,1.684892905,0.78975193
+674,F. Coquelin,27,Valencia CF,Mediocampista,France,79,80,12000000,36000,['Especialista Oculto'],74.33333333,6.18E-06,-0.069698801,1.407462852
+677,I. Smolnikov,29,Agente Libre,Defensor,Russia,79,79,0,0,"['Especialista Oculto', 'Talento Infravalorado']",72.5,72.5,-0.785693717,-0.249771815
+678,Y. M'Vila,28,AS Saint-Étienne,Mediocampista,France,79,80,11500000,36000,['Especialista Oculto'],76.33333333,6.62E-06,0.803195711,1.082487342
+679,K. Asamoah,29,Inter,Defensor,Ghana,79,79,9500000,62000,"['Especialista Oculto', 'Especialista Oculto']",76.16666667,7.97E-06,-1.609222591,0.411743296
+681,D. Drinkwater,28,Chelsea,Mediocampista,England,79,79,12500000,110000,['Especialista Oculto'],77.83333333,6.17E-06,-0.069698801,0.595024076
+683,Mariano,32,Galatasaray SK,Defensor,Brazil,79,79,7000000,57000,"['Especialista Oculto', 'Especialista Oculto']",70.16666667,9.94E-06,-0.785693717,-0.060767498
+685,Adrien Silva,29,Leicester City,Mediocampista,Portugal,79,79,12000000,75000,['Especialista Oculto'],77.5,6.42E-06,-0.506146058,-0.2174147
+686,Fernando,30,Galatasaray SK,Mediocampista,Brazil,79,79,9500000,57000,['Especialista Oculto'],74.16666667,7.76E-06,0.803195711,1.488706729
+687,I. Traoré,30,Borussia Mönchengladbach,Mediocampista,Guinea,79,79,12000000,34000,['Especialista Oculto'],76.5,6.36E-06,-1.37904057,-1.517316741
+688,G. Mercado,31,Sevilla FC,Defensor,Argentina,79,79,8500000,19000,['Especialista Oculto'],77.83333333,9.14E-06,-0.37392928,1.073258406
+691,M. Sakho,28,Crystal Palace,Defensor,France,79,80,11500000,58000,['Especialista Oculto'],78.66666667,6.81E-06,0.861364031,1.923777834
+694,Eder,31,Jiangsu Suning FC,Atacante,Italy,79,79,11500000,29000,['Especialista Oculto'],80,6.94E-06,-0.467575304,-0.468236708
+701,P. Wernbloom,32,PAOK,Mediocampista,Sweden,79,79,7000000,1000,['Especialista Oculto'],75.5,1.08E-05,1.676090224,1.976169995
+705,N. ?ahin,29,SV Werder Bremen,Mediocampista,Turkey,79,79,10000000,32000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",77.83333333,7.76E-06,0.366748455,0.757511831
+706,R. Bertrand,28,Southampton,Defensor,England,79,79,10000000,53000,"['Especialista Oculto', 'Especialista Oculto']",74.66666667,7.43E-06,-0.785693717,-0.060767498
+707,A. Masiello,32,Atalanta,Defensor,Italy,79,79,7000000,30000,['Especialista Oculto'],79.16666667,1.13E-05,0.037835157,0.411743296
+712,D. Abraham,31,Eintracht Frankfurt,Defensor,Argentina,79,79,8500000,37000,['Especialista Oculto'],78.33333333,9.18E-06,0.861364031,0.884254089
+713,E. Lavezzi,33,Hebei China Fortune FC,Mediocampista,Argentina,79,79,8000000,22000,['Especialista Oculto'],79,9.85E-06,-0.942593314,0.757511831
+715,J. Farfán,33,Lokomotiv Moscow,Mediocampista,Peru,79,79,7500000,1000,['Especialista Oculto'],77.16666667,1.03E-05,-0.069698801,1.326218974
+717,A. Young,32,Manchester United,Defensor,England,79,79,7000000,110000,['Especialista Oculto'],72,1.01E-05,-1.197458154,-0.344273974
+720,D. Baier,34,FC Augsburg,Mediocampista,Germany,79,79,3800000,28000,['Especialista Oculto'],78.66666667,2.06E-05,-0.506146058,0.432536321
+723,S. Lichtsteiner,34,Arsenal,Defensor,Switzerland,79,79,3600000,94000,['Especialista Oculto'],76.5,2.07E-05,0.037835157,-0.060767498
+725,E. Belözo?lu,37,Medipol Ba?ak?ehir FK,Mediocampista,Turkey,79,79,4000000,23000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto', 'Maestro Veterano']",78.83333333,1.96E-05,-1.37904057,0.270048566
+727,Éder Militão,20,FC Porto,Defensor,Brazil,78,87,14000000,10000,['Especialista Oculto'],76.5,5.46E-06,0.449599594,0.506245454
+735,T. Alexander-Arnold,19,Liverpool,Defensor,England,78,88,14000000,36000,['Especialista Oculto'],70.5,5.02E-06,-0.37392928,-0.816784767
+736,F. Krovinovi?,22,SL Benfica,Mediocampista,Croatia,78,84,14000000,12000,['Especialista Oculto'],78.83333333,5.63E-06,-0.069698801,-0.136170822
+737,Sidney Pessinho,26,Internacional,Mediocampista,Brazil,78,78,9000000,27000,['Especialista Oculto'],72.16666667,7.99E-06,1.676090224,2.13865775
+740,Ronaldo Esler,30,Atlético Mineiro,Defensor,Brazil,78,78,7500000,34000,['Anomalía Física'],66.66666667,8.85E-06,-2.432751465,-3.557347369
+741,P. Lees-Melou,25,OGC Nice,Mediocampista,France,78,80,12500000,33000,['Especialista Oculto'],79.5,6.34E-06,1.239642967,0.757511831
+742,B. Chilwell,21,Leicester City,Defensor,England,78,85,12500000,43000,['Especialista Oculto'],71.83333333,5.73E-06,-0.785693717,-0.249771815
+743,João Novais,24,SC Braga,Mediocampista,Portugal,78,81,13000000,15000,['Especialista Oculto'],79.16666667,6.08E-06,0.803195711,0.513780199
+744,D. Calabria,21,Milan,Defensor,Italy,78,88,14500000,52000,['Especialista Oculto'],72.5,4.98E-06,-1.197458154,-0.62778045
+746,L. Pellegrini,22,Roma,Mediocampista,Italy,78,84,14000000,51000,['Especialista Oculto'],78,5.55E-06,1.239642967,0.595024076
+754,Vallejo,21,Real Madrid,Defensor,Spain,78,86,13500000,81000,['Especialista Oculto'],76.5,5.63E-06,0.037835157,-0.155269657
+757,Joan Jordán,23,SD Eibar,Mediocampista,Spain,78,83,13500000,22000,['Especialista Oculto'],75.16666667,5.56E-06,0.803195711,0.351292443
+761,V. Rongier,23,FC Nantes,Mediocampista,France,78,83,14000000,25000,['Especialista Oculto'],77.33333333,5.51E-06,-0.942593314,-0.54239021
+764,M. Nakamba,24,Club Brugge KV,Mediocampista,Zimbabwe,78,83,12000000,20000,['Especialista Oculto'],74.33333333,6.18E-06,-0.506146058,1.488706729
+765,Petros,29,Al Nassr,Mediocampista,Brazil,78,78,10000000,43000,"['Especialista Oculto', 'Especialista Oculto']",79,7.87E-06,0.366748455,0.757511831
+766,Pablo Maffeo,20,VfB Stuttgart,Defensor,Spain,78,86,13000000,24000,"['Especialista Oculto', 'Especialista Oculto']",70.5,5.41E-06,-1.609222591,-0.533278291
+770,D. Djené,26,Getafe CF,Defensor,Togo,78,79,10000000,23000,['Especialista Oculto'],76.33333333,7.62E-06,-1.197458154,-0.060767498
+775,Y. Tielemans,21,AS Monaco,Mediocampista,Belgium,78,87,16000000,47000,['Especialista Oculto'],78.33333333,4.88E-06,-0.506146058,0.595024076
+776,Marcelo Goiano,30,SC Braga,Defensor,Brazil,78,78,7500000,15000,['Especialista Oculto'],72.5,9.65E-06,-1.197458154,-0.62778045
+777,K. Tete,22,Olympique Lyonnais,Defensor,Netherlands,78,83,11500000,47000,['Especialista Oculto'],76.16666667,6.60E-06,-0.37392928,0.506245454
+778,Capa,26,Athletic Club de Bilbao,Defensor,Spain,78,81,10500000,23000,['Especialista Oculto'],71.33333333,6.78E-06,-1.197458154,0.884254089
+781,N. Maksimovi?,26,Napoli,Defensor,Serbia,78,81,11000000,54000,['Especialista Oculto'],79.16666667,7.16E-06,1.684892905,1.451267041
+784,E. Rigoni,25,Atalanta,Mediocampista,Argentina,78,81,13000000,29000,['Especialista Oculto'],76.16666667,5.85E-06,-0.069698801,-0.298658577
+785,C. Izquierdoz,29,Boca Juniors,Defensor,Argentina,78,78,8000000,25000,['Especialista Oculto'],79.16666667,9.87E-06,0.449599594,0.884254089
+787,J. Mojica,25,Girona FC,Defensor,Colombia,78,81,10500000,28000,"['Especialista Oculto', 'Especialista Oculto']",68.66666667,6.52E-06,0.449599594,-0.060767498
+794,L. Dendoncker,23,Wolverhampton Wanderers,Defensor,Belgium,78,84,12000000,18000,['Especialista Oculto'],78.33333333,6.52E-06,0.861364031,1.5457692
+795,Ricardo Esgaio,25,SC Braga,Mediocampista,Portugal,78,80,12500000,16000,['Especialista Oculto'],80.16666667,6.41E-06,-0.942593314,-0.2174147
+797,P. Max,24,FC Augsburg,Defensor,Germany,78,81,11000000,22000,['Especialista Oculto'],69.33333333,6.29E-06,-0.785693717,-0.438776133
+799,Pere Pons,25,Girona FC,Mediocampista,Spain,78,83,13500000,31000,['Especialista Oculto'],76.66666667,5.67E-06,-0.069698801,0.513780199
+801,M. Halstenberg,26,RB Leipzig,Defensor,Germany,78,79,10000000,45000,['Especialista Oculto'],77.5,7.72E-06,0.861364031,0.695249772
+802,J. Quintero,25,River Plate,Mediocampista,Colombia,78,80,12500000,15000,['Especialista Oculto'],74.66666667,5.97E-06,-1.815487826,-1.923536129
+804,Óliver Torres,23,FC Porto,Mediocampista,Spain,78,83,13500000,13000,['Especialista Oculto'],79.83333333,5.91E-06,-0.506146058,-1.923536129
+805,Omar Mascarell,25,FC Schalke 04,Mediocampista,Spain,78,80,10500000,29000,['Especialista Oculto'],77.33333333,7.34E-06,0.366748455,1.082487342
+806,H. Sakai,28,Olympique de Marseille,Defensor,Japan,78,78,8000000,44000,['Especialista Oculto'],74.83333333,9.30E-06,0.037835157,0.317241137
+807,Andreas Pereira,22,Manchester United,Mediocampista,Brazil,78,84,14000000,91000,['Especialista Oculto'],78.16666667,5.55E-06,-0.069698801,0.513780199
+809,B. Cristante,23,Roma,Mediocampista,Italy,78,86,15000000,26000,['Especialista Oculto'],76.16666667,5.07E-06,1.239642967,0.676267954
+814,M. Arnold,24,VfL Wolfsburg,Mediocampista,Germany,78,83,13500000,40000,['Especialista Oculto'],77.16666667,5.70E-06,0.803195711,0.432536321
+815,M. De Sciglio,25,Juventus,Defensor,Italy,78,81,10500000,78000,['Especialista Oculto'],73.5,6.95E-06,0.037835157,-0.249771815
+817,V. Chiriche?,28,Napoli,Defensor,Romania,78,78,8500000,57000,['Especialista Oculto'],77.16666667,9.02E-06,0.037835157,0.128236819
+822,F. Fajr,29,Stade Malherbe Caen,Mediocampista,Morocco,78,78,10000000,28000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",73.83333333,7.36E-06,-0.069698801,0.432536321
+829,A. Trebel,27,RSC Anderlecht,Mediocampista,France,78,79,11500000,23000,['Especialista Oculto'],77.5,6.73E-06,-0.506146058,0.595024076
+831,T. Kongolo,24,Huddersfield Town,Defensor,Netherlands,78,83,12000000,39000,['Especialista Oculto'],76,6.31E-06,0.861364031,0.78975193
+833,Álvaro,28,Villarreal CF,Defensor,Spain,78,79,9500000,32000,['Especialista Oculto'],76,7.97E-06,0.037835157,0.317241137
+835,Fernando,26,Spartak Moscow,Mediocampista,Brazil,78,81,11000000,1000,"['Especialista Oculto', 'Especialista Oculto']",75.33333333,6.85E-06,-0.506146058,0.595024076
+838,Pedro Mendes,27,Montpellier HSC,Defensor,Portugal,78,80,10000000,26000,['Especialista Oculto'],77.5,7.73E-06,0.449599594,0.78975193
+839,C. Schindler,28,Huddersfield Town,Defensor,Germany,78,80,10000000,48000,['Especialista Oculto'],78.66666667,7.83E-06,0.861364031,0.695249772
+840,N. Chadli,28,AS Monaco,Mediocampista,Belgium,78,78,10500000,66000,['Especialista Oculto'],78,7.38E-06,1.676090224,1.732438362
+841,Arbilla,31,SD Eibar,Defensor,Spain,78,78,7000000,23000,"['Especialista Oculto', 'Especialista Oculto']",75.83333333,1.08E-05,-0.785693717,0.695249772
+842,L. Dunk,26,Brighton & Hove Albion,Defensor,England,78,81,11000000,46000,['Especialista Oculto'],78.5,7.11E-06,1.684892905,1.073258406
+843,P. Hernández,31,Independiente,Mediocampista,Chile,78,78,9000000,24000,['Especialista Oculto'],75.66666667,8.39E-06,1.239642967,1.488706729
+844,J. Guidetti,26,Deportivo Alavés,Atacante,Sweden,78,81,13000000,29000,['Especialista Oculto'],78.66666667,6.04E-06,0.688844659,1.176837698
+845,Sergi Gómez,26,Sevilla FC,Defensor,Spain,78,83,11500000,17000,['Especialista Oculto'],78.33333333,6.80E-06,0.449599594,0.695249772
+847,Lucas Pérez,29,West Ham United,Atacante,Spain,78,78,10500000,85000,['Especialista Oculto'],79,7.46E-06,-0.082101983,0.204748276
+848,B. Natcho,30,Olympiacos CFP,Mediocampista,Israel,78,78,9500000,1000,['Especialista Oculto'],77.33333333,8.14E-06,-0.069698801,0.676267954
+851,G. Krychowiak,28,Lokomotiv Moscow,Mediocampista,Poland,78,79,9500000,1000,['Especialista Oculto'],74,7.79E-06,1.239642967,1.732438362
+852,N. Lodeiro,29,Seattle Sounders FC,Mediocampista,Uruguay,78,78,10000000,11000,"['Especialista Oculto', 'Especialista Oculto']",80.16666667,8.01E-06,-1.37904057,-0.054926944
+853,O. Özyakup,25,Be?ikta? JK,Mediocampista,Turkey,78,81,13000000,47000,"['Especialista Oculto', 'Especialista Oculto']",79.83333333,6.12E-06,0.366748455,0.026316933
+855,K. Papadopoulos,26,Hamburger SV,Defensor,Greece,78,80,10500000,16000,['Especialista Oculto'],78.16666667,7.43E-06,0.449599594,1.829275676
+857,M. Debuchy,32,AS Saint-Étienne,Defensor,France,78,78,5500000,31000,['Especialista Oculto'],76,1.37E-05,-1.197458154,0.128236819
+859,Z. Junuzovi?,30,FC Red Bull Salzburg,Mediocampista,Austria,78,78,9500000,39000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",80.66666667,8.46E-06,-0.942593314,0.270048566
+860,Granero,30,RCD Espanyol,Mediocampista,Spain,78,78,9500000,30000,['Especialista Oculto'],73.66666667,7.73E-06,0.366748455,0.513780199
+862,Fábio Coentrão,30,Rio Ave FC,Atacante,Portugal,78,78,10000000,13000,"['Especialista Oculto', 'Especialista Oculto']",75,7.49E-06,-0.467575304,-0.019580052
+865,N. Gudelj,26,Sporting CP,Mediocampista,Serbia,78,80,10500000,19000,['Especialista Oculto'],75,7.13E-06,1.676090224,2.13865775
+867,E. Hernández,30,Cruz Azul,Mediocampista,Mexico,78,78,10000000,29000,['Especialista Oculto'],79.83333333,7.96E-06,-1.37904057,-0.298658577
+868,Jurado,32,Al Ahli,Mediocampista,Spain,78,78,8000000,41000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",74.33333333,9.24E-06,-0.506146058,-0.379902455
+869,R. Cabella,28,AS Saint-Étienne,Mediocampista,France,78,78,10500000,36000,['Especialista Oculto'],76.66666667,7.28E-06,-1.37904057,-0.948609598
+870,Rafael Tolói,27,Atalanta,Defensor,Brazil,78,80,10000000,27000,['Especialista Oculto'],77.33333333,7.71E-06,0.449599594,-0.155269657
+872,Hernanes,33,Hebei China Fortune FC,Mediocampista,Brazil,78,78,6000000,19000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",78.33333333,1.30E-05,0.366748455,0.838755709
+873,K. Honda,32,Melbourne Victory,Mediocampista,Japan,78,78,8000000,12000,"['Especialista Oculto', 'Especialista Oculto']",79.16666667,9.88E-06,0.803195711,0.595024076
+874,A. Dzyuba,29,Agente Libre,Atacante,Russia,78,78,0,0,['Talento Infravalorado'],76.16666667,76.16666667,2.230737942,1.999374901
+875,J. Holebas,34,Watford,Defensor,Greece,78,78,2900000,51000,['Especialista Oculto'],74.5,2.52E-05,0.449599594,0.222738978
+879,Daniel Carriço,29,Sevilla FC,Defensor,Portugal,78,78,8000000,18000,['Especialista Oculto'],76,9.48E-06,-0.37392928,0.600747613
+880,J. Cork,29,Burnley,Mediocampista,England,78,78,10000000,58000,['Especialista Oculto'],80.33333333,7.99E-06,0.803195711,1.244975097
+881,J. Tomkins,29,Crystal Palace,Defensor,England,78,79,9000000,53000,['Especialista Oculto'],78.66666667,8.69E-06,1.684892905,0.78975193
+884,J. Shelvey,26,Newcastle United,Mediocampista,England,78,80,12500000,50000,['Especialista Oculto'],78.5,6.25E-06,0.803195711,0.757511831
+885,R. Eremenko,31,Spartak Moscow,Mediocampista,Finland,78,78,9000000,1000,['Especialista Oculto'],79.16666667,8.80E-06,1.239642967,0.838755709
+886,R. Vormer,30,Club Brugge KV,Mediocampista,Netherlands,78,78,9500000,26000,"['Especialista Oculto', 'Especialista Oculto']",77.5,8.14E-06,-0.069698801,1.082487342
+887,J. Lens,30,Be?ikta? JK,Mediocampista,Netherlands,78,78,10000000,50000,['Especialista Oculto'],76.16666667,7.58E-06,-0.069698801,1.244975097
+888,Adriano,33,Be?ikta? JK,Defensor,Brazil,78,78,4000000,45000,"['Especialista Oculto', 'Especialista Oculto']",74,1.83E-05,-1.609222591,-0.344273974
+891,C. Ansaldi,31,Torino,Mediocampista,Argentina,78,78,7000000,54000,['Especialista Oculto'],78,1.11E-05,0.366748455,0.432536321
+893,R. Alessandrini,29,LA Galaxy,Mediocampista,France,78,78,10000000,11000,['Especialista Oculto'],75.83333333,7.58E-06,-0.942593314,-0.136170822
+894,J. Ward-Prowse,23,Southampton,Mediocampista,England,77,82,12000000,41000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",79.66666667,6.62E-06,-0.942593314,-0.379902455
+902,M. Dossevi,30,Toulouse Football Club,Mediocampista,Togo,77,77,8500000,30000,['Especialista Oculto'],74.66666667,8.75E-06,-0.942593314,-0.298658577
+905,Iván Ramis,33,SD Eibar,Defensor,Spain,77,77,3600000,22000,['Especialista Oculto'],77.5,2.14E-05,0.861364031,1.829275676
+908,E. Çolak,27,Al Wehda,Mediocampista,Turkey,77,77,9500000,27000,['Especialista Oculto'],75.33333333,7.91E-06,-1.37904057,-1.761048373
+914,J. Hendrix,23,PSV,Mediocampista,Netherlands,77,82,10000000,13000,['Especialista Oculto'],74.83333333,7.47E-06,0.366748455,0.919999586
+917,C. Grenier,27,Stade Rennais FC,Mediocampista,France,77,78,10000000,32000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",76.5,7.63E-06,1.239642967,0.919999586
+918,T. Strobl,28,Borussia Mönchengladbach,Mediocampista,Germany,77,77,7000000,27000,['Especialista Oculto'],67.16666667,9.56E-06,1.676090224,1.326218974
+919,V. Odjidja-Ofoe,29,KAA Gent,Mediocampista,Belgium,77,77,8500000,24000,['Especialista Oculto'],77.83333333,9.13E-06,0.803195711,1.732438362
+922,J. Maddison,21,Leicester City,Mediocampista,England,77,85,13000000,45000,['Especialista Oculto'],76.83333333,5.89E-06,-0.506146058,-1.761048373
+923,K. El Ahmadi,33,Al Ittihad,Mediocampista,Morocco,77,77,3600000,35000,['Especialista Oculto'],77.66666667,2.14E-05,0.366748455,0.919999586
+925,M. Gabbiadini,26,Southampton,Atacante,Italy,77,78,10500000,51000,['Especialista Oculto'],77.33333333,7.33E-06,-0.082101983,0.354300495
+927,M. Ritchie,28,Newcastle United,Mediocampista,Scotland,77,77,9000000,49000,['Especialista Oculto'],75.33333333,8.33E-06,-0.942593314,-0.2174147
+929,Javi Fuego,34,Villarreal CF,Mediocampista,Spain,77,77,2700000,28000,['Especialista Oculto'],72.33333333,2.65E-05,0.803195711,1.244975097
+931,J. Amavi,24,Olympique de Marseille,Defensor,France,77,82,10000000,34000,['Especialista Oculto'],71.66666667,7.14E-06,-1.197458154,-0.060767498
+932,R. Malinovskyi,25,KRC Genk,Mediocampista,Ukraine,77,81,11500000,17000,"['Especialista Oculto', 'Especialista Oculto']",77.5,6.73E-06,0.366748455,0.595024076
+934,G. Conti,23,SL Benfica,Defensor,Argentina,77,83,10500000,10000,['Especialista Oculto'],77.5,7.37E-06,1.684892905,0.884254089
+935,Bruno,28,Getafe CF,Defensor,Spain,77,78,8000000,23000,['Especialista Oculto'],78,9.72E-06,0.449599594,1.640271358
+938,L. Cook,21,Bournemouth,Mediocampista,England,77,84,12500000,44000,['Especialista Oculto'],77.33333333,6.16E-06,-0.506146058,0.107560811
+940,Gazzolisco,30,Internacional,Defensor,Brazil,77,77,6500000,26000,['Especialista Oculto'],74.83333333,1.15E-05,0.449599594,1.073258406
+941,Jonatan Soriano,32,Beijing Sinobo Guoan FC,Atacante,Spain,77,77,7000000,23000,['Especialista Oculto'],78.5,1.12E-05,-0.082101983,0.204748276
+942,Rubén Peña,26,SD Eibar,Defensor,Spain,77,78,8500000,22000,['Especialista Oculto'],70.66666667,8.29E-06,-2.020987028,-0.62778045
+944,P. Groß,27,Brighton & Hove Albion,Mediocampista,Germany,77,78,10000000,47000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",81.16666667,8.08E-06,0.366748455,0.757511831
+945,L. Baines,33,Everton,Defensor,England,77,77,3400000,74000,"['Especialista Oculto', 'Especialista Oculto']",73.16666667,2.11E-05,-2.020987028,-1.478299878
+946,A. Ogbonna,30,West Ham United,Defensor,Italy,77,77,6500000,65000,['Especialista Oculto'],77.33333333,1.18E-05,1.273128468,0.884254089
+953,Luís Neto,30,Agente Libre,Defensor,Portugal,77,77,0,0,"['Especialista Oculto', 'Talento Infravalorado']",77.5,77.5,0.861364031,0.128236819
+971,Victor Sánchez,30,RCD Espanyol,Mediocampista,Spain,77,77,6500000,26000,"['Especialista Oculto', 'Especialista Oculto']",74.83333333,1.15E-05,-0.506146058,-0.2174147
+972,D. Suárez,30,Getafe CF,Defensor,Uruguay,77,77,6500000,22000,['Especialista Oculto'],72.16666667,1.11E-05,-1.609222591,0.222738978
+974,L. Dubois,23,Olympique Lyonnais,Defensor,France,77,84,10500000,44000,"['Especialista Oculto', 'Especialista Oculto']",70.5,6.69E-06,-0.785693717,-0.533278291
+975,André Pinto,28,Sporting CP,Defensor,Portugal,77,77,7000000,14000,['Especialista Oculto'],79.33333333,1.13E-05,1.684892905,1.640271358
+984,T. Chandler,28,Eintracht Frankfurt,Defensor,United States,77,77,7000000,33000,['Especialista Oculto'],75.16666667,1.07E-05,0.037835157,1.073258406
+989,T. Rincón,30,Torino,Mediocampista,Venezuela,77,77,8000000,42000,['Especialista Oculto'],77.33333333,9.62E-06,-0.069698801,1.244975097
+990,M. Pereira,34,FC Porto,Defensor,Uruguay,77,77,2500000,13000,['Especialista Oculto'],72,2.87E-05,-1.609222591,-0.722282609
+991,C. Borges,30,Göztepe SK,Mediocampista,Costa Rica,77,77,6500000,24000,['Especialista Oculto'],76,1.16E-05,0.803195711,1.163731219
+995,B. Bourigeaud,24,Stade Rennais FC,Mediocampista,France,77,81,11500000,28000,['Especialista Oculto'],76.66666667,6.65E-06,-0.069698801,0.270048566
+997,D. Kuzyaev,25,Agente Libre,Mediocampista,Russia,77,80,0,0,['Talento Infravalorado'],75.33333333,75.33333333,0.803195711,-0.2174147
+998,R. Sambueza,34,Deportivo Toluca,Mediocampista,Argentina,77,77,4500000,26000,"['Especialista Oculto', 'Especialista Oculto']",79.66666667,1.76E-05,-0.506146058,1.082487342
+1002,L. Tonelli,28,Sampdoria,Defensor,Italy,77,79,8500000,53000,['Especialista Oculto'],76.33333333,8.92E-06,0.037835157,0.222738978
+1003,M. Zárate,31,Boca Juniors,Atacante,Argentina,77,77,8000000,26000,['Especialista Oculto'],77.66666667,9.68E-06,-0.853048625,-0.019580052
+1008,G. Sio,29,Agente Libre,Atacante,Ivory Coast,77,77,0,0,['Talento Infravalorado'],74.83333333,74.83333333,-0.082101983,0.578628823
+1009,J. McCarthy,27,Everton,Mediocampista,Republic of Ireland,77,77,7500000,74000,['Especialista Oculto'],73.83333333,9.75E-06,0.366748455,0.757511831
+1011,H. Pérez,29,RCD Espanyol,Mediocampista,Paraguay,77,77,8500000,29000,['Especialista Oculto'],75.66666667,8.87E-06,0.366748455,0.595024076
+1020,M. Hasebe,34,Eintracht Frankfurt,Defensor,Japan,77,77,2700000,31000,['Especialista Oculto'],75.16666667,2.75E-05,-0.37392928,-0.249771815
+1026,Yeray,23,Athletic Club de Bilbao,Defensor,Spain,77,83,10500000,19000,['Especialista Oculto'],75.66666667,7.19E-06,0.037835157,0.506245454
+1028,L. Schøne,32,Ajax,Mediocampista,Denmark,77,77,6500000,19000,"['Especialista Oculto', 'Especialista Oculto']",76.16666667,1.17E-05,-0.069698801,-0.379902455
+1029,C. Ünder,20,Roma,Mediocampista,Turkey,77,87,14500000,46000,['Especialista Oculto'],72.83333333,5.01E-06,-0.942593314,-0.623634087
+1033,Wallace,23,Lazio,Defensor,Brazil,77,82,10000000,35000,['Especialista Oculto'],78.33333333,7.81E-06,1.273128468,0.978756248
+1034,Pedro Obiang,26,West Ham United,Mediocampista,Equatorial Guinea,77,80,9000000,65000,['Especialista Oculto'],76.16666667,8.40E-06,1.239642967,1.082487342
+1036,N. Mukiele,20,RB Leipzig,Defensor,France,77,86,12000000,30000,['Especialista Oculto'],74.5,6.19E-06,0.449599594,0.78975193
+1037,T. Vermaelen,32,FC Barcelona,Defensor,Belgium,77,77,5000000,110000,"['Especialista Oculto', 'Especialista Oculto']",75.66666667,1.48E-05,0.037835157,0.78975193
+1039,Diego Llorente,24,Real Sociedad,Defensor,Spain,77,83,10500000,22000,['Especialista Oculto'],76.16666667,7.24E-06,0.449599594,0.128236819
+1044,V. Grifo,25,TSG 1899 Hoffenheim,Mediocampista,Italy,77,79,11000000,33000,"['Especialista Oculto', 'Especialista Oculto']",75.66666667,6.86E-06,0.366748455,0.026316933
+1045,A. Turan,31,Medipol Ba?ak?ehir FK,Mediocampista,Turkey,77,77,7500000,120000,['Especialista Oculto'],76,9.97E-06,-0.069698801,0.513780199
+1047,D. Schwaab,29,PSV,Defensor,Germany,77,77,7000000,16000,['Especialista Oculto'],76.5,1.09E-05,0.449599594,0.506245454
+1048,M. Schmelzer,30,Borussia Dortmund,Defensor,Germany,77,77,6500000,43000,['Especialista Oculto'],75.16666667,1.15E-05,-0.37392928,0.411743296
+1060,D. Zakaria,21,Borussia Mönchengladbach,Mediocampista,Switzerland,77,85,13000000,21000,"['Especialista Oculto', 'Especialista Oculto']",77,5.91E-06,2.11253748,1.732438362
+1061,G. Dzhikiya,24,Spartak Moscow,Defensor,Russia,77,83,10500000,1000,['Especialista Oculto'],76.16666667,7.25E-06,0.861364031,1.451267041
+1065,D. Cheryshev,27,Valencia CF,Mediocampista,Russia,77,77,9500000,31000,['Especialista Oculto'],72.16666667,7.57E-06,-0.069698801,0.432536321
+1067,Wendell,24,Bayer 04 Leverkusen,Defensor,Brazil,77,80,9500000,43000,['Especialista Oculto'],69,7.23E-06,-0.785693717,-0.62778045
+1068,M. Layún,30,Villarreal CF,Mediocampista,Mexico,77,77,6500000,28000,['Especialista Oculto'],75.5,1.16E-05,0.366748455,0.351292443
+1072,W. Cyprien,23,OGC Nice,Mediocampista,France,77,84,12500000,28000,['Especialista Oculto'],78,6.23E-06,0.366748455,1.326218974
+1073,G. Paletta,32,Jiangsu Suning FC,Defensor,Italy,77,77,5000000,20000,['Especialista Oculto'],78.83333333,1.57E-05,1.273128468,1.640271358
+1079,J. Kucka,31,Trabzonspor,Mediocampista,Slovakia,77,77,7500000,32000,['Especialista Oculto'],76.33333333,1.01E-05,1.239642967,2.301145505
+1080,R. Brady,26,Burnley,Defensor,Republic of Ireland,77,78,10500000,52000,"['Especialista Oculto', 'Especialista Oculto']",65.66666667,6.22E-06,-0.785693717,-0.62778045
+1082,W. Reid,29,West Ham United,Defensor,New Zealand,77,77,7000000,68000,['Especialista Oculto'],77.83333333,1.10E-05,1.273128468,0.978756248
+1085,R. Loftus-Cheek,22,Chelsea,Mediocampista,England,77,85,13000000,76000,['Especialista Oculto'],79.66666667,6.09E-06,2.11253748,1.488706729
+1086,S. De Maio,31,Bologna,Defensor,France,77,77,6000000,30000,['Especialista Oculto'],78.66666667,1.30E-05,1.273128468,2.018279993
+1097,J. Lukaku,23,Lazio,Mediocampista,Belgium,77,81,11500000,39000,['Especialista Oculto'],75.66666667,6.56E-06,-0.069698801,1.81368224
+1104,G. Shibasaki,26,Getafe CF,Mediocampista,Japan,77,80,11000000,24000,['Especialista Oculto'],77.66666667,7.05E-06,-0.506146058,-0.136170822
+1107,T. Kehrer,21,Paris Saint-Germain,Defensor,Germany,77,84,11000000,43000,['Especialista Oculto'],75,6.79E-06,0.449599594,-0.060767498
+1111,Jefferson,29,Sporting CP,Defensor,Brazil,77,77,6500000,14000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",71.16666667,1.09E-05,-1.197458154,0.033734661
+1113,E. Bardhi,22,Levante UD,Mediocampista,FYR Macedonia,77,83,12000000,22000,['Especialista Oculto'],77.66666667,6.46E-06,-0.942593314,-1.029853475
+1117,Danilo,34,Bologna,Defensor,Brazil,77,77,2700000,26000,['Especialista Oculto'],76.83333333,2.82E-05,0.449599594,0.033734661
+1120,J. Villar,41,Agente Libre,Portero,Paraguay,77,77,0,0,['Talento Infravalorado'],72,72,-1.649540299,0.125739675
+1126,F. Kosti?,25,Eintracht Frankfurt,Mediocampista,Serbia,77,78,10500000,16000,['Especialista Oculto'],75,7.13E-06,0.803195711,1.001243464
+1128,Cote,28,SD Eibar,Defensor,Spain,77,77,7000000,23000,['Especialista Oculto'],73.66666667,1.05E-05,0.037835157,-0.438776133
+1129,H. Winks,22,Tottenham Hotspur,Mediocampista,England,77,85,13000000,66000,['Especialista Oculto'],79.66666667,6.10E-06,-0.506146058,0.107560811
+1131,M. Hinteregger,25,FC Augsburg,Defensor,Austria,77,80,9500000,23000,['Especialista Oculto'],76.5,8.03E-06,0.037835157,1.167760565
+1132,L. Acosta,24,DC United,Mediocampista,Argentina,77,79,11000000,8000,['Anomalía Física'],77.16666667,7.01E-06,-3.124829595,-1.029853475
+1135,M. Fabián,28,Eintracht Frankfurt,Mediocampista,Mexico,77,77,9000000,36000,['Especialista Oculto'],75.66666667,8.37E-06,-1.37904057,0.188804688
+1145,Juanpe,27,Girona FC,Defensor,Spain,77,78,8500000,27000,['Especialista Oculto'],75.33333333,8.83E-06,1.273128468,0.695249772
+1146,K. Fortounis,25,Olympiacos CFP,Mediocampista,Greece,77,80,11000000,1000,['Especialista Oculto'],75.66666667,6.88E-06,0.366748455,0.351292443
+1148,B. Oczipka,29,FC Schalke 04,Defensor,Germany,77,77,6500000,30000,"['Especialista Oculto', 'Especialista Oculto']",74.66666667,1.14E-05,0.449599594,0.600747613
+1150,T. Hernández,20,Real Sociedad,Defensor,France,77,85,11000000,76000,['Especialista Oculto'],72.33333333,6.53E-06,0.037835157,0.78975193
+1151,M. Lowton,29,Burnley,Defensor,England,77,77,6500000,50000,['Especialista Oculto'],75.83333333,1.16E-05,-0.37392928,0.222738978
+1152,I. Diop,21,West Ham United,Defensor,France,77,86,12000000,46000,['Especialista Oculto'],76.16666667,6.32E-06,1.684892905,1.167760565
+1153,B. André,27,Stade Rennais FC,Mediocampista,France,77,77,9000000,32000,['Especialista Oculto'],77.33333333,8.56E-06,0.366748455,1.244975097
+1154,C. Piccini,25,Valencia CF,Defensor,Italy,77,80,9000000,29000,['Especialista Oculto'],75,8.31E-06,0.861364031,0.695249772
+1157,Yuri Berchiche,28,Athletic Club de Bilbao,Defensor,Spain,77,77,7000000,23000,"['Especialista Oculto', 'Especialista Oculto']",73.66666667,1.05E-05,-0.37392928,0.600747613
+1162,I. Radovanovi?,29,Chievo Verona,Mediocampista,Serbia,77,77,7000000,18000,['Especialista Oculto'],74.16666667,1.06E-05,1.676090224,1.569950607
+1164,Jony,26,Deportivo Alavés,Mediocampista,Spain,77,77,9500000,12000,['Especialista Oculto'],74.33333333,7.81E-06,-0.069698801,0.595024076
+1165,D. Buonanotte,30,Universidad Católica,Mediocampista,Argentina,77,77,8500000,12000,['Anomalía Física'],73.83333333,8.67E-06,-3.124829595,-2.573487149
+1166,Tomás Pina,30,Deportivo Alavés,Mediocampista,Spain,77,77,8000000,25000,['Especialista Oculto'],73.5,9.16E-06,1.239642967,0.838755709
+1169,F. Belluschi,34,San Lorenzo de Almagro,Mediocampista,Argentina,77,77,4500000,22000,['Especialista Oculto'],75.33333333,1.67E-05,-0.942593314,0.676267954
+1172,N. Barella,21,Cagliari,Mediocampista,Italy,77,89,15500000,24000,['Especialista Oculto'],77.66666667,5.00E-06,-0.942593314,-0.054926944
+1173,Angeliño,21,PSV,Defensor,Spain,77,83,10500000,11000,['Especialista Oculto'],68.66666667,6.53E-06,-1.197458154,0.128236819
+1175,F. Orellana,32,SD Eibar,Mediocampista,Chile,77,77,7000000,24000,['Especialista Oculto'],72.83333333,1.04E-05,-1.815487826,-2.248511639
+1182,F. Higuaín,33,Columbus Crew SC,Mediocampista,Argentina,77,77,5500000,10000,['Especialista Oculto'],75.16666667,1.36E-05,-0.942593314,0.026316933
+1183,A. Barák,23,Udinese,Mediocampista,Czech Republic,77,84,12500000,24000,['Especialista Oculto'],77.83333333,6.21E-06,2.11253748,1.326218974
+1188,D. Janmaat,28,Watford,Defensor,Netherlands,77,77,7000000,50000,['Especialista Oculto'],74,1.05E-05,0.449599594,-0.060767498
+1193,W. Boly,27,Wolverhampton Wanderers,Defensor,France,77,80,9000000,58000,['Especialista Oculto'],77.5,8.56E-06,2.096657342,2.112782152
+1195,C. Villanueva,32,Al Ittihad,Mediocampista,Chile,77,77,7000000,39000,['Especialista Oculto'],77,1.09E-05,-0.942593314,-1.436072863
+1205,N. Radoja,25,RC Celta,Mediocampista,Serbia,76,81,10000000,22000,"['Especialista Oculto', 'Especialista Oculto']",72,7.18E-06,1.239642967,0.919999586
+1207,David Juncà,24,RC Celta,Defensor,Spain,76,81,8500000,18000,['Especialista Oculto'],71,8.34E-06,-1.197458154,0.506245454
+1209,Gabriel Boschilia,22,FC Nantes,Atacante,Brazil,76,82,10500000,48000,['Especialista Oculto'],71,6.73E-06,-1.238521945,-1.739430567
+1210,Iuri Medeiros,23,Genoa,Mediocampista,Portugal,76,79,10000000,12000,['Especialista Oculto'],74,7.39E-06,-0.506146058,-1.679804496
+1211,M. Phillips,27,West Bromwich Albion,Mediocampista,Scotland,76,76,8000000,34000,['Especialista Oculto'],71.16666667,8.86E-06,0.803195711,1.326218974
+1214,Mario Suárez,31,Guizhou Hengfeng FC,Mediocampista,Spain,76,76,6500000,16000,['Especialista Oculto'],75.16666667,1.15E-05,1.676090224,1.488706729
+1217,D. Reyes,25,Fenerbahçe SK,Defensor,Mexico,76,80,8500000,48000,['Especialista Oculto'],75.5,8.83E-06,0.861364031,-0.155269657
+1218,Bernat,25,Paris Saint-Germain,Defensor,Spain,76,77,7500000,54000,['Especialista Oculto'],67,8.87E-06,-2.020987028,-1.478299878
+1220,S. Langkamp,30,SV Werder Bremen,Defensor,Germany,76,76,5500000,24000,['Especialista Oculto'],77.5,1.40E-05,1.273128468,1.167760565
+1221,J. Sosa,33,Trabzonspor,Mediocampista,Argentina,76,76,4500000,30000,['Especialista Oculto'],78,1.72E-05,-0.069698801,0.270048566
+1232,A. Nagy,23,Bologna,Mediocampista,Hungary,76,83,9500000,24000,['Especialista Oculto'],78.66666667,8.26E-06,-0.069698801,-0.623634087
+1246,Junior Firpo,21,Real Betis,Mediocampista,Spain,76,81,8500000,15000,['Especialista Oculto'],69.5,8.16E-06,0.803195711,1.001243464
+1249,M. Díaz,31,Racing Club,Mediocampista,Chile,76,76,5000000,19000,['Especialista Oculto'],76.33333333,1.52E-05,-2.251935083,0.432536321
+1252,Mario Hermoso,23,RCD Espanyol,Defensor,Spain,76,84,10000000,21000,['Especialista Oculto'],74.33333333,7.42E-06,0.037835157,0.600747613
+1255,R. Marin,22,Standard de Liège,Mediocampista,Romania,76,82,10500000,15000,['Especialista Oculto'],75.33333333,7.16E-06,-0.506146058,0.270048566
+1260,Ganso,28,Amiens SC,Mediocampista,Brazil,76,76,8000000,17000,"['Especialista Oculto', 'Especialista Oculto']",76.33333333,9.52E-06,0.803195711,0.432536321
+1263,Vitor Hugo,27,Fiorentina,Defensor,Brazil,76,78,7500000,45000,['Especialista Oculto'],77,1.02E-05,0.861364031,0.695249772
+1265,R. Snodgrass,30,West Ham United,Mediocampista,Scotland,76,76,7500000,66000,"['Especialista Oculto', 'Especialista Oculto']",76.5,1.01E-05,0.803195711,0.676267954
+1271,C. Riveros,35,Agente Libre,Mediocampista,Paraguay,76,76,0,0,['Talento Infravalorado'],76.33333333,76.33333333,-0.069698801,0.026316933
+1273,M. Torres,33,Deportivo Cali,Mediocampista,Colombia,76,76,4700000,4000,['Especialista Oculto'],75.83333333,1.61E-05,-1.37904057,0.270048566
+1274,M. Noble,31,West Ham United,Mediocampista,England,76,76,6500000,66000,['Especialista Oculto'],76.66666667,1.17E-05,-0.069698801,0.676267954
+1286,Jordi Amat,26,Rayo Vallecano,Defensor,Spain,76,80,8500000,18000,['Especialista Oculto'],74.33333333,8.73E-06,0.449599594,0.78975193
+1291,G. Töre,26,Be?ikta? JK,Mediocampista,Turkey,76,77,9000000,43000,['Especialista Oculto'],73.66666667,8.15E-06,-0.506146058,1.082487342
+1295,Ki Sung Yueng,29,Newcastle United,Mediocampista,Korea Republic,76,76,7500000,46000,"['Especialista Oculto', 'Especialista Oculto']",77.83333333,1.03E-05,1.676090224,0.676267954
+1304,E. Mangala,27,Manchester City,Defensor,France,76,78,7500000,84000,['Especialista Oculto'],74.66666667,9.85E-06,0.861364031,1.5457692
+1306,Víctor Vázquez,31,Toronto FC,Mediocampista,Spain,76,76,6500000,9000,['Especialista Oculto'],77.5,1.19E-05,-0.506146058,-0.2174147
+1308,Carles Planas,27,Girona FC,Defensor,Spain,76,77,7000000,26000,"['Especialista Oculto', 'Especialista Oculto']",72,1.02E-05,-1.609222591,0.506245454
+1313,M. Darmian,28,Manchester United,Defensor,Italy,76,76,6000000,88000,['Especialista Oculto'],73.5,1.21E-05,0.037835157,-0.62778045
+1314,N. Chalobah,23,Watford,Mediocampista,England,76,81,8500000,38000,['Especialista Oculto'],73.83333333,8.65E-06,1.239642967,1.082487342
+1316,André Simões,28,AEK Athens,Mediocampista,Portugal,76,76,7500000,1000,['Especialista Oculto'],76.83333333,1.02E-05,-0.069698801,0.513780199
+1319,F. Viviani,26,SPAL,Mediocampista,Italy,76,79,9500000,15000,['Especialista Oculto'],75.5,7.93E-06,0.366748455,0.595024076
+1321,Rubén Duarte,22,Deportivo Alavés,Defensor,Spain,76,81,8500000,18000,['Especialista Oculto'],73.5,8.63E-06,-0.37392928,0.033734661
+1324,A. Ruiz,24,Club Atlético Colón,Atacante,Argentina,76,79,10000000,13000,['Especialista Oculto'],77,7.69E-06,0.303371338,0.87773326
+1330,A. Izzo,26,Torino,Defensor,Italy,76,81,8500000,36000,['Especialista Oculto'],76.16666667,8.92E-06,0.037835157,0.222738978
+1334,J. Morel,34,Olympique Lyonnais,Defensor,Madagascar,76,76,2300000,48000,['Especialista Oculto'],74.66666667,3.18E-05,-1.197458154,0.600747613
+1335,G. Kakuta,27,Rayo Vallecano,Mediocampista,DR Congo,76,76,8000000,20000,"['Especialista Oculto', 'Especialista Oculto']",74.66666667,9.31E-06,-0.942593314,0.270048566
+1340,M. Moralez,31,New York City FC,Mediocampista,Argentina,76,76,7000000,9000,['Anomalía Física'],75.5,1.08E-05,-3.561276851,-2.329755516
+1344,C. Clark,28,Newcastle United,Defensor,Republic of Ireland,76,77,7000000,42000,['Especialista Oculto'],75,1.07E-05,0.449599594,0.506245454
+1346,M. Albrighton,28,Leicester City,Mediocampista,England,76,76,8000000,60000,"['Especialista Oculto', 'Especialista Oculto']",75.16666667,9.33E-06,-0.506146058,-0.054926944
+1348,F. Guarín,32,Shanghai Greenland Shenhua FC,Mediocampista,Colombia,76,76,6000000,16000,['Especialista Oculto'],76.16666667,1.27E-05,0.803195711,2.301145505
+1351,S. Widmer,25,FC Basel 1893,Defensor,Switzerland,76,78,7500000,23000,['Especialista Oculto'],73,9.70E-06,0.037835157,0.695249772
+1352,B. Dzsudzsák,31,Agente Libre,Atacante,Hungary,76,76,0,0,"['Especialista Oculto', 'Especialista Oculto', 'Talento Infravalorado']",75,75,-0.467575304,-0.393460599
+1358,C. Erkin,29,Be?ikta? JK,Defensor,Turkey,76,76,6000000,41000,"['Especialista Oculto', 'Especialista Oculto']",69.16666667,1.14E-05,-0.37392928,-0.438776133
+1368,L. Zuffi,28,FC Basel 1893,Mediocampista,Switzerland,76,77,7000000,25000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",77.16666667,1.10E-05,0.366748455,0.919999586
+1371,J. Palomino,28,Atalanta,Defensor,Argentina,76,78,7500000,25000,['Especialista Oculto'],77.33333333,1.03E-05,0.861364031,1.167760565
+1381,D. Brosinski,29,1. FSV Mainz 05,Defensor,Germany,76,76,6000000,25000,['Especialista Oculto'],70.33333333,1.17E-05,-0.785693717,-0.816784767
+1384,Eraso,28,CD Leganés,Mediocampista,Spain,76,76,8000000,29000,['Especialista Oculto'],77.5,9.65E-06,0.366748455,0.432536321
+1392,F. Lustenberger,30,Hertha BSC,Defensor,Switzerland,76,76,5500000,24000,['Especialista Oculto'],77,1.39E-05,-0.37392928,-0.249771815
+1399,J. Veltman,26,Ajax,Defensor,Netherlands,76,77,7500000,16000,['Especialista Oculto'],76.66666667,1.02E-05,0.037835157,0.317241137
+1401,Douglas Santos,24,Hamburger SV,Defensor,Brazil,76,80,8500000,12000,['Especialista Oculto'],66.66666667,7.83E-06,-1.197458154,-2.139814989
+1405,F. Mollet,26,Montpellier HSC,Mediocampista,France,76,77,9000000,25000,['Especialista Oculto'],75.16666667,8.33E-06,-1.37904057,-1.029853475
+1419,Vieirinha,32,PAOK,Defensor,Portugal,76,76,4300000,1000,['Especialista Oculto'],66.83333333,1.55E-05,-1.609222591,-1.572802037
+1421,L. Antonelli,31,Empoli,Defensor,Italy,76,76,5000000,14000,['Especialista Oculto'],74.33333333,1.48E-05,0.037835157,0.317241137
+1423,V. Eysseric,26,Fiorentina,Atacante,France,76,77,9000000,53000,"['Especialista Oculto', 'Especialista Oculto']",73.16666667,8.08E-06,-0.082101983,-0.169132271
+1427,T. Baumgartl,22,VfB Stuttgart,Defensor,Germany,76,81,8500000,25000,['Especialista Oculto'],75.33333333,8.84E-06,1.273128468,1.262262724
+1435,Rafinha,32,FC Bayern München,Defensor,Brazil,76,76,4300000,53000,['Especialista Oculto'],66.5,1.53E-05,-1.609222591,-1.667304195
+1436,D. Limberský,34,Viktoria Plze?,Defensor,Czech Republic,76,76,2200000,1000,['Especialista Oculto'],72.66666667,3.30E-05,-0.37392928,0.978756248
+1437,G. Cabral,32,RC Celta,Defensor,Argentina,76,76,4400000,21000,['Especialista Oculto'],76.33333333,1.73E-05,0.037835157,0.695249772
+1438,J. De Guzmán,30,Eintracht Frankfurt,Mediocampista,Netherlands,76,76,7000000,32000,"['Especialista Oculto', 'Especialista Oculto']",77,1.09E-05,-0.506146058,0.188804688
+1443,A. Samedov,33,Spartak Moscow,Atacante,Russia,76,76,4700000,1000,['Especialista Oculto'],73.33333333,1.56E-05,-0.467575304,0.129972167
+1445,Maurício,29,PAOK,Mediocampista,Brazil,76,76,6000000,1000,['Especialista Oculto'],76.66666667,1.28E-05,0.366748455,0.432536321
+1452,J. Willems,24,Eintracht Frankfurt,Defensor,Netherlands,76,79,8000000,25000,['Especialista Oculto'],71.66666667,8.93E-06,-0.785693717,0.411743296
+1457,Aritz Elustondo,24,Real Sociedad,Defensor,Spain,76,80,8500000,21000,['Especialista Oculto'],75.16666667,8.82E-06,-0.37392928,-0.060767498
+1462,A. Cresswell,28,West Ham United,Defensor,England,76,76,6000000,63000,"['Especialista Oculto', 'Especialista Oculto']",70.66666667,1.17E-05,-1.197458154,-0.816784767
+1476,P. Schwegler,31,Hannover 96,Mediocampista,Switzerland,76,76,5000000,29000,['Especialista Oculto'],76.16666667,1.51E-05,-0.069698801,0.270048566
+1485,P. Zabaleta,33,West Ham United,Defensor,Argentina,76,76,3000000,60000,['Especialista Oculto'],78.16666667,2.55E-05,-0.785693717,0.222738978
+1486,Andeson Trigo,30,Fluminense,Defensor,Brazil,76,76,5500000,25000,['Especialista Oculto'],70.16666667,1.27E-05,-1.197458154,-0.344273974
+1491,L. Christodoulopoulos,31,Olympiacos CFP,Mediocampista,Greece,76,76,7000000,1000,['Especialista Oculto'],73.5,1.05E-05,0.803195711,0.919999586
+1508,Barragán,31,Real Betis,Defensor,Spain,76,76,5000000,21000,['Especialista Oculto'],75.16666667,1.50E-05,0.037835157,0.222738978
+1511,Toño García,28,Levante UD,Mediocampista,Spain,76,76,6000000,22000,['Especialista Oculto'],75.16666667,1.25E-05,-0.069698801,0.188804688
+1513,Raúl Navas,30,Real Sociedad,Defensor,Spain,76,76,5500000,24000,['Especialista Oculto'],73.16666667,1.32E-05,0.449599594,0.411743296
+1514,B. Koné,30,MKE Ankaragücü,Defensor,Burkina Faso,76,76,5500000,20000,['Especialista Oculto'],74.16666667,1.34E-05,0.861364031,0.78975193
+1521,M. Arambarri,22,Getafe CF,Mediocampista,Uruguay,76,81,8500000,18000,['Especialista Oculto'],71,8.34E-06,-0.506146058,0.270048566
+1528,B. Henrichs,21,AS Monaco,Defensor,Germany,76,84,9500000,36000,['Especialista Oculto'],70.83333333,7.43E-06,0.037835157,-0.249771815
+1534,O. Colley,25,Sampdoria,Defensor,Gambia,76,81,8500000,28000,['Especialista Oculto'],75.66666667,8.87E-06,1.273128468,1.5457692
+1540,M. Bradley,30,Toronto FC,Mediocampista,United States,76,76,5500000,8000,['Especialista Oculto'],78,1.42E-05,1.676090224,1.326218974
+1541,Z. Labyad,25,Ajax,Mediocampista,Morocco,76,79,9500000,17000,['Especialista Oculto'],76.66666667,8.06E-06,-0.942593314,-0.054926944
+1543,T. Mangani,31,Angers SCO,Mediocampista,France,76,76,6500000,23000,"['Especialista Oculto', 'Especialista Oculto']",76.5,1.17E-05,0.803195711,0.838755709
+1545,E. Insúa,29,VfB Stuttgart,Defensor,Argentina,76,76,6000000,31000,['Especialista Oculto'],74.33333333,1.23E-05,-0.37392928,0.600747613
+1558,Tozé,25,Vitória Guimarães,Mediocampista,Portugal,76,80,10000000,11000,['Especialista Oculto'],74.5,7.44E-06,-2.251935083,-2.492243271
+1563,O. Alonso,32,Seattle Sounders FC,Mediocampista,Cuba,76,76,4400000,8000,['Especialista Oculto'],74.83333333,1.70E-05,0.366748455,1.163731219
+1573,Pablo Santos,26,SC Braga,Defensor,Brazil,75,78,7000000,13000,['Especialista Oculto'],75.5,1.08E-05,0.861364031,0.506245454
+1583,J. Stanislas,28,Bournemouth,Mediocampista,England,75,75,6500000,55000,['Especialista Oculto'],73.16666667,1.12E-05,0.803195711,-0.54239021
+1590,R. Otero,25,Al Wehda,Mediocampista,Venezuela,75,76,8000000,23000,['Especialista Oculto'],74.83333333,9.33E-06,-1.37904057,-2.004780006
+1597,Fran Rico,30,Granada CF,Mediocampista,Spain,75,75,4900000,9000,['Especialista Oculto'],72.83333333,1.48E-05,-0.069698801,0.270048566
+1600,Alan Patrick,27,Shakhtar Donetsk,Mediocampista,Brazil,75,75,7000000,1000,['Especialista Oculto'],76.33333333,1.09E-05,-0.069698801,-1.923536129
+1602,Y. Gazinskiy,28,Agente Libre,Mediocampista,Russia,75,75,0,0,['Talento Infravalorado'],72,72,0.803195711,0.351292443
+1609,A. Barrada,29,Antalyaspor,Mediocampista,Morocco,75,75,6500000,18000,['Especialista Oculto'],72.5,1.11E-05,-0.069698801,0.513780199
+1614,Luís Hernández,29,Málaga CF,Defensor,Spain,75,75,5000000,10000,['Especialista Oculto'],74.16666667,1.48E-05,0.037835157,0.411743296
+1616,M. Rog,22,Napoli,Mediocampista,Croatia,75,81,9000000,43000,['Especialista Oculto'],76,8.40E-06,0.366748455,0.513780199
+1617,B. Do?kal,29,Philadelphia Union,Mediocampista,Czech Republic,75,75,6500000,15000,['Especialista Oculto'],74.33333333,1.14E-05,0.803195711,-0.298658577
+1637,Javi López,32,RCD Espanyol,Defensor,Spain,75,75,3700000,23000,['Especialista Oculto'],70.16666667,1.88E-05,-0.37392928,-0.155269657
+1640,D. Liénard,30,RC Strasbourg Alsace,Mediocampista,France,75,75,6000000,18000,"['Especialista Oculto', 'Especialista Oculto']",74.16666667,1.23E-05,0.803195711,0.757511831
+1644,O. Duarte,29,RCD Espanyol,Defensor,Costa Rica,75,75,5000000,24000,['Especialista Oculto'],74.5,1.48E-05,0.449599594,0.222738978
+1646,Dani Olmo,20,Dinamo Zagreb,Mediocampista,Spain,75,85,11000000,1000,['Especialista Oculto'],72.83333333,6.62E-06,-0.069698801,-0.704877965
+1655,N. Araújo,26,RC Celta,Defensor,Mexico,75,78,7000000,20000,['Especialista Oculto'],75.33333333,1.07E-05,0.861364031,1.356764882
+1666,C. Fuchs,32,Leicester City,Defensor,Austria,75,75,3700000,50000,"['Especialista Oculto', 'Especialista Oculto']",75.16666667,2.00E-05,0.861364031,0.033734661
+1671,V. Cáceres,33,Agente Libre,Mediocampista,Paraguay,75,75,0,0,['Talento Infravalorado'],70.5,70.5,1.239642967,1.407462852
+1672,Renan Bressan,29,GD Chaves,Mediocampista,Belarus,75,75,6500000,11000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",75.83333333,1.16E-05,0.803195711,0.351292443
+1675,Portillo,28,Getafe CF,Mediocampista,Spain,75,75,6500000,22000,['Especialista Oculto'],74.16666667,1.14E-05,-1.37904057,-0.298658577
+1680,V. Hernández,29,Atlético Nacional,Mediocampista,Colombia,75,75,6500000,6000,['Anomalía Física'],74.66666667,1.15E-05,-3.124829595,-2.654731027
+1682,T. Jantschke,28,Borussia Mönchengladbach,Defensor,Germany,75,75,5500000,24000,['Especialista Oculto'],76.66666667,1.39E-05,-0.785693717,0.128236819
+1703,S. Cristóforo,24,Getafe CF,Mediocampista,Uruguay,75,79,7500000,36000,['Especialista Oculto'],71,9.42E-06,-0.506146058,0.270048566
+1706,P. Dummett,26,Newcastle United,Defensor,Wales,75,76,6500000,38000,['Especialista Oculto'],75.5,1.15E-05,0.037835157,0.317241137
+1713,Naldo,29,RCD Espanyol,Defensor,Brazil,75,75,5000000,24000,['Especialista Oculto'],75.33333333,1.50E-05,0.861364031,-0.155269657
+1714,Y. Ayoub,24,Feyenoord,Mediocampista,Morocco,75,79,8500000,12000,['Especialista Oculto'],77.83333333,9.14E-06,-0.506146058,0.595024076
+1730,C. Budescu,29,Al Shabab,Atacante,Romania,75,75,6500000,32000,['Especialista Oculto'],73.66666667,1.13E-05,0.303371338,-0.169132271
+1734,L. De Silvestri,30,Torino,Mediocampista,Italy,75,75,6500000,37000,['Especialista Oculto'],72.83333333,1.11E-05,1.239642967,1.326218974
+1752,M. Morozyuk,30,Dynamo Kyiv,Defensor,Ukraine,75,75,4800000,1000,"['Especialista Oculto', 'Anomalía Física']",62.5,1.30E-05,-1.197458154,-3.179338734
+1757,L. Cigarini,32,Cagliari,Mediocampista,Italy,75,75,5000000,29000,"['Especialista Oculto', 'Especialista Oculto']",73.66666667,1.46E-05,-0.506146058,0.188804688
+1773,A. Westwood,28,Burnley,Mediocampista,England,75,75,6500000,48000,['Especialista Oculto'],75.16666667,1.15E-05,-0.506146058,0.351292443
+1781,E. Thommy,23,VfB Stuttgart,Mediocampista,Germany,75,79,8500000,26000,['Especialista Oculto'],72,8.44E-06,-0.506146058,-0.86736572
+1783,Bernardo,23,Brighton & Hove Albion,Defensor,Brazil,75,80,7500000,33000,['Especialista Oculto'],71.16666667,9.45E-06,0.449599594,-0.155269657
+1797,S. Ilsanker,29,RB Leipzig,Mediocampista,Austria,75,75,5000000,40000,['Especialista Oculto'],62.5,1.24E-05,1.676090224,1.81368224
+1802,Carlitos,28,Legia Warszawa,Atacante,Spain,75,75,7000000,12000,['Especialista Oculto'],76.33333333,1.09E-05,-0.853048625,0.204748276
+1813,P. Capelle,31,Angers SCO,Defensor,France,75,75,4400000,20000,['Especialista Oculto'],68,1.54E-05,-0.37392928,-0.344273974
+1818,S. Larsson,25,Feyenoord,Atacante,Sweden,75,77,8000000,14000,['Especialista Oculto'],73,9.11E-06,-0.467575304,-0.169132271
+1819,P. Tau,24,Agente Libre,Atacante,South Africa,75,81,0,0,['Talento Infravalorado'],78.33333333,78.33333333,-2.009468587,-2.262863333
+1834,G. dos Santos,29,LA Galaxy,Atacante,Mexico,75,75,6500000,10000,['Especialista Oculto'],73.5,1.13E-05,-0.853048625,-1.664654458
+1838,Sandro,22,Real Sociedad,Atacante,Spain,75,81,9500000,69000,['Especialista Oculto'],75.66666667,7.91E-06,-0.853048625,-0.019580052
+1844,P. Pekarík,31,Hertha BSC,Defensor,Slovakia,75,75,4400000,23000,['Especialista Oculto'],69.5,1.57E-05,-1.197458154,-0.533278291
+1846,Pablo Hernández,33,Leeds United,Mediocampista,Spain,75,75,4000000,40000,['Especialista Oculto'],76.33333333,1.89E-05,-0.942593314,-0.54239021
+1862,B. Santamaria,23,Angers SCO,Mediocampista,France,75,80,7500000,17000,['Especialista Oculto'],74.33333333,9.89E-06,0.803195711,0.107560811
+1872,Timor,28,UD Las Palmas,Mediocampista,Spain,75,75,5500000,11000,['Especialista Oculto'],72.5,1.32E-05,1.239642967,1.163731219
+1885,Y. Aït Bennasser,21,AS Monaco,Mediocampista,Morocco,75,83,10000000,39000,['Especialista Oculto'],75.16666667,7.49E-06,0.803195711,0.432536321
+1889,N. Tomovi?,30,Chievo Verona,Defensor,Serbia,75,75,4900000,15000,['Especialista Oculto'],73.5,1.50E-05,0.037835157,0.600747613
+1890,F. Roncaglia,31,RC Celta,Defensor,Argentina,75,75,4500000,20000,"['Especialista Oculto', 'Especialista Oculto']",73.83333333,1.63E-05,-0.785693717,0.128236819
+1902,C. Cueva,26,Agente Libre,Mediocampista,Peru,75,75,0,0,['Talento Infravalorado'],69.66666667,69.66666667,-1.815487826,-1.111097353
+1907,M. Mevlja,28,Agente Libre,Defensor,Slovenia,75,77,0,0,['Talento Infravalorado'],76.5,76.5,1.273128468,0.978756248
+1909,K. Stafylidis,24,FC Augsburg,Defensor,Greece,75,79,7000000,18000,"['Especialista Oculto', 'Especialista Oculto']",69,9.83E-06,-0.785693717,0.128236819
+1929,M. Ça??ran,25,Çaykur Rizespor,Mediocampista,Turkey,75,79,7000000,13000,['Especialista Oculto'],75.33333333,1.07E-05,0.366748455,1.326218974
+1933,K. Traoré,26,Agente Libre,Mediocampista,Ivory Coast,75,75,0,0,['Talento Infravalorado'],75,75,-0.069698801,-0.623634087
+1936,K. Fofana,26,Agente Libre,Atacante,Ivory Coast,75,75,0,0,['Talento Infravalorado'],75.83333333,75.83333333,1.07431798,0.802957151
+1938,D. Bocanegra,31,Atlético Nacional,Defensor,Colombia,75,75,4400000,6000,['Especialista Oculto'],74.33333333,1.69E-05,0.037835157,0.317241137
+1945,Unai López,22,Athletic Club de Bilbao,Mediocampista,Spain,75,82,9000000,19000,['Especialista Oculto'],73.33333333,8.13E-06,-1.37904057,-0.623634087
+1947,C. Söyüncü,22,Leicester City,Defensor,Turkey,75,83,8500000,43000,['Especialista Oculto'],73.16666667,8.56E-06,0.449599594,0.695249772
+1959,S. ?nan,33,Galatasaray SK,Mediocampista,Turkey,75,75,3900000,47000,"['Especialista Oculto', 'Especialista Oculto']",75.33333333,1.91E-05,0.803195711,0.270048566
+1964,V. Claesson,26,Agente Libre,Mediocampista,Sweden,75,78,0,0,['Talento Infravalorado'],76.83333333,76.83333333,0.803195711,0.188804688
+1981,M. Valdifiori,32,SPAL,Mediocampista,Italy,75,75,3800000,13000,['Especialista Oculto'],73.33333333,1.92E-05,1.239642967,0.351292443
+1991,A. Limbombe,23,FC Nantes,Atacante,Belgium,75,79,8500000,21000,['Especialista Oculto'],71.83333333,8.43E-06,-0.853048625,-0.767341146
+1996,E. Zukanovi?,31,Genoa,Defensor,Bosnia Herzegovina,75,75,4500000,15000,['Especialista Oculto'],76.66666667,1.70E-05,1.273128468,1.262262724
+1998,M. Fernández,32,Club Necaxa,Mediocampista,Chile,75,75,5000000,14000,['Especialista Oculto'],75.66666667,1.51E-05,-0.069698801,-0.136170822
+1999,D. Rodríguez,28,Club Tijuana,Mediocampista,Uruguay,75,75,5500000,20000,"['Especialista Oculto', 'Especialista Oculto']",66.5,1.20E-05,-1.37904057,0.595024076
+2014,Zaldúa,26,Real Sociedad,Defensor,Spain,75,78,7000000,23000,['Especialista Oculto'],71.33333333,1.02E-05,-1.197458154,-1.005789085
+2027,B. Alemán,28,Ettifaq FC,Mediocampista,Uruguay,75,75,6500000,29000,['Especialista Oculto'],72.66666667,1.11E-05,-0.506146058,0.919999586
+2030,S. Corchia,27,SL Benfica,Defensor,France,75,75,5500000,14000,['Especialista Oculto'],72.16666667,1.31E-05,-1.197458154,-0.344273974
+2033,D. Türüç,25,Kayserispor,Mediocampista,Turkey,75,79,8500000,14000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",76.83333333,9.02E-06,-0.069698801,0.270048566
+2038,L. Ciman,32,Dijon FCO,Defensor,Belgium,75,75,3800000,13000,"['Especialista Oculto', 'Especialista Oculto']",73.83333333,1.94E-05,0.037835157,-0.060767498
+2040,H. Medunjanin,33,Philadelphia Union,Mediocampista,Bosnia Herzegovina,75,75,3900000,9000,['Especialista Oculto'],75.33333333,1.93E-05,1.676090224,1.001243464
+2050,L. González Pirez,26,Atlanta United,Defensor,Argentina,75,78,7000000,8000,['Especialista Oculto'],74,1.06E-05,0.449599594,0.506245454
+2053,M. Schnatterer,32,1. FC Heidenheim 1846,Mediocampista,Germany,75,75,5000000,14000,"['Especialista Oculto', 'Especialista Oculto']",73.5,1.47E-05,0.366748455,0.188804688
+2059,B. Douglas,28,Leeds United,Defensor,Scotland,75,75,5500000,38000,"['Especialista Oculto', 'Especialista Oculto']",67,1.21E-05,-0.785693717,-1.100291243
+2061,Medrán,24,Rayo Vallecano,Mediocampista,Spain,75,81,9000000,26000,['Especialista Oculto'],72,7.98E-06,-0.506146058,-0.461146332
+2065,B. Joki?,32,Agente Libre,Defensor,Slovenia,75,75,0,0,['Talento Infravalorado'],70.33333333,70.33333333,-1.197458154,0.506245454
+2068,L. Orbán,29,Racing Club,Defensor,Argentina,74,74,4400000,18000,['Especialista Oculto'],71.16666667,1.61E-05,-0.785693717,0.506245454
+2080,T. Hlatshwayo,28,Agente Libre,Defensor,South Africa,74,75,0,0,['Talento Infravalorado'],75,75,0.861364031,1.262262724
+2081,M. Krohn-Dehli,35,Deportivo de La Coruña,Mediocampista,Denmark,74,74,2400000,7000,"['Especialista Oculto', 'Especialista Oculto']",71.16666667,2.96E-05,-1.37904057,0.351292443
+2085,M. Pasqual,36,Empoli,Defensor,Italy,74,74,650000,9000,['Especialista Oculto'],68.83333333,0.000104451,-0.785693717,-0.438776133
+2086,Zubeldia,21,Real Sociedad,Mediocampista,Spain,74,81,8000000,17000,['Especialista Oculto'],69.5,8.67E-06,0.366748455,0.432536321
+2090,S. Ghoddos,24,Amiens SC,Mediocampista,Iran,74,79,7500000,16000,['Especialista Oculto'],72.83333333,9.69E-06,-0.069698801,0.919999586
+2127,O. Norwood,27,Sheffield United,Mediocampista,Northern Ireland,74,74,6000000,39000,['Especialista Oculto'],71.33333333,1.18E-05,-0.506146058,-0.298658577
+2141,J. Pivari?,29,Dynamo Kyiv,Defensor,Croatia,74,74,4300000,1000,['Especialista Oculto'],66.33333333,1.54E-05,-1.197458154,-0.911286926
+2147,A. Pritchard,25,Huddersfield Town,Atacante,England,74,78,7500000,37000,['Especialista Oculto'],70.66666667,9.38E-06,-1.623995266,-2.56196777
+2153,L. Griffiths,27,Celtic,Atacante,Scotland,74,74,6000000,46000,['Especialista Oculto'],73.16666667,1.21E-05,-0.853048625,0.055196057
+2170,M. Besler,31,Sporting Kansas City,Defensor,United States,74,74,3800000,7000,['Especialista Oculto'],73.83333333,1.94E-05,0.037835157,0.506245454
+2180,C. Hourihane,27,Aston Villa,Mediocampista,Republic of Ireland,74,74,6000000,18000,['Especialista Oculto'],74.33333333,1.24E-05,0.366748455,0.595024076
+2185,M. Beši?,25,Middlesbrough,Mediocampista,Bosnia Herzegovina,74,79,6500000,58000,['Especialista Oculto'],72.83333333,1.11E-05,0.366748455,1.001243464
+2192,R. Ortiz,28,Agente Libre,Mediocampista,Paraguay,74,75,0,0,['Talento Infravalorado'],71.83333333,71.83333333,-0.506146058,1.001243464
+2214,Lato,20,Valencia CF,Defensor,Spain,74,83,7500000,18000,['Especialista Oculto'],67.16666667,8.93E-06,-2.020987028,-1.289295561
+2225,C. Pizarro,39,SV Werder Bremen,Atacante,Peru,74,74,1600000,18000,['Maestro Veterano'],79.16666667,4.89E-05,0.303371338,0.87773326
+2226,Ivo,31,Henan Jianye FC,Mediocampista,Brazil,74,74,4900000,13000,['Especialista Oculto'],75.33333333,1.53E-05,0.803195711,-0.054926944
+2228,Iñigo Pérez,30,CA Osasuna,Mediocampista,Spain,74,74,4200000,9000,"['Especialista Oculto', 'Especialista Oculto']",72.33333333,1.72E-05,-0.069698801,0.838755709
+2238,E. Didot,34,En Avant de Guingamp,Mediocampista,France,74,74,1700000,19000,['Especialista Oculto'],73.5,4.28E-05,-0.506146058,0.026316933
+2244,A. Diamanti,35,Livorno,Mediocampista,Italy,74,74,2600000,4000,['Especialista Oculto'],76,2.92E-05,0.366748455,-0.054926944
+2245,E. Cardona,25,Boca Juniors,Atacante,Colombia,74,75,6500000,39000,['Especialista Oculto'],74.83333333,1.14E-05,0.688844659,1.251613807
+2259,Kahraba,24,Agente Libre,Mediocampista,Egypt,74,79,0,0,['Talento Infravalorado'],71.5,71.5,0.803195711,0.595024076
+2275,J. Geis,24,FC Schalke 04,Mediocampista,Germany,74,77,6000000,20000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",68.83333333,1.14E-05,0.366748455,1.163731219
+2289,A. Erokhin,28,Agente Libre,Mediocampista,Russia,74,74,0,0,['Talento Infravalorado'],74.33333333,74.33333333,2.985431992,1.651194485
+2296,G. Sakai,27,Hamburger SV,Defensor,Japan,74,74,4600000,12000,['Especialista Oculto'],68,1.47E-05,-1.197458154,-0.533278291
+2301,Diogo Figueiras,27,SC Braga,Defensor,Portugal,74,75,5000000,12000,['Anomalía Física'],61.66666667,1.23E-05,-2.432751465,-3.179338734
+2306,P. Barrientos,33,Deportivo Toluca,Atacante,Argentina,74,74,3400000,21000,['Especialista Oculto'],70.66666667,2.07E-05,-0.853048625,-0.617788927
+2325,David Simão,28,Boavista FC,Mediocampista,Portugal,74,74,5500000,9000,['Especialista Oculto'],73.5,1.33E-05,0.803195711,0.676267954
+2332,D. Simpson,31,Leicester City,Defensor,England,74,74,3700000,46000,['Especialista Oculto'],76.5,2.04E-05,-1.197458154,-0.249771815
+2346,Luisinho,33,SD Huesca,Defensor,Portugal,74,74,2200000,19000,['Especialista Oculto'],69.66666667,3.14E-05,-2.020987028,-1.289295561
+2347,A. Semenov,29,Agente Libre,Defensor,Russia,74,75,0,0,['Talento Infravalorado'],73.33333333,73.33333333,1.273128468,0.978756248
+2348,Ramalho,25,Girona FC,Defensor,Spain,74,78,6000000,22000,['Especialista Oculto'],71.83333333,1.19E-05,-0.37392928,0.411743296
+2349,Kévin Rodrigues,24,Real Sociedad,Defensor,Portugal,74,79,6500000,18000,['Especialista Oculto'],68.16666667,1.05E-05,-2.020987028,-0.911286926
+2356,Dani Pacheco,27,Málaga CF,Mediocampista,Spain,74,74,6000000,10000,['Especialista Oculto'],71.33333333,1.19E-05,-1.815487826,-0.298658577
+2363,P. Aguedar,30,Agente Libre,Defensor,Paraguay,74,74,0,0,['Talento Infravalorado'],73.83333333,73.83333333,0.037835157,0.978756248
+2397,M. Ekici,28,Fenerbahçe SK,Mediocampista,Turkey,74,74,5500000,51000,['Especialista Oculto'],71.83333333,1.29E-05,0.366748455,0.107560811
+2398,A. Nyom,30,CD Leganés,Defensor,Cameroon,74,74,4099999,27000,['Especialista Oculto'],74.33333333,1.80E-05,0.861364031,1.451267041
+2399,K. Konaté,26,Agente Libre,Atacante,Ivory Coast,74,74,0,0,['Talento Infravalorado'],72.5,72.5,-0.467575304,-0.468236708
+2413,I. Koné,30,Agente Libre,Defensor,Ivory Coast,74,74,0,0,['Talento Infravalorado'],75.66666667,75.66666667,0.037835157,0.978756248
+2429,R. Saïss,28,Wolverhampton Wanderers,Mediocampista,Morocco,74,74,5500000,55000,['Especialista Oculto'],74.16666667,1.34E-05,2.11253748,0.757511831
+2443,A. Mitri??,23,Agente Libre,Atacante,Romania,74,80,0,0,['Talento Infravalorado'],71.16666667,71.16666667,-1.623995266,-1.215997802
+2452,S. Vilakazi,28,Agente Libre,Mediocampista,South Africa,74,74,0,0,['Talento Infravalorado'],74.83333333,74.83333333,-1.37904057,0.107560811
+2473,Carmona,30,Real Sporting de Gijón,Mediocampista,Spain,74,74,5500000,10000,"['Especialista Oculto', 'Especialista Oculto']",74,1.34E-05,-0.069698801,0.513780199
+2493,J. Plata,26,Real Salt Lake,Atacante,Ecuador,74,74,6000000,9000,['Anomalía Física'],71.16666667,1.18E-05,-3.55136187,-0.692565036
+2500,Bruno César,29,Sporting CP,Mediocampista,Brazil,74,74,5500000,12000,"['Especialista Oculto', 'Especialista Oculto']",73.83333333,1.34E-05,-0.069698801,0.513780199
+2513,F. Valverde,19,Real Madrid,Mediocampista,Uruguay,74,84,8500000,46000,['Especialista Oculto'],72.5,8.48E-06,0.803195711,-0.461146332
+2514,M. Etxeberría,26,Agente Libre,Mediocampista,Paraguay,74,74,0,0,['Talento Infravalorado'],73.5,73.5,0.803195711,0.270048566
+2519,P. Mpoku,26,Standard de Liège,Mediocampista,DR Congo,74,74,6000000,15000,['Especialista Oculto'],74.83333333,1.24E-05,0.366748455,0.919999586
+2544,J. Sánchez Miño,28,Independiente,Defensor,Argentina,74,74,4400000,18000,['Especialista Oculto'],69.16666667,1.57E-05,-0.785693717,-0.249771815
+2565,De la Bella,32,UD Las Palmas,Defensor,Spain,74,74,3100000,10000,['Especialista Oculto'],72.66666667,2.34E-05,0.037835157,-0.249771815
+2567,P. Morales,33,CD Universidad de Concepción,Mediocampista,Chile,74,74,3400000,5000,['Especialista Oculto'],73.66666667,2.16E-05,0.366748455,0.026316933
+2581,Luna,27,Levante UD,Defensor,Spain,74,75,5000000,19000,['Especialista Oculto'],70.83333333,1.41E-05,-0.785693717,0.317241137
+2586,A. Wan-Bissaka,20,Crystal Palace,Defensor,England,74,84,8000000,28000,['Especialista Oculto'],69.5,8.66E-06,0.037835157,-0.344273974
+2599,Camilo,29,Querétaro,Atacante,Brazil,74,74,5500000,12000,['Especialista Oculto'],73.16666667,1.33E-05,-1.623995266,-0.094356161
+2600,J. Schmid,28,FC Augsburg,Defensor,France,74,74,5500000,22000,['Especialista Oculto'],65.83333333,1.19E-05,-0.785693717,0.222738978
+2601,Welthon,26,Vitória Guimarães,Atacante,Brazil,74,76,7000000,11000,['Especialista Oculto'],74.83333333,1.07E-05,-0.082101983,0.503852713
+2611,F. Chafik,31,Dijon FCO,Defensor,Morocco,73,73,2600000,11000,['Especialista Oculto'],69.16666667,2.65E-05,0.037835157,0.411743296
+2637,S. Rybalka,28,Sivasspor,Mediocampista,Ukraine,73,74,3600000,12000,['Especialista Oculto'],70.83333333,1.96E-05,-0.506146058,-0.2174147
+2645,T. Huddlestone,31,Derby County,Mediocampista,England,73,73,2700000,31000,['Especialista Oculto'],67.83333333,2.48E-05,1.676090224,2.057413872
+2647,K. Nakamura,37,Kawasaki Frontale,Mediocampista,Japan,73,73,1300000,7000,['Especialista Oculto'],74.5,5.70E-05,-0.506146058,-0.298658577
+2649,M. Vejinovi?,28,AZ Alkmaar,Mediocampista,Netherlands,73,73,4000000,14000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",70.33333333,1.75E-05,1.239642967,0.513780199
+2655,I. Kovács,26,Agente Libre,Mediocampista,Hungary,73,74,0,0,['Talento Infravalorado'],68.66666667,68.66666667,-0.942593314,-1.598560618
+2660,J. Ward,28,Crystal Palace,Defensor,England,73,73,3200000,37000,['Especialista Oculto'],74.16666667,2.29E-05,0.861364031,0.033734661
+2680,F. Kudryashov,31,Agente Libre,Defensor,Russia,73,73,0,0,['Talento Infravalorado'],71.66666667,71.66666667,-0.37392928,0.222738978
+2688,R. Benzar,26,Agente Libre,Defensor,Romania,73,76,0,0,['Talento Infravalorado'],68.66666667,68.66666667,-0.37392928,-0.060767498
+2714,O. Pérez,37,Patriotas Boyacá FC,Mediocampista,Argentina,73,73,1300000,2000,['Especialista Oculto'],70.5,5.41E-05,0.366748455,1.488706729
+2724,C. Ke?erü,31,Agente Libre,Mediocampista,Romania,73,73,0,0,['Talento Infravalorado'],67.5,67.5,-0.069698801,0.838755709
+2749,C. Buchtmann,26,FC St. Pauli,Mediocampista,Germany,73,76,4900000,16000,['Especialista Oculto'],73.83333333,1.50E-05,-0.506146058,-0.298658577
+2763,Álex Gallar,26,SD Huesca,Mediocampista,Spain,73,74,4700000,19000,['Especialista Oculto'],70.83333333,1.50E-05,-0.506146058,0.270048566
+2766,Víctor Rodríguez,28,Seattle Sounders FC,Mediocampista,Spain,73,73,4000000,8000,['Especialista Oculto'],70.5,1.76E-05,-1.815487826,0.107560811
+2768,Élton,32,Al Qadisiyah,Atacante,Brazil,73,73,3100000,18000,"['Especialista Oculto', 'Anomalía Física']",68.16666667,2.19E-05,-3.55136187,-2.412415552
+2781,F. Manríquez,34,CD Universidad de Concepción,Mediocampista,Chile,73,73,1900000,5000,['Especialista Oculto'],74.83333333,3.93E-05,-1.815487826,-0.054926944
+2782,Abraham González,32,Lobos BUAP,Mediocampista,Spain,73,73,3000000,8000,['Especialista Oculto'],72.83333333,2.42E-05,-0.069698801,0.513780199
+2802,Miguel Veloso,32,Genoa,Mediocampista,Portugal,73,73,2300000,13000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",75.5,3.26E-05,0.366748455,0.838755709
+2811,J. Poulsen,34,FC Midtjylland,Mediocampista,Denmark,73,73,1900000,19000,['Especialista Oculto'],73.66666667,3.84E-05,0.366748455,0.676267954
+2812,A. Grünwald,29,FK Austria Wien,Mediocampista,Austria,73,73,3900000,15000,['Especialista Oculto'],74.66666667,1.91E-05,1.676090224,1.81368224
+2819,J. Miši?,24,Sporting CP,Mediocampista,Croatia,73,78,5500000,9000,['Especialista Oculto'],73.16666667,1.33E-05,1.676090224,1.082487342
+2827,M. Banguera,32,Agente Libre,Portero,Ecuador,73,73,0,0,['Talento Infravalorado'],66.2,66.2,-0.048748395,0.395753294
+2831,Sergio Tejera,28,Real Oviedo,Mediocampista,Spain,73,73,3200000,9000,['Especialista Oculto'],73.5,2.29E-05,0.366748455,0.676267954
+2844,A. Büttner,29,Vitesse,Defensor,Netherlands,73,73,3000000,12000,['Especialista Oculto'],68.16666667,2.26E-05,-1.197458154,-0.249771815
+2847,K. Möhwald,24,SV Werder Bremen,Mediocampista,Germany,73,77,5000000,19000,['Especialista Oculto'],74,1.47E-05,0.803195711,0.351292443
+2849,J. Góralski,25,Agente Libre,Mediocampista,Poland,73,77,0,0,['Talento Infravalorado'],71.16666667,71.16666667,-0.942593314,0.919999586
+2850,S. Larsson,33,AIK,Mediocampista,Sweden,73,73,2300000,9000,"['Especialista Oculto', 'Especialista Oculto']",71.16666667,3.08E-05,-0.069698801,0.026316933
+2859,G. Torje,28,Sivasspor,Mediocampista,Romania,73,73,4000000,13000,['Especialista Oculto'],68.83333333,1.72E-05,-1.815487826,-1.354828986
+2871,F. Sambueza,29,Junior FC,Mediocampista,Argentina,73,73,3900000,4000,['Especialista Oculto'],72,1.84E-05,-1.37904057,-2.167267761
+2893,M. Knoll,27,FC St. Pauli,Mediocampista,Germany,73,73,3400000,14000,['Especialista Oculto'],66.83333333,1.96E-05,0.803195711,1.326218974
+2913,M. Martins,31,Agente Libre,Atacante,Bolivia,73,73,0,0,['Talento Infravalorado'],72.33333333,72.33333333,1.07431798,0.95250937
+2920,M. Suttner,31,Brighton & Hove Albion,Defensor,Austria,73,73,2600000,33000,"['Especialista Oculto', 'Especialista Oculto']",68.33333333,2.60E-05,-0.785693717,-0.533278291
+2924,P. Tachtsidis,27,Nottingham Forest,Mediocampista,Greece,73,73,3400000,35000,['Especialista Oculto'],71.83333333,2.09E-05,2.11253748,1.81368224
+2964,J. Añor,24,Málaga CF,Mediocampista,Venezuela,73,78,5500000,8000,['Especialista Oculto'],71.5,1.30E-05,-0.506146058,-1.029853475
+2968,S. Schaars,34,SC Heerenveen,Mediocampista,Netherlands,73,73,1200000,8000,"['Especialista Oculto', 'Especialista Oculto']",70.66666667,5.85E-05,-0.069698801,0.432536321
+2974,R. Skov,22,FC København,Mediocampista,Denmark,73,81,6000000,15000,['Especialista Oculto'],71.83333333,1.19E-05,0.803195711,0.676267954
+2984,M. Borjan,30,Agente Libre,Portero,Canada,73,73,0,0,['Talento Infravalorado'],69.8,69.8,1.552043508,1.475807768
+2999,K. Rausch,28,Agente Libre,Defensor,Russia,73,73,0,0,['Talento Infravalorado'],69.16666667,69.16666667,0.037835157,0.128236819
+3013,A. Özbiliz,28,Willem II,Atacante,Armenia,73,73,4000000,40000,['Especialista Oculto'],69.33333333,1.72E-05,-0.853048625,-0.692565036
+3023,R. van Rhijn,27,AZ Alkmaar,Defensor,Netherlands,73,74,3700000,12000,['Especialista Oculto'],69.33333333,1.87E-05,-0.785693717,-0.344273974
+3026,R. Elm,30,Kalmar FF,Mediocampista,Sweden,73,73,3700000,4000,"['Especialista Oculto', 'Especialista Oculto']",68.66666667,1.85E-05,0.803195711,0.351292443
+3037,Y. Banana,26,Agente Libre,Defensor,Cameroon,73,75,0,0,['Talento Infravalorado'],74.66666667,74.66666667,1.684892905,1.829275676
+3038,W. Montillo,34,Club Atlético Tigre,Mediocampista,Argentina,73,73,2000000,13000,['Especialista Oculto'],71.83333333,3.57E-05,-0.942593314,-1.517316741
+3046,D. Pizarro,38,Universidad de Chile,Mediocampista,Chile,73,73,1300000,8000,"['Especialista Oculto', 'Especialista Oculto', 'Maestro Veterano']",71.83333333,5.49E-05,-1.37904057,-0.948609598
+3050,R. Sigurðsson,32,Agente Libre,Defensor,Iceland,73,73,0,0,['Talento Infravalorado'],73.66666667,73.66666667,0.861364031,0.978756248
+3061,O. Kragl,28,Foggia,Mediocampista,Germany,73,73,4000000,4000,['Especialista Oculto'],72.16666667,1.80E-05,0.366748455,1.407462852
+3080,W. Trapp,25,Columbus Crew SC,Mediocampista,United States,73,77,4300000,6000,['Especialista Oculto'],73.5,1.71E-05,-0.942593314,-0.2174147
+3090,V. Lazaro,22,Hertha BSC,Mediocampista,Austria,73,78,4500000,17000,['Especialista Oculto'],77,1.70E-05,-0.069698801,0.351292443
+3103,M. Degenek,24,Agente Libre,Defensor,Australia,73,80,0,0,['Talento Infravalorado'],72,72,0.861364031,1.262262724
+3107,J. Kova?ík,30,Viktoria Plze?,Mediocampista,Czech Republic,73,73,3800000,1000,"['Especialista Oculto', 'Especialista Oculto']",72,1.89E-05,0.803195711,0.270048566
+3112,L. Gil,27,Rosario Central,Mediocampista,Argentina,73,74,3800000,13000,['Especialista Oculto'],72.83333333,1.91E-05,-1.37904057,0.757511831
+3121,A. Regattin,26,Akhisar Belediyespor,Mediocampista,Morocco,73,73,4300000,15000,['Especialista Oculto'],71.83333333,1.66E-05,-2.251935083,-0.136170822
+3134,A. Ricaurte,26,Independiente Medellín,Mediocampista,Colombia,73,75,4000000,4000,['Especialista Oculto'],74.33333333,1.86E-05,0.803195711,0.676267954
+3170,S. Ingason,24,Agente Libre,Defensor,Iceland,73,78,0,0,['Talento Infravalorado'],73.5,73.5,0.861364031,0.600747613
+3177,S. Peeters,26,Stade Malherbe Caen,Mediocampista,Belgium,73,76,4900000,19000,"['Especialista Oculto', 'Especialista Oculto']",73.66666667,1.50E-05,1.676090224,-0.136170822
+3185,A. Rosina,34,US Salernitana 1919,Atacante,Italy,73,73,2000000,5000,['Especialista Oculto'],73.16666667,3.65E-05,-1.623995266,-2.412415552
+3186,B. Bannan,28,Sheffield Wednesday,Mediocampista,Scotland,73,73,4000000,24000,['Especialista Oculto'],74.66666667,1.86E-05,-1.37904057,-2.410999394
+3191,V. Coufal,25,SK Slavia Praha,Defensor,Czech Republic,73,76,4099999,1000,['Especialista Oculto'],66,1.61E-05,-1.197458154,-0.249771815
+3198,L. Pisculichi,34,Argentinos Juniors,Mediocampista,Argentina,73,73,2000000,12000,['Especialista Oculto'],70.5,3.50E-05,-0.506146058,-0.2174147
+3208,B. Sigurðarson,27,Agente Libre,Atacante,Iceland,73,74,0,0,['Talento Infravalorado'],72.5,72.5,0.688844659,1.401166026
+3221,J. Cuevas,30,CD Everton de Viña del Mar,Atacante,Argentina,72,72,2900000,4000,['Anomalía Física'],66.16666667,2.28E-05,-3.16588855,-0.767341146
+3237,R. Koolwijk,32,Excelsior,Mediocampista,Netherlands,72,72,1800000,6000,['Especialista Oculto'],72.5,4.01E-05,2.548984736,1.163731219
+3282,V. Granat,31,Agente Libre,Defensor,Russia,72,72,0,0,['Talento Infravalorado'],72,72,0.037835157,0.033734661
+3305,D. Mili?evi?,32,KAS Eupen,Mediocampista,Bosnia Herzegovina,72,72,2400000,10000,['Especialista Oculto'],70.33333333,2.92E-05,-0.942593314,-1.273585108
+3336,H. Wilson,21,Derby County,Atacante,Wales,72,84,5500000,48000,['Especialista Oculto'],68.83333333,1.24E-05,-1.238521945,-1.44032613
+3346,P. Billing,22,Huddersfield Town,Mediocampista,Denmark,72,83,4700000,25000,['Anomalía Física'],69.66666667,1.47E-05,3.421879249,1.082487342
+3363,L. Cabrera,26,Getafe CF,Defensor,Uruguay,72,75,3200000,15000,['Especialista Oculto'],69.33333333,2.16E-05,0.861364031,1.073258406
+3390,P. Crouch,37,Stoke City,Atacante,England,72,72,1100000,25000,['Anomalía Física'],77.33333333,6.87E-05,3.001684584,0.279524385
+3393,Roberto Torres,29,CA Osasuna,Mediocampista,Spain,72,72,3000000,9000,['Especialista Oculto'],74.5,2.48E-05,-0.069698801,0.757511831
+3398,M. Makola,32,Orlando Pirates,Mediocampista,South Africa,72,72,2400000,1000,['Especialista Oculto'],70.33333333,2.93E-05,-0.942593314,-0.54239021
+3442,R. McCormack,31,Central Coast Mariners,Atacante,Scotland,72,72,2800000,16000,['Especialista Oculto'],72.83333333,2.59E-05,-0.853048625,0.87773326
+3467,C. Brunt,33,West Bromwich Albion,Mediocampista,Northern Ireland,72,72,1800000,24000,['Especialista Oculto'],69.5,3.81E-05,1.239642967,0.595024076
+3503,D. Gonzo,22,Agente Libre,Mediocampista,Paraguay,72,78,0,0,['Talento Infravalorado'],69.66666667,69.66666667,-0.506146058,-0.298658577
+3521,D. Kombarov,31,Spartak Moscow,Defensor,Russia,72,72,2000000,1000,['Especialista Oculto'],67.16666667,3.36E-05,0.037835157,-1.100291243
+3523,João Schmidt,25,Rio Ave FC,Mediocampista,Brazil,72,76,3900000,18000,['Especialista Oculto'],70.5,1.80E-05,0.803195711,0.757511831
+3550,S. Nakamura,40,Júbilo Iwata,Mediocampista,Japan,72,72,0,4000,"['Especialista Oculto', 'Especialista Oculto']",70,0.017495626,-0.069698801,0.270048566
+3562,B. Méndez,18,Agente Libre,Defensor,Uruguay,72,82,0,0,['Talento Infravalorado'],72,72,-0.785693717,0.695249772
+3570,Diego Ângelo,32,Antalyaspor,Defensor,Brazil,72,72,1800000,12000,['Especialista Oculto'],73.66666667,4.07E-05,1.684892905,1.451267041
+3576,T. Savanier,26,Nîmes Olympique,Mediocampista,France,72,75,3800000,14000,['Especialista Oculto'],72.33333333,1.90E-05,-1.37904057,-0.461146332
+3588,M. Pérez García,33,Club Atlético Tigre,Mediocampista,Argentina,72,72,1900000,11000,['Especialista Oculto'],73.66666667,3.85E-05,-2.251935083,-1.111097353
+3610,J. Arango,27,Al Batin,Atacante,Colombia,72,73,3600000,12000,['Especialista Oculto'],70.5,1.95E-05,-0.082101983,0.354300495
+3618,M. Cuisance,18,Borussia Mönchengladbach,Mediocampista,France,72,85,5500000,9000,['Especialista Oculto'],71.5,1.30E-05,0.366748455,-1.19234123
+3625,R. Varga,28,Agente Libre,Atacante,Hungary,72,72,0,0,"['Especialista Oculto', 'Talento Infravalorado']",70.83333333,70.83333333,0.303371338,0.129972167
+3630,B. Caicedo,26,Agente Libre,Defensor,Ecuador,72,75,0,0,['Talento Infravalorado'],63.66666667,63.66666667,-0.37392928,-1.289295561
+3631,A. Silbeira,22,Agente Libre,Portero,Paraguay,72,72,0,0,['Talento Infravalorado'],62,62,0.484848906,1.025785071
+3638,L. Olaza,23,Boca Juniors,Defensor,Uruguay,72,78,3600000,10000,['Especialista Oculto'],63.83333333,1.77E-05,-1.197458154,-0.533278291
+3710,Y. Ouattara,34,Agente Libre,Atacante,Ivory Coast,72,72,0,0,['Talento Infravalorado'],70.5,70.5,-0.853048625,-0.692565036
+3724,D. Villalva,25,Querétaro,Atacante,Argentina,72,73,3700000,7000,['Anomalía Física'],70.16666667,1.89E-05,-3.16588855,-2.56196777
+3736,D. Dibusz,27,Agente Libre,Portero,Hungary,72,73,0,0,['Talento Infravalorado'],69.8,69.8,-0.048748395,-2.214378353
+3742,J. Otero,23,Amiens SC,Mediocampista,Colombia,72,79,4400000,12000,['Especialista Oculto'],70.16666667,1.59E-05,0.803195711,1.326218974
+3755,Aketxe,24,Cádiz CF,Mediocampista,Spain,72,78,4300000,6000,['Especialista Oculto'],68.33333333,1.59E-05,-0.506146058,-0.2174147
+3784,P. Bardsley,33,Burnley,Defensor,Scotland,72,72,1200000,32000,['Especialista Oculto'],73.33333333,5.95E-05,-0.37392928,0.506245454
+3786,P. Da Silva,38,Agente Libre,Defensor,Paraguay,72,72,0,0,['Talento Infravalorado'],73,73,-0.37392928,0.978756248
+3792,Salva Sevilla,34,RCD Mallorca,Mediocampista,Spain,72,72,1500000,8000,"['Especialista Oculto', 'Especialista Oculto']",71,4.71E-05,-0.069698801,0.026316933
+3824,H. Kiyotake,28,Cerezo Osaka,Mediocampista,Japan,72,72,3100000,7000,['Especialista Oculto'],72.16666667,2.32E-05,-0.942593314,-0.298658577
+3839,C. Arboleda,32,Independiente Santa Fe,Defensor,Colombia,72,72,1700000,4000,['Anomalía Física'],59.16666667,3.47E-05,-2.020987028,-3.746351686
+3858,M. Zeman,29,Viktoria Plze?,Mediocampista,Czech Republic,72,72,3000000,1000,['Especialista Oculto'],70.16666667,2.34E-05,-0.506146058,-2.248511639
+3861,Yeom Ki Hun,35,Suwon Samsung Bluewings,Atacante,Korea Republic,72,72,1400000,6000,['Especialista Oculto'],72.83333333,5.18E-05,0.303371338,0.802957151
+3876,Fran Mérida,28,CA Osasuna,Mediocampista,Spain,72,73,2800000,8000,['Especialista Oculto'],70.66666667,2.52E-05,-0.069698801,1.001243464
+3878,S. Sensi,22,Sassuolo,Mediocampista,Italy,72,77,3500000,26000,['Especialista Oculto'],75,2.13E-05,-1.815487826,0.188804688
+3884,R. Delgado,28,Defensa y Justicia,Defensor,Argentina,72,72,2500000,10000,['Especialista Oculto'],70.5,2.81E-05,-1.197458154,-0.060767498
+3892,A. Saelemaekers,19,RSC Anderlecht,Defensor,Belgium,72,84,5500000,7000,['Especialista Oculto'],57.83333333,1.05E-05,-1.197458154,-1.667304195
+3898,A. Fiola,28,Agente Libre,Defensor,Hungary,72,72,0,0,['Talento Infravalorado'],66,66,0.037835157,-0.911286926
+3900,N. Jelavi?,32,Guizhou Hengfeng FC,Atacante,Croatia,72,72,2500000,13000,['Especialista Oculto'],73.83333333,2.94E-05,1.07431798,1.027285479
+3915,C. Mulgrew,32,Blackburn Rovers,Defensor,Scotland,72,72,1800000,27000,['Especialista Oculto'],72.16666667,3.95E-05,1.273128468,0.978756248
+3918,F. Peluso,34,Sassuolo,Defensor,Italy,72,72,875000,30000,['Especialista Oculto'],76.83333333,8.49E-05,0.861364031,0.600747613
+3943,W. Ángel,25,Agente Libre,Defensor,Venezuela,72,78,0,0,['Talento Infravalorado'],73.66666667,73.66666667,0.861364031,1.734773517
+3957,Elustondo,31,Rayo Vallecano,Mediocampista,Spain,72,72,2700000,14000,['Especialista Oculto'],69.83333333,2.57E-05,0.803195711,1.244975097
+3971,O. Skúlason,35,Agente Libre,Mediocampista,Iceland,71,71,0,0,['Talento Infravalorado'],68.66666667,68.66666667,0.803195711,1.082487342
+4014,Luis García,37,KAS Eupen,Mediocampista,Spain,71,71,750000,6000,['Especialista Oculto'],72,9.52E-05,-0.069698801,-0.136170822
+4044,A. Tarek,26,Orlando City SC,Defensor,Egypt,71,74,2500000,5000,['Especialista Oculto'],67.66666667,2.70E-05,1.273128468,0.884254089
+4045,O. Fink,36,Fortuna Düsseldorf,Mediocampista,Germany,71,71,750000,14000,['Especialista Oculto'],72.83333333,9.53E-05,1.676090224,1.082487342
+4049,T. Schütz,30,DSC Arminia Bielefeld,Mediocampista,Germany,71,71,1800000,9000,['Especialista Oculto'],68,3.76E-05,0.366748455,0.513780199
+4054,P. Klement,25,SC Paderborn 07,Mediocampista,Germany,71,72,2800000,8000,['Especialista Oculto'],70.66666667,2.52E-05,-0.506146058,-0.86736572
+4121,J. Campos,30,Agente Libre,Mediocampista,Bolivia,71,71,0,0,['Talento Infravalorado'],72.66666667,72.66666667,-0.506146058,0.026316933
+4161,Y. Soteldo,21,Universidad de Chile,Mediocampista,Venezuela,71,81,3800000,6000,['Anomalía Física'],69.5,1.83E-05,-3.124829595,-2.573487149
+4189,V. Milinkovi?-Savi?,21,SPAL,Portero,Serbia,71,79,2600000,12000,['Anomalía Física'],69,2.64E-05,3.152835411,1.11578961
+4191,L. Kleinheisler,24,Agente Libre,Mediocampista,Hungary,71,76,0,0,['Talento Infravalorado'],70,70,-0.942593314,0.188804688
+4217,Shikabala,32,Agente Libre,Atacante,Egypt,71,71,0,0,['Talento Infravalorado'],71.16666667,71.16666667,0.303371338,0.354300495
+4220,D. Cools,22,Club Brugge KV,Mediocampista,Belgium,71,78,3300000,12000,['Especialista Oculto'],70.33333333,2.12E-05,0.803195711,1.001243464
+4257,J. Riojas,30,Agente Libre,Mediocampista,Paraguay,71,71,0,0,['Talento Infravalorado'],66.83333333,66.83333333,-0.506146058,-0.136170822
+4274,M. Korhut,29,Agente Libre,Defensor,Hungary,71,71,0,0,['Talento Infravalorado'],67.33333333,67.33333333,-0.37392928,-0.438776133
+4276,N. Ortigoza,33,Rosario Central,Mediocampista,Paraguay,71,71,950000,10000,['Especialista Oculto'],67.66666667,7.05E-05,0.366748455,2.13865775
+4281,C. Pantilimon,31,Nottingham Forest,Portero,Romania,71,71,1400000,22000,['Anomalía Física'],69.8,4.91E-05,3.152835411,1.565812308
+4295,D. Kaiser,29,Brøndby IF,Mediocampista,Germany,71,71,2300000,18000,['Especialista Oculto'],70.5,3.04E-05,-1.37904057,-0.298658577
+4298,J. Sambenito,26,Agente Libre,Atacante,Paraguay,71,74,0,0,['Talento Infravalorado'],71.33333333,71.33333333,0.303371338,0.429076604
+4321,M. Suárez,22,Agente Libre,Defensor,Uruguay,71,78,0,0,['Talento Infravalorado'],70.5,70.5,0.037835157,0.317241137
+4335,Verza,31,CF Rayo Majadahonda,Mediocampista,Spain,71,71,1600000,5000,"['Especialista Oculto', 'Especialista Oculto']",69.5,4.33E-05,0.366748455,0.513780199
+4366,Bruno Alves,36,Parma,Defensor,Portugal,71,71,325000,16000,['Especialista Oculto'],70,0.000205278,0.861364031,1.640271358
+4367,J. Velázquez,27,Club Tijuana,Defensor,Argentina,71,73,2300000,13000,['Especialista Oculto'],69.83333333,3.02E-05,0.037835157,0.506245454
+4373,C. Araujo,36,Club Atlético Huracán,Defensor,Argentina,71,71,270000,7000,['Especialista Oculto'],69.33333333,0.0002503,-1.609222591,-0.533278291
+4387,B. Angulo,22,Agente Libre,Atacante,Ecuador,71,77,0,0,['Talento Infravalorado'],67.83333333,67.83333333,0.303371338,0.204748276
+4425,B. Marshall,27,Norwich City,Mediocampista,England,71,71,2500000,18000,['Especialista Oculto'],68.5,2.72E-05,0.366748455,0.026316933
+4427,Álex Martínez,27,Granada CF,Defensor,Spain,71,71,2000000,6000,['Especialista Oculto'],61.33333333,3.06E-05,-1.197458154,-1.194793402
+4445,M. Gobbi,37,Parma,Defensor,Italy,71,71,270000,16000,"['Especialista Oculto', 'Especialista Oculto']",70.66666667,0.000247085,0.037835157,-0.155269657
+4453,P. Onuachu,24,FC Midtjylland,Atacante,Nigeria,71,78,3400000,14000,['Anomalía Física'],68.33333333,2.00E-05,3.001684584,1.176837698
+4459,Gumbau,23,CD Leganés,Mediocampista,Spain,71,77,2800000,14000,['Especialista Oculto'],67.16666667,2.39E-05,1.676090224,0.838755709
+4470,Y. Endo,38,Gamba Osaka,Mediocampista,Japan,71,71,325000,6000,['Especialista Oculto'],72.16666667,0.000218026,-0.069698801,1.163731219
+4540,Manu Morlanes,19,Villarreal CF,Mediocampista,Spain,71,83,4099999,9000,['Diamante en Bruto'],70,1.70E-05,-0.069698801,-0.2174147
+4557,R. López,25,Pachuca,Defensor,Mexico,71,76,2600000,16000,['Especialista Oculto'],64.5,2.47E-05,0.449599594,-0.060767498
+4592,P. Ebert,31,SG Dynamo Dresden,Atacante,Germany,71,71,2100000,13000,['Especialista Oculto'],69.5,3.29E-05,-0.853048625,0.129972167
+4599,Danilo Silva,31,Los Angeles FC,Defensor,Brazil,71,71,1600000,15000,['Especialista Oculto'],68.5,4.24E-05,0.449599594,0.317241137
+4652,O. Zinchenko,21,Manchester City,Defensor,Ukraine,71,81,3300000,38000,['Especialista Oculto'],65.33333333,1.96E-05,-1.197458154,-1.761806354
+4667,Z. Kalmár,23,Agente Libre,Mediocampista,Hungary,71,78,0,0,['Talento Infravalorado'],69.5,69.5,1.239642967,-0.379902455
+4678,O. Rashid,26,Santa Clara,Mediocampista,Iraq,71,74,2900000,4000,['Especialista Oculto'],72.33333333,2.49E-05,-0.506146058,-0.379902455
+4707,E. Conde,35,Agente Libre,Portero,Uruguay,71,71,0,0,"['Talento Infravalorado', 'Anomalía Física']",64.4,64.4,-0.048748395,-3.114423748
+4738,Carlos Martínez,32,Real Oviedo,Defensor,Spain,71,71,1300000,7000,['Especialista Oculto'],72,5.51E-05,0.861364031,0.128236819
+4741,O. Pérez,45,Pachuca,Portero,Mexico,71,71,160000,8000,['Anomalía Física'],68.6,0.000408331,-3.250332202,0.485757833
+4748,Zapater,33,Real Zaragoza,Mediocampista,Spain,71,71,1400000,7000,['Especialista Oculto'],69.5,4.94E-05,0.366748455,1.001243464
+4753,O. Ad?n,32,Antalyaspor,Mediocampista,Turkey,70,70,1400000,10000,['Especialista Oculto'],65.66666667,4.66E-05,-0.506146058,0.351292443
+4789,G. Þórarinsson,26,IFK Norrköping,Mediocampista,Iceland,70,71,2100000,4000,['Especialista Oculto'],73,3.47E-05,0.803195711,1.001243464
+4811,De las Cuevas,32,Córdoba CF,Mediocampista,Spain,70,70,1300000,6000,['Especialista Oculto'],71.83333333,5.50E-05,-0.506146058,0.919999586
+4823,P. Anton,27,Agente Libre,Mediocampista,Romania,70,73,0,0,"['Especialista Oculto', 'Talento Infravalorado']",65.5,65.5,0.803195711,0.432536321
+4851,S. Kerk,24,1. FC Nürnberg,Mediocampista,Germany,70,76,2400000,12000,['Especialista Oculto'],65.33333333,2.71E-05,0.803195711,0.188804688
+4876,D. Keet,28,Agente Libre,Portero,South Africa,70,71,0,0,['Talento Infravalorado'],61.8,61.8,-1.115942998,0.665766913
+4911,Y. Kashiwagi,30,Urawa Red Diamonds,Mediocampista,Japan,70,70,1600000,7000,['Especialista Oculto'],69.33333333,4.31E-05,-0.506146058,-0.054926944
+4925,J. Berthomier,28,ESTAC Troyes,Mediocampista,France,70,70,1800000,6000,['Especialista Oculto'],70.16666667,3.89E-05,-0.069698801,0.270048566
+4930,N. Moro,20,Dinamo Zagreb,Mediocampista,Croatia,70,81,2700000,1000,['Especialista Oculto'],69.66666667,2.58E-05,0.803195711,0.107560811
+4945,H. Vaca,20,Agente Libre,Mediocampista,Bolivia,70,78,0,0,['Talento Infravalorado'],69.33333333,69.33333333,-1.815487826,-1.273585108
+4989,Lee Seung Woo,20,Hellas Verona,Atacante,Korea Republic,70,79,2800000,3000,['Diamante en Bruto'],66.33333333,2.37E-05,-1.238521945,-1.066445583
+4991,M. Trávník,24,Agente Libre,Mediocampista,Czech Republic,70,76,0,0,['Talento Infravalorado'],72,72,-0.506146058,-0.379902455
+5007,Kangin Lee,17,Valencia CF,Mediocampista,Korea Republic,70,88,3500000,8000,['Especialista Oculto'],68.33333333,1.95E-05,-0.942593314,-1.029853475
+5018,C. Adam,32,Stoke City,Mediocampista,Scotland,70,70,1300000,23000,"['Especialista Oculto', 'Especialista Oculto']",67.33333333,5.09E-05,1.239642967,1.326218974
+5025,B. Meling,23,Rosenborg BK,Defensor,Norway,70,75,2000000,4000,['Anomalía Física'],57.5,2.87E-05,-1.609222591,-3.273840893
+5050,E. Koulouris,22,Agente Libre,Atacante,Greece,70,78,0,0,['Talento Infravalorado'],68.83333333,68.83333333,0.688844659,0.129972167
+5058,J. Sambia,21,Montpellier HSC,Mediocampista,France,70,78,2600000,10000,['Especialista Oculto'],71.16666667,2.73E-05,1.239642967,0.513780199
+5060,P. Mahlambi,20,Agente Libre,Mediocampista,South Africa,70,84,0,0,"['Talento Infravalorado', 'Diamante en Bruto']",65.83333333,65.83333333,-0.942593314,-1.029853475
+5081,J. Paredes,30,Agente Libre,Defensor,Ecuador,70,70,0,0,['Talento Infravalorado'],66.5,66.5,-1.197458154,-0.911286926
+5112,Sandro Manoel,29,Al Taawoun,Mediocampista,Brazil,70,70,1400000,12000,['Especialista Oculto'],68.83333333,4.87E-05,-0.506146058,1.407462852
+5125,L. Cáceda,30,Agente Libre,Defensor,Paraguay,70,70,0,0,['Talento Infravalorado'],70.66666667,70.66666667,1.273128468,1.5457692
+5143,L. Giannetti,24,Vélez Sarsfield,Defensor,Argentina,70,76,2100000,7000,['Especialista Oculto'],69.5,3.30E-05,0.037835157,0.506245454
+5162,Luan Sendeiro,26,Internacional,Mediocampista,Brazil,70,70,1500000,13000,['Especialista Oculto'],64.66666667,4.27E-05,0.366748455,0.676267954
+5223,Gus Ledes,25,CF Reus Deportiu,Mediocampista,Portugal,70,73,1900000,5000,['Especialista Oculto'],70.16666667,3.68E-05,-0.942593314,0.351292443
+5230,B. Urribarri,31,Patronato,Defensor,Argentina,70,70,1200000,8000,['Anomalía Física'],57.16666667,4.73E-05,-1.197458154,-3.46284521
+5241,B. Henning,23,FC Wacker Innsbruck,Mediocampista,Germany,70,79,2400000,6000,['Especialista Oculto'],68.16666667,2.83E-05,-0.942593314,0.026316933
+5244,R. Cardozo,28,Agente Libre,Mediocampista,Bolivia,70,70,0,0,['Talento Infravalorado'],69.83333333,69.83333333,-1.37904057,-1.436072863
+5251,Javi Lara,32,Córdoba CF,Mediocampista,Spain,70,70,1300000,6000,"['Especialista Oculto', 'Especialista Oculto', 'Especialista Oculto']",64.5,4.94E-05,-0.069698801,-0.786121843
+5254,C. Henao,29,Independiente Santa Fe,Defensor,Colombia,70,70,1400000,3000,['Especialista Oculto'],71.16666667,5.07E-05,0.861364031,1.451267041
+5271,C. Deac,32,Agente Libre,Mediocampista,Romania,70,70,0,0,['Talento Infravalorado'],70.5,70.5,-0.069698801,0.676267954
+5275,S. Manolev,32,Agente Libre,Defensor,Bulgaria,70,70,0,0,['Talento Infravalorado'],64.66666667,64.66666667,0.449599594,0.128236819
+5337,M. Wittek,22,SpVgg Greuther Fürth,Defensor,Germany,70,78,2200000,5000,['Especialista Oculto'],62.33333333,2.83E-05,-1.609222591,-1.100291243
+5338,Rafa Navarro,24,FC Sochaux-Montbéliard,Defensor,Spain,70,77,2100000,10000,['Anomalía Física'],59.5,2.82E-05,-1.609222591,-3.746351686
+5377,Thiago Carleto,29,Al Ittihad,Defensor,Brazil,70,70,1300000,19000,['Especialista Oculto'],65.5,4.97E-05,-0.785693717,0.033734661
+5382,J. Dilrosun,20,Hertha BSC,Mediocampista,Netherlands,70,86,3900000,11000,['Diamante en Bruto'],62.16666667,1.59E-05,-0.506146058,-0.786121843
+5386,I. Nedelcearu,22,Agente Libre,Defensor,Romania,70,78,0,0,['Talento Infravalorado'],69.16666667,69.16666667,1.273128468,0.600747613
+5393,C. Leemans,22,PEC Zwolle,Mediocampista,Netherlands,70,75,2300000,6000,['Especialista Oculto'],70.83333333,3.07E-05,1.676090224,1.163731219
+5431,K. Árnason,35,Agente Libre,Defensor,Iceland,70,70,0,0,['Talento Infravalorado'],72.16666667,72.16666667,1.273128468,1.262262724
+5475,Kalindi,24,CD Nacional,Defensor,Brazil,70,74,1900000,5000,['Anomalía Física'],57.16666667,3.00E-05,-2.020987028,-3.179338734
+5490,H. Veerman,27,FC St. Pauli,Atacante,Netherlands,70,70,1900000,11000,['Anomalía Física'],68.66666667,3.59E-05,3.001684584,1.924598791
+5504,J. Silbeira,22,Agente Libre,Portero,Paraguay,70,72,0,0,['Talento Infravalorado'],66.8,66.8,-0.582345696,-1.134323878
+5542,M. Pátkai,30,Agente Libre,Mediocampista,Hungary,70,70,0,0,['Talento Infravalorado'],68.83333333,68.83333333,-0.942593314,-1.354828986
+5572,L. Licht,37,Gimnasia y Esgrima La Plata,Defensor,Argentina,70,70,200000,6000,['Especialista Oculto'],65.66666667,0.000318769,-1.197458154,-0.62778045
+5574,E. Brignola,18,Sassuolo,Mediocampista,Italy,70,84,3700000,12000,['Diamante en Bruto'],66,1.78E-05,-1.815487826,-0.136170822
+5579,V. Malcorra,30,U.N.A.M.,Mediocampista,Argentina,70,70,1600000,12000,['Especialista Oculto'],71.83333333,4.46E-05,-1.37904057,0.351292443
+5586,D. Ndlovu,28,Agente Libre,Atacante,South Africa,70,70,0,0,['Talento Infravalorado'],67,67,-0.853048625,-0.543012818
+5589,H. Faik,26,SV Zulte-Waregem,Mediocampista,Netherlands,70,72,2100000,9000,['Especialista Oculto'],70.83333333,3.36E-05,2.11253748,0.432536321
+5594,D. Böde,31,Agente Libre,Atacante,Hungary,70,70,0,0,['Talento Infravalorado'],69.33333333,69.33333333,1.4597913,1.924598791
+5613,A. Fathi,33,Agente Libre,Defensor,Egypt,70,70,0,0,['Talento Infravalorado'],66.83333333,66.83333333,-1.197458154,-0.155269657
+5619,E. Oztumer,27,Bolton Wanderers,Mediocampista,England,70,71,2000000,7000,['Anomalía Física'],71.83333333,3.58E-05,-3.124829595,-2.167267761
+5655,N. Bodurov,32,Agente Libre,Defensor,Bulgaria,69,69,0,0,['Talento Infravalorado'],68.33333333,68.33333333,-0.37392928,0.317241137
+5692,O. Ruisalvo,26,Agente Libre,Mediocampista,Paraguay,69,69,0,0,['Talento Infravalorado'],65.83333333,65.83333333,-2.251935083,-1.354828986
+5719,J. Sánchez,20,Club América,Defensor,Mexico,69,77,1300000,17000,['Diamante en Bruto'],62.66666667,4.76E-05,-1.197458154,-1.289295561
+5776,B. Sangaré,32,Agente Libre,Portero,Ivory Coast,69,69,0,0,['Talento Infravalorado'],64.8,64.8,-1.649540299,0.395753294
+5794,H. Halldórsson,34,Agente Libre,Portero,Iceland,69,69,0,0,['Talento Infravalorado'],65.2,65.2,1.018446207,0.395753294
+5821,Jaimosa Cavaco,30,Vitória,Defensor,Brazil,69,69,750000,6000,['Anomalía Física'],60,7.94E-05,-2.432751465,-3.557347369
+5827,C. Techera,26,Vancouver Whitecaps FC,Mediocampista,Uruguay,69,70,1200000,4000,['Anomalía Física'],67.33333333,5.59E-05,-3.561276851,-2.492243271
+5882,C. Cáceda,26,Agente Libre,Portero,Peru,69,73,0,0,['Talento Infravalorado'],66,66,-1.115942998,-0.414287562
+5894,H. Kekana,33,Agente Libre,Mediocampista,South Africa,69,69,0,0,['Talento Infravalorado'],71.5,71.5,-0.506146058,0.838755709
+5912,M. Hamdy,23,Agente Libre,Defensor,Egypt,69,79,0,0,['Talento Infravalorado'],69.66666667,69.66666667,-1.609222591,-0.060767498
+5920,R. Romo,28,Agente Libre,Portero,Venezuela,69,71,0,0,['Talento Infravalorado'],66.2,66.2,2.085640809,0.485757833
+5921,A. Corzo,29,Agente Libre,Defensor,Peru,69,69,0,0,['Talento Infravalorado'],65.5,65.5,-1.609222591,-1.478299878
+5939,B. Mkhwanazi,28,Agente Libre,Defensor,South Africa,69,70,0,0,['Talento Infravalorado'],69,69,0.037835157,0.411743296
+5942,G. Mandjeck,29,Agente Libre,Mediocampista,Cameroon,69,69,0,0,['Talento Infravalorado'],67,67,1.239642967,1.326218974
+5987,A. Giannou,28,Agente Libre,Atacante,Australia,69,69,0,0,['Talento Infravalorado'],65.66666667,65.66666667,0.688844659,0.653404932
+6016,A. Šporar,24,Agente Libre,Atacante,Slovenia,69,76,0,0,['Talento Infravalorado'],67.33333333,67.33333333,0.688844659,0.055196057
+6020,A. Ashraf,27,Agente Libre,Mediocampista,Egypt,69,69,0,0,['Talento Infravalorado'],67.5,67.5,-0.506146058,0.188804688
+6274,N. Barrios,20,San Lorenzo de Almagro,Mediocampista,Argentina,69,82,2000000,7000,['Anomalía Física'],66.5,3.31E-05,-3.997724108,-2.735974904
+6331,C. Mo?i,33,Agente Libre,Defensor,Romania,69,69,0,0,['Talento Infravalorado'],68.83333333,68.83333333,0.037835157,0.317241137
+6353,Vinícius,28,Agente Libre,Defensor,Hungary,69,69,0,0,['Talento Infravalorado'],70.83333333,70.83333333,0.037835157,0.695249772
+6406,S. Ekramy,34,Agente Libre,Portero,Egypt,69,69,0,0,['Talento Infravalorado'],66.4,66.4,1.018446207,0.305748754
+6412,G. Lovrencsics,29,Agente Libre,Defensor,Hungary,69,69,0,0,['Talento Infravalorado'],67.66666667,67.66666667,-0.785693717,0.033734661
+6495,A. Robinson,20,Wigan Athletic,Defensor,United States,69,81,1600000,23000,['Diamante en Bruto'],65.16666667,4.02E-05,-0.37392928,-0.344273974
+6510,A. Lang,25,Agente Libre,Defensor,Hungary,69,71,0,0,['Talento Infravalorado'],68.83333333,68.83333333,0.861364031,0.222738978
+6538,A. Kovácsik,27,Agente Libre,Portero,Hungary,69,70,0,0,['Talento Infravalorado'],67,67,1.018446207,0.395753294
+6541,J. Orejuela,25,Agente Libre,Mediocampista,Ecuador,69,76,0,0,['Talento Infravalorado'],66.83333333,66.83333333,-0.069698801,0.595024076
+6570,M. Richter,20,FC Augsburg,Mediocampista,Germany,69,78,1600000,8000,['Diamante en Bruto'],63.83333333,3.97E-05,-0.506146058,0.270048566
+6583,H. Nakagawa,23,Kashiwa Reysol,Mediocampista,Japan,69,72,1300000,5000,['Anomalía Física'],68.83333333,5.27E-05,-3.997724108,-2.817218782
+6598,C. Manea,20,Agente Libre,Defensor,Romania,69,81,0,0,['Talento Infravalorado'],66,66,0.037835157,-0.249771815
+6626,Vágner Norteiro,34,Chapecoense,Defensor,Brazil,68,68,250000,6000,['Anomalía Física'],55.66666667,0.000217447,-2.844515902,-3.746351686
+6638,I. Hagi,19,Agente Libre,Mediocampista,Romania,68,82,0,0,['Talento Infravalorado'],67.16666667,67.16666667,0.366748455,0.026316933
+6643,M. Bagayoko,28,Agente Libre,Defensor,Ivory Coast,68,68,0,0,['Talento Infravalorado'],62.66666667,62.66666667,-1.197458154,-0.911286926
+6678,V. Bozhikov,30,Agente Libre,Defensor,Bulgaria,68,68,0,0,['Talento Infravalorado'],67.16666667,67.16666667,0.449599594,0.600747613
+6716,A. Gabr,29,Agente Libre,Defensor,Egypt,68,68,0,0,['Talento Infravalorado'],67,67,1.273128468,0.695249772
+6724,J. Carvallo,32,Agente Libre,Portero,Peru,68,68,0,0,['Talento Infravalorado'],63.8,63.8,-1.115942998,-1.404337497
+6802,O. Gaber,26,Agente Libre,Defensor,Egypt,68,71,0,0,['Talento Infravalorado'],67,67,-1.197458154,0.317241137
+6864,J. Koprivec,29,Agente Libre,Portero,Slovenia,68,68,0,0,['Talento Infravalorado'],67.6,67.6,-0.582345696,0.035735136
+6898,P. Iliev,26,Agente Libre,Portero,Bulgaria,68,72,0,0,['Talento Infravalorado'],63.2,63.2,-1.115942998,-0.77430572
+6925,I. Akhmetov,20,PFC CSKA Moscow,Mediocampista,Russia,68,80,1600000,1000,['Diamante en Bruto'],65.83333333,4.11E-05,-0.942593314,-1.761048373
+6983,S. Makienok,27,FC Utrecht,Atacante,Denmark,68,68,950000,8000,['Anomalía Física'],67.16666667,7.01E-05,3.001684584,1.775046573
+7041,R. Ligeon,26,PEC Zwolle,Defensor,Netherlands,68,70,875000,4000,['Anomalía Física'],56.5,6.43E-05,-1.197458154,-3.557347369
+7119,S. Slavchev,24,Agente Libre,Mediocampista,Bulgaria,68,73,0,0,['Talento Infravalorado'],69.33333333,69.33333333,1.239642967,0.919999586
+7124,A. Araujo,21,GFC Ajaccio,Mediocampista,Portugal,68,75,1300000,2000,['Anomalía Física'],64.83333333,4.98E-05,-3.124829595,-2.573487149
+7150,J. Cifuente,25,Agente Libre,Atacante,Ecuador,68,70,0,0,['Talento Infravalorado'],64,64,-0.467575304,-0.617788927
+7249,T. Nedelev,25,Agente Libre,Mediocampista,Bulgaria,68,73,0,0,['Talento Infravalorado'],65.5,65.5,-0.506146058,-0.948609598
+7254,S. Xulu,26,Agente Libre,Defensor,South Africa,68,70,0,0,['Talento Infravalorado'],66.16666667,66.16666667,0.861364031,0.033734661
+7259,T. Tzimopoulos,32,Agente Libre,Defensor,New Zealand,68,68,0,0,['Talento Infravalorado'],67.83333333,67.83333333,0.861364031,1.167760565
+7346,Matos,23,Cádiz CF,Defensor,Spain,68,75,1100000,4000,['Anomalía Física'],54.16666667,4.91E-05,-2.432751465,-3.557347369
+7418,André Vidigal,19,Fortuna Sittard,Atacante,Portugal,68,78,1400000,2000,['Diamante en Bruto'],63.66666667,4.54E-05,-0.853048625,-1.215997802
+7489,S. Hlanti,28,Agente Libre,Defensor,South Africa,68,68,0,0,['Talento Infravalorado'],64.5,64.5,0.037835157,-0.438776133
+7533,M. Madisha,23,Agente Libre,Defensor,South Africa,68,76,0,0,['Talento Infravalorado'],66.83333333,66.83333333,-0.37392928,-1.194793402
+7588,H. Eyjólfsson,27,Agente Libre,Defensor,Iceland,68,69,0,0,['Talento Infravalorado'],68.5,68.5,1.273128468,0.695249772
+7601,A. Modiba,22,Agente Libre,Atacante,South Africa,68,76,0,0,['Talento Infravalorado'],61.33333333,61.33333333,-1.623995266,-1.141221692
+7637,H. Calcaterra,29,Agente Libre,Mediocampista,Peru,68,68,0,0,['Talento Infravalorado'],70.16666667,70.16666667,-0.506146058,-0.136170822
+7670,M. James,24,Agente Libre,Defensor,Canada,67,71,0,0,['Talento Infravalorado'],66.83333333,66.83333333,1.273128468,1.262262724
+7672,Deng Xiaofei,35,Chongqing Dangdai Lifan FC SWM Team,Portero,China PR,67,67,180000,2000,['Anomalía Física'],65.4,0.000359339,-0.582345696,-3.024419209
+7827,E. Vega,28,Agente Libre,Mediocampista,Ecuador,67,68,0,0,['Talento Infravalorado'],65,65,-1.815487826,0.188804688
+7874,A. Ribera,22,Agente Libre,Mediocampista,Bolivia,67,72,0,0,['Talento Infravalorado'],66.66666667,66.66666667,-0.506146058,-1.19234123
+7938,R. Baku,20,1. FSV Mainz 05,Mediocampista,Germany,67,82,1700000,7000,['Diamante en Bruto'],67.16666667,3.93E-05,-0.506146058,-0.54239021
+7987,B. Mitrev,31,Agente Libre,Portero,Bulgaria,67,67,0,0,"['Talento Infravalorado', 'Anomalía Física']",65,65,-1.115942998,-3.294432827
+8054,D. Mendiseca,22,Agente Libre,Defensor,Paraguay,67,67,0,0,['Talento Infravalorado'],68.5,68.5,0.037835157,0.222738978
+8147,G. ?ucudean,27,Agente Libre,Atacante,Romania,67,68,0,0,['Talento Infravalorado'],65.83333333,65.83333333,1.07431798,1.251613807
+8188,A. Gomes,17,Manchester United,Mediocampista,England,67,87,1500000,15000,['Anomalía Física'],66.16666667,4.37E-05,-3.124829595,-2.410999394
+8197,L. da Silva Lopes,19,Wigan Athletic,Mediocampista,Portugal,67,79,1300000,8000,['Diamante en Bruto'],63.5,4.85E-05,-1.815487826,-1.517316741
+8270,D. Furman,30,Agente Libre,Mediocampista,South Africa,67,67,0,0,['Talento Infravalorado'],71.16666667,71.16666667,0.803195711,0.838755709
+8292,E. Zhegrova,19,KRC Genk,Mediocampista,Kosovo,67,80,1400000,3000,['Diamante en Bruto'],65.66666667,4.68E-05,-0.506146058,-2.573487149
+8293,B. Baráth,26,Agente Libre,Defensor,Hungary,67,69,0,0,['Talento Infravalorado'],67.5,67.5,0.861364031,0.600747613
+8438,T. Hamed,29,Agente Libre,Mediocampista,Egypt,67,67,0,0,['Talento Infravalorado'],65,65,-1.37904057,0.270048566
+8499,Sancet,18,Athletic Club de Bilbao,Mediocampista,Spain,67,82,1600000,4000,['Diamante en Bruto'],65,4.05E-05,1.676090224,-0.786121843
+8505,M. Lovera,19,Rosario Central,Mediocampista,Argentina,67,80,1400000,3000,['Diamante en Bruto'],64.33333333,4.59E-05,-1.37904057,0.107560811
+8533,C. Songkrasin,24,Hokkaido Consadole Sapporo,Atacante,Thailand,67,70,975000,2000,['Anomalía Física'],60.33333333,6.18E-05,-3.55136187,-1.365550021
+8542,M. Mouandilmadji,20,FC Porto,Atacante,Chad,67,78,1300000,4000,['Diamante en Bruto'],63.5,4.87E-05,0.303371338,0.129972167
+8551,I. Bandalovski,31,Agente Libre,Defensor,Bulgaria,67,67,0,0,['Talento Infravalorado'],62,62,0.037835157,-1.005789085
+8587,M. Rivoredo,26,Agente Libre,Mediocampista,Paraguay,67,67,0,0,['Talento Infravalorado'],65.66666667,65.66666667,0.803195711,-0.136170822
+8602,S. Chhetri,33,Agente Libre,Atacante,India,67,67,0,0,['Talento Infravalorado'],65.83333333,65.83333333,-1.623995266,-0.543012818
+8722,Hicham,20,Málaga CF,Mediocampista,Morocco,67,78,1300000,3000,['Diamante en Bruto'],63.83333333,4.90E-05,-0.506146058,-1.679804496
+8760,L. Mago,23,Agente Libre,Defensor,Venezuela,67,73,0,0,['Talento Infravalorado'],65.66666667,65.66666667,0.037835157,0.222738978
+8904,D. Jastrzembski,18,Hertha BSC,Atacante,Germany,66,84,1300000,4000,['Diamante en Bruto'],59.83333333,4.59E-05,-0.853048625,-0.468236708
+8912,M. Crépeau,24,Agente Libre,Portero,Canada,66,72,0,0,['Talento Infravalorado'],60.8,60.8,-1.649540299,0.755771452
+8931,B. Tekpetey,20,SC Paderborn 07,Mediocampista,Ghana,66,76,1000000,3000,['Diamante en Bruto'],60.66666667,6.05E-05,-0.942593314,0.107560811
+8995,P. Daka,19,FC Red Bull Salzburg,Atacante,Zambia,66,83,1400000,6000,['Diamante en Bruto'],60.66666667,4.31E-05,0.303371338,0.279524385
+9113,R. Nyambe,20,Blackburn Rovers,Defensor,Namibia,66,78,1000000,8000,['Diamante en Bruto'],65.83333333,6.53E-05,0.037835157,0.695249772
+9126,J. Asoro,19,Swansea City,Atacante,Sweden,66,81,1400000,5000,['Diamante en Bruto'],61.16666667,4.35E-05,-0.853048625,-0.617788927
+9149,B. Sævarsson,33,Agente Libre,Defensor,Iceland,66,66,0,0,['Talento Infravalorado'],66.33333333,66.33333333,0.861364031,0.222738978
+9155,M. Boadu,17,AZ Alkmaar,Atacante,Netherlands,66,85,1300000,3000,['Diamante en Bruto'],62,4.76E-05,-0.082101983,-0.169132271
+9157,Fran Rodríguez,23,UD Almería,Defensor,Spain,66,72,750000,2000,['Anomalía Física'],59.5,7.91E-05,-1.197458154,-3.273840893
+9162,M. El-Shenawy,29,Agente Libre,Portero,Egypt,66,68,0,0,['Talento Infravalorado'],60.2,60.2,0.484848906,0.305748754
+9370,X. Arreaga,23,Agente Libre,Defensor,Ecuador,66,71,0,0,['Talento Infravalorado'],64,64,0.037835157,-0.438776133
+9398,G. Valverde,28,Agente Libre,Defensor,Bolivia,66,66,0,0,['Talento Infravalorado'],64.66666667,64.66666667,-0.785693717,-0.438776133
+9422,B. Jatta,20,Hamburger SV,Mediocampista,Gambia,66,77,1100000,3000,['Diamante en Bruto'],61.5,5.58E-05,0.803195711,0.595024076
+9434,M. Pellegrini,18,Estudiantes de La Plata,Mediocampista,Argentina,66,83,1300000,2000,['Diamante en Bruto'],61.83333333,4.75E-05,-0.506146058,-1.029853475
+9490,D. Raum,20,SpVgg Greuther Fürth,Mediocampista,Germany,66,77,1100000,2000,['Diamante en Bruto'],63.66666667,5.78E-05,0.366748455,-0.2174147
+9514,U. Cardona,19,Club Atlas,Mediocampista,Mexico,66,76,1000000,3000,['Diamante en Bruto'],62.66666667,6.25E-05,-0.069698801,-1.436072863
+9516,L. Saldaña,28,Alianza Petrolera,Defensor,Colombia,66,66,500000,1000,['Anomalía Física'],57.66666667,0.000115103,-2.020987028,-3.084836576
+9556,A. Vukoti?,22,Waasland-Beveren,Defensor,Serbia,66,72,750000,3000,['Anomalía Física'],68.33333333,9.07E-05,3.331950654,1.734773517
+9565,C. Gonzáles,25,Agente Libre,Mediocampista,Peru,66,69,0,0,['Talento Infravalorado'],66.16666667,66.16666667,-0.506146058,-0.298658577
+9586,A. Diawusie,20,FC Ingolstadt 04,Mediocampista,Germany,66,77,1100000,6000,['Diamante en Bruto'],60.33333333,5.46E-05,0.366748455,0.026316933
+9645,M. Domínguez,18,Cruz Azul,Mediocampista,Mexico,66,75,925000,6000,['Anomalía Física'],62.66666667,6.73E-05,-3.124829595,-0.461146332
+9655,L. Nmecha,19,Preston North End,Atacante,England,66,83,1400000,3000,['Diamante en Bruto'],62.83333333,4.48E-05,0.688844659,0.204748276
+9702,G. Viscarra,25,Agente Libre,Portero,Bolivia,66,71,0,0,['Talento Infravalorado'],61.8,61.8,0.484848906,-0.054269404
+9807,A. Trusty,19,Philadelphia Union,Defensor,United States,66,79,1100000,1000,['Diamante en Bruto'],66.5,6.04E-05,1.273128468,0.884254089
+9837,J. Leko,19,West Bromwich Albion,Atacante,England,66,78,1100000,6000,['Diamante en Bruto'],61.83333333,5.59E-05,0.303371338,0.055196057
+9907,M. Mohsen,29,Agente Libre,Atacante,Egypt,66,66,0,0,['Talento Infravalorado'],63.33333333,63.33333333,0.688844659,0.653404932
+9917,J. Intriago,22,Agente Libre,Mediocampista,Ecuador,66,75,0,0,['Talento Infravalorado'],66.33333333,66.33333333,-0.506146058,0.351292443
+9922,H. Abe,19,Kashima Antlers,Mediocampista,Japan,66,80,1400000,2000,['Diamante en Bruto'],63.5,4.53E-05,-1.37904057,-0.948609598
+10005,C. Almeida,28,Defensa y Justicia,Defensor,Uruguay,65,65,425000,3000,['Anomalía Física'],58.66666667,0.000137071,-2.020987028,-3.179338734
+10007,S. Jhingan,24,Agente Libre,Defensor,India,65,71,0,0,['Talento Infravalorado'],66,66,0.861364031,0.78975193
+10009,M. McKenzie,19,Philadelphia Union,Defensor,United States,65,78,900000,1000,['Diamante en Bruto'],63.5,7.05E-05,-0.37392928,-0.060767498
+10035,R. Massimo,17,DSC Arminia Bielefeld,Mediocampista,Germany,65,82,1100000,4000,['Diamante en Bruto'],59.66666667,5.40E-05,1.239642967,-0.136170822
+10079,L. Pellegrini,19,Roma,Defensor,Italy,65,79,1000000,5000,['Diamante en Bruto'],59.5,5.92E-05,-0.785693717,-1.950810671
+10101,J. Méndez,21,Agente Libre,Mediocampista,Ecuador,65,74,0,0,['Talento Infravalorado'],60.66666667,60.66666667,-0.069698801,-0.298658577
+10134,L. Haquin,20,Agente Libre,Defensor,Bolivia,65,72,0,0,['Talento Infravalorado'],66.16666667,66.16666667,-0.37392928,-1.289295561
+10196,N. Guerra,19,Universidad de Chile,Atacante,Chile,65,78,1000000,2000,['Diamante en Bruto'],62.5,6.24E-05,-0.853048625,-0.393460599
+10298,S. Torrizales,26,Agente Libre,Mediocampista,Paraguay,65,68,0,0,['Talento Infravalorado'],66.33333333,66.33333333,-0.069698801,-1.923536129
+10343,J. Sambenito,26,Agente Libre,Atacante,Paraguay,65,65,0,0,['Talento Infravalorado'],64.5,64.5,-0.853048625,-1.290773911
+10356,J. Alondro,30,Agente Libre,Defensor,Paraguay,65,65,0,0,['Talento Infravalorado'],69.5,69.5,0.861364031,1.073258406
+10428,I. Openda,18,Club Brugge KV,Atacante,Belgium,65,81,1100000,3000,['Diamante en Bruto'],58.66666667,5.32E-05,-0.853048625,0.204748276
+10436,F. Costa,26,San Martin de Tucumán,Mediocampista,Argentina,65,65,575000,3000,['Anomalía Física'],63.5,0.000109861,-3.124829595,-2.654731027
+10553,J. Maja,19,Sunderland,Atacante,England,65,82,1200000,2000,['Diamante en Bruto'],61.66666667,5.13E-05,-0.082101983,-0.393460599
+10563,S. Chukwueze,19,Villarreal CF,Atacante,Nigeria,65,81,1200000,4000,['Diamante en Bruto'],60.83333333,5.05E-05,-1.238521945,-1.515102239
+10642,J. Jones,20,Coventry City,Mediocampista,England,65,77,975000,2000,['Diamante en Bruto'],61,6.24E-05,-0.069698801,-1.761048373
+10644,A. Koita,19,KAA Gent,Atacante,Belgium,65,77,950000,3000,['Diamante en Bruto'],58.5,6.14E-05,-1.238521945,-1.215997802
+10663,E. Iyoha,20,FC Erzgebirge Aue,Atacante,Germany,65,77,975000,6000,['Diamante en Bruto'],63.33333333,6.46E-05,1.4597913,0.129972167
+10687,F. Reese,20,SpVgg Greuther Fürth,Atacante,Germany,65,77,975000,6000,['Diamante en Bruto'],61.5,6.27E-05,1.07431798,0.055196057
+10721,D. Gazdag,22,Agente Libre,Mediocampista,Hungary,65,76,0,0,['Talento Infravalorado'],65.5,65.5,-0.069698801,-0.623634087
+10811,B. Tsonev,23,Agente Libre,Mediocampista,Bulgaria,65,71,0,0,['Talento Infravalorado'],66.5,66.5,-1.37904057,-0.136170822
+10830,F. Viáfara,26,Rionegro Águilas,Defensor,Colombia,65,67,525000,1000,['Anomalía Física'],53.16666667,0.000101077,-2.432751465,-3.651849528
+10851,D. Szoboszlai,17,FC Red Bull Salzburg,Mediocampista,Hungary,65,83,1100000,4000,['Diamante en Bruto'],61.16666667,5.54E-05,1.239642967,-0.2174147
+10945,A. Badji,20,Djurgårdens IF,Atacante,Senegal,65,76,950000,2000,['Diamante en Bruto'],57.33333333,6.02E-05,1.07431798,1.102061588
+10997,K. Soni,20,Girona FC,Mediocampista,Cameroon,64,81,1000000,4000,['Diamante en Bruto'],60.66666667,6.04E-05,0.803195711,0.188804688
+11025,E. Pereyra,19,San Lorenzo de Almagro,Defensor,Argentina,64,79,875000,2000,['Diamante en Bruto'],58.66666667,6.69E-05,-1.609222591,-1.667304195
+11059,O. Richards,19,Reading,Defensor,England,64,79,875000,3000,['Diamante en Bruto'],57.33333333,6.53E-05,-2.020987028,-1.572802037
+11065,A. Obispo,19,PSV,Defensor,Netherlands,64,78,875000,1000,['Diamante en Bruto'],63.33333333,7.23E-05,0.449599594,0.600747613
+11127,J. Amon,19,FC Nordsjælland,Atacante,United States,64,79,975000,2000,['Diamante en Bruto'],56.33333333,5.77E-05,-0.853048625,-1.141221692
+11142,L. Geertruida,17,Feyenoord,Defensor,Netherlands,64,80,800000,1000,['Diamante en Bruto'],62.66666667,7.82E-05,0.449599594,0.222738978
+11202,T. Amang,20,Molde FK,Atacante,Cameroon,64,76,825000,2000,['Diamante en Bruto'],58.33333333,7.05E-05,-0.853048625,0.95250937
+11242,A. Cicâld?u,20,Agente Libre,Mediocampista,Romania,64,77,0,0,['Talento Infravalorado'],63,63,-0.069698801,1.001243464
+11273,D. Cornelius,20,Agente Libre,Defensor,Canada,64,74,0,0,['Talento Infravalorado'],63,63,0.861364031,0.600747613
+11313,J. Chancellor,26,Agente Libre,Defensor,Venezuela,64,68,0,0,['Talento Infravalorado'],66.83333333,66.83333333,2.508421779,1.451267041
+11318,S. Reyes,20,Monarcas Morelia,Atacante,Mexico,64,78,1000000,2000,['Diamante en Bruto'],60.83333333,6.07E-05,-0.853048625,-1.066445583
+11324,A. Ponce,21,Agente Libre,Atacante,Venezuela,64,75,0,0,['Talento Infravalorado'],60.66666667,60.66666667,-0.082101983,0.503852713
+11347,D. Lovren,19,Fortuna Düsseldorf,Mediocampista,Croatia,64,81,975000,3000,['Diamante en Bruto'],59.16666667,6.05E-05,-0.942593314,-1.517316741
+11359,C. Dagba,19,Paris Saint-Germain,Defensor,France,64,79,875000,5000,['Diamante en Bruto'],56.16666667,6.38E-05,-2.020987028,-2.04531283
+11391,I. Abass,19,1. FSV Mainz 05,Atacante,Ghana,64,77,850000,3000,['Diamante en Bruto'],62.5,7.33E-05,-1.238521945,-0.24390838
+11398,A. Noppert,24,Foggia,Portero,Netherlands,64,69,425000,1000,['Anomalía Física'],61.4,0.000144131,3.152835411,0.485757833
+11436,Viti,20,Real Oviedo,Mediocampista,Spain,64,76,800000,2000,['Diamante en Bruto'],60,7.48E-05,-0.506146058,-2.167267761
+11445,C. Cuesta,19,Atlético Nacional,Defensor,Colombia,64,79,875000,1000,['Diamante en Bruto'],64.33333333,7.34E-05,-1.609222591,0.222738978
+11465,N. Ferraresi,19,Agente Libre,Defensor,Venezuela,64,74,0,0,['Talento Infravalorado'],62.33333333,62.33333333,0.861364031,0.695249772
+11517,A. Askar,32,Sarpsborg 08 FF,Defensor,Ethiopia,64,64,250000,1000,['Anomalía Física'],55.16666667,0.000219787,-1.197458154,-3.46284521
+11599,L. Vaca,22,Agente Libre,Atacante,Bolivia,64,73,0,0,['Talento Infravalorado'],60.33333333,60.33333333,-0.853048625,-1.515102239
+11603,Borja Llarena,19,CD Tenerife,Atacante,Spain,64,81,975000,1000,['Diamante en Bruto'],62.5,6.40E-05,-1.623995266,-1.664654458
+11609,T. Holý,26,Gillingham,Portero,Czech Republic,64,68,400000,2000,['Anomalía Física'],60,0.000149253,3.686432712,-0.054269404
+11647,C. Timite,20,Amiens SC,Atacante,Ivory Coast,64,77,875000,3000,['Diamante en Bruto'],61.83333333,7.04E-05,-0.467575304,0.055196057
+11677,D. James,20,Swansea City,Atacante,Wales,64,79,1000000,5000,['Diamante en Bruto'],57.5,5.72E-05,-1.623995266,-0.617788927
+11689,C. Morrison,18,Heart of Midlothian,Mediocampista,Scotland,64,77,800000,1000,['Diamante en Bruto'],58.83333333,7.34E-05,-0.069698801,-0.86736572
+11865,D. Wayar,24,Agente Libre,Mediocampista,Bolivia,64,67,0,0,['Talento Infravalorado'],60.83333333,60.83333333,-1.37904057,-1.761048373
+11886,V. Loroña,19,Puebla FC,Defensor,Mexico,64,80,875000,1000,['Diamante en Bruto'],58.33333333,6.66E-05,-0.37392928,-1.383797719
+11898,K. Scherpen,18,FC Emmen,Portero,Netherlands,64,78,750000,1000,['Anomalía Física'],61.2,8.15E-05,3.152835411,0.755771452
+11911,J. Carbonero,18,Once Caldas,Mediocampista,Colombia,64,82,925000,1000,['Diamante en Bruto'],63,6.80E-05,-1.37904057,-0.2174147
+11914,G. Ivanov,30,Agente Libre,Mediocampista,Bulgaria,64,64,0,0,['Talento Infravalorado'],61.16666667,61.16666667,-0.069698801,-0.298658577
+11979,J. Candía,22,Agente Libre,Defensor,Bolivia,64,74,0,0,['Talento Infravalorado'],63,63,-0.785693717,-0.155269657
+11996,B. Añor,30,Agente Libre,Mediocampista,Venezuela,64,64,0,0,['Talento Infravalorado'],65,65,0.366748455,0.188804688
+11999,K. Lankford,19,1. FC Heidenheim 1846,Mediocampista,Germany,64,76,775000,2000,['Diamante en Bruto'],59.66666667,7.68E-05,1.239642967,0.188804688
+12017,R. Vargas,19,FC Luzern,Mediocampista,Switzerland,64,82,975000,2000,['Diamante en Bruto'],64.16666667,6.57E-05,-0.506146058,-1.842292251
+12029,T. Mokoena,21,Agente Libre,Mediocampista,South Africa,64,71,0,0,['Talento Infravalorado'],66.16666667,66.16666667,-0.506146058,-0.786121843
+12030,Kikas,19,Os Belenenses,Atacante,Portugal,64,77,850000,1000,['Diamante en Bruto'],60.33333333,7.09E-05,-0.467575304,-0.468236708
+12104,A. Torralvo,24,La Equidad,Defensor,Colombia,63,68,400000,1000,['Anomalía Física'],51.5,0.000128429,-2.020987028,-3.368343052
+12153,A. Okosun,24,FC Midtjylland,Mediocampista,Denmark,63,68,475000,4000,['Anomalía Física'],65.83333333,0.000137439,3.421879249,2.301145505
+12206,L. Maboe,23,Agente Libre,Atacante,South Africa,63,69,0,0,['Talento Infravalorado'],62.16666667,62.16666667,-1.238521945,-0.991669474
+12252,L. Olascoaga,26,Lobos BUAP,Defensor,Mexico,63,64,350000,2000,['Anomalía Física'],53,0.000150568,-2.844515902,-3.179338734
+12267,A. Smith,25,Bristol Rovers,Portero,England,63,65,325000,2000,['Anomalía Física'],59,0.000180428,-0.048748395,-3.204428288
+12285,O. Batista Meier,17,FC Bayern München,Mediocampista,Germany,63,83,725000,5000,['Diamante en Bruto'],60.33333333,8.26E-05,-0.069698801,-1.598560618
+12332,B. Mbeumo,18,ESTAC Troyes,Mediocampista,France,63,79,750000,1000,['Diamante en Bruto'],56.33333333,7.50E-05,-0.942593314,-2.573487149
+12333,M. Müldür,19,SK Rapid Wien,Defensor,Turkey,63,76,625000,1000,['Diamante en Bruto'],62.16666667,9.93E-05,0.449599594,-0.155269657
+12352,A. Georgen,19,Paris Saint-Germain,Defensor,France,63,80,700000,5000,['Diamante en Bruto'],57,8.09E-05,-1.609222591,-1.383797719
+12379,M. Anderson,20,Excelsior,Mediocampista,Iceland,63,76,700000,3000,['Diamante en Bruto'],59.33333333,8.44E-05,0.366748455,-1.436072863
+12407,M. Obafemi,17,Southampton,Atacante,Republic of Ireland,63,78,750000,5000,['Diamante en Bruto'],60,7.95E-05,-1.623995266,-1.066445583
+12417,C. Özkan,18,DSC Arminia Bielefeld,Defensor,Germany,63,76,575000,1000,['Diamante en Bruto'],59.83333333,0.000103877,0.037835157,-0.438776133
+12489,A. Chapman,28,Peterborough United,Portero,England,63,63,260000,2000,['Anomalía Física'],59.8,0.000228243,3.152835411,0.035735136
+12491,Pelayo Morilla,16,Real Sporting de Gijón,Mediocampista,Spain,63,81,725000,1000,['Diamante en Bruto'],59,8.13E-05,0.803195711,0.026316933
+12516,I. Smith,20,IFK Norrköping,Mediocampista,Costa Rica,63,77,725000,1000,['Diamante en Bruto'],58,7.99E-05,-0.069698801,0.107560811
+12525,Lim Jae Hyeok,19,Daegu FC,Atacante,Korea Republic,63,79,800000,1000,['Diamante en Bruto'],58.83333333,7.34E-05,-0.082101983,-0.24390838
+12578,M. Baku,20,SG Sonnenhof Großaspach,Mediocampista,Germany,63,77,800000,1000,['Diamante en Bruto'],60.5,7.55E-05,-0.069698801,-0.704877965
+12626,P. Mako,24,Orlando Pirates,Defensor,South Africa,63,68,400000,1000,['Anomalía Física'],59,0.000147132,-3.256280339,-2.612325782
+12673,M. Tramoni,18,AC Ajaccio,Mediocampista,France,63,80,750000,1000,['Diamante en Bruto'],60.66666667,8.08E-05,-0.506146058,-1.029853475
+12674,F. Evina,17,FC Bayern München,Mediocampista,Germany,63,81,725000,5000,['Diamante en Bruto'],58.83333333,8.06E-05,-0.069698801,0.757511831
+12679,C. Howieson,23,Agente Libre,Mediocampista,New Zealand,63,68,0,0,['Talento Infravalorado'],65.33333333,65.33333333,0.366748455,0.595024076
+12733,M. Johnston,19,Celtic,Mediocampista,Scotland,63,80,800000,4000,['Diamante en Bruto'],59.5,7.40E-05,-0.506146058,-2.410999394
+12806,G. Singh Sandhu,26,Agente Libre,Portero,India,63,68,0,0,['Talento Infravalorado'],61,61,1.018446207,0.845775992
+12925,K. Despodov,21,Agente Libre,Mediocampista,Bulgaria,63,71,0,0,['Talento Infravalorado'],61.5,61.5,-0.069698801,-0.054926944
+12932,T. Conechny,20,Portland Timbers,Atacante,Argentina,63,78,825000,3000,['Diamante en Bruto'],60,7.25E-05,-1.623995266,-2.188087223
+12951,P. Pomykal,18,FC Dallas,Mediocampista,United States,63,78,750000,1000,['Diamante en Bruto'],60.5,8.06E-05,-1.37904057,-0.54239021
+12967,Alberto Espeso,20,Real Sporting de Gijón,Defensor,Spain,63,75,575000,1000,['Anomalía Física'],49.5,8.59E-05,-1.609222591,-3.935356004
+12970,Paulo Vitor,19,Albacete BP,Atacante,Brazil,63,80,800000,1000,['Diamante en Bruto'],59.33333333,7.41E-05,-2.009468587,-1.664654458
+13091,N. Boxall,26,Agente Libre,Defensor,New Zealand,62,64,0,0,['Talento Infravalorado'],60.16666667,60.16666667,-0.37392928,0.506245454
+13119,M. Browne,20,Oxford United,Mediocampista,England,62,77,675000,8000,['Diamante en Bruto'],60.33333333,8.83E-05,-0.069698801,0.595024076
+13146,R. Hernández,20,Stabæk Fotball,Defensor,Venezuela,62,76,600000,1000,['Diamante en Bruto'],56.16666667,9.35E-05,-2.020987028,-0.911286926
+13178,N. Delgadillo,20,Vélez Sarsfield,Atacante,Argentina,62,76,675000,2000,['Diamante en Bruto'],55.66666667,8.22E-05,-0.467575304,0.055196057
+13180,M. Raynov,26,Agente Libre,Mediocampista,Bulgaria,62,66,0,0,['Talento Infravalorado'],62.83333333,62.83333333,0.366748455,-0.054926944
+13205,L. Pintor,17,Olympique Lyonnais,Atacante,France,62,83,675000,5000,['Diamante en Bruto'],58.16666667,8.55E-05,-0.467575304,-0.916893364
+13228,L. Thomas,19,Coventry City,Mediocampista,England,62,76,650000,3000,['Diamante en Bruto'],59.33333333,9.09E-05,-1.815487826,-1.029853475
+13235,B. Castrillon,19,Independiente Medellín,Mediocampista,Colombia,62,80,650000,1000,['Diamante en Bruto'],60.33333333,9.27E-05,-0.942593314,-0.948609598
+13247,J. Yeboah,18,VfL Wolfsburg,Mediocampista,Germany,62,83,675000,3000,['Diamante en Bruto'],57.33333333,8.46E-05,-1.37904057,-1.19234123
+13251,M. Mudryk,17,Shakhtar Donetsk,Mediocampista,Ukraine,62,84,650000,1000,['Diamante en Bruto'],59.16666667,9.09E-05,-0.506146058,-2.248511639
+13304,J. Zwarts,19,Feyenoord,Atacante,Netherlands,62,77,650000,1000,['Diamante en Bruto'],57.66666667,8.86E-05,0.688844659,0.279524385
+13376,W. Pérez,19,Club Atlético Huracán,Mediocampista,Argentina,62,77,650000,1000,['Diamante en Bruto'],58.83333333,9.04E-05,-0.506146058,-0.786121843
+13398,F. Ortega,19,Vélez Sarsfield,Defensor,Argentina,62,78,575000,1000,['Diamante en Bruto'],55.5,9.64E-05,-0.785693717,-1.005789085
+13446,L. Young,28,Crawley Town,Defensor,England,62,62,240000,2000,['Anomalía Física'],49.5,0.000204545,-1.197458154,-3.651849528
+13455,A. Edathodika,31,Agente Libre,Defensor,India,62,62,0,0,['Talento Infravalorado'],65.16666667,65.16666667,0.037835157,0.78975193
+13484,M. Al Enazi,34,Al Batin,Defensor,Saudi Arabia,62,62,90000,3000,['Anomalía Física'],53.83333333,0.000578847,-3.668044776,-3.273840893
+13497,D. Caicedo,18,Deportivo Cali,Mediocampista,Colombia,62,83,675000,1000,['Diamante en Bruto'],59,8.73E-05,-2.251935083,-1.679804496
+13514,Y. Verschaeren,16,RSC Anderlecht,Mediocampista,Belgium,62,83,650000,1000,['Diamante en Bruto'],61,9.37E-05,-0.942593314,-0.86736572
+13554,Y. Guzmán,20,Envigado FC,Mediocampista,Colombia,62,78,675000,1000,['Diamante en Bruto'],58.16666667,8.60E-05,-2.251935083,-2.248511639
+13609,C. Arano,23,Agente Libre,Mediocampista,Bolivia,62,70,0,0,['Talento Infravalorado'],61.66666667,61.66666667,1.676090224,-0.54239021
+13661,P. Dárdai,19,Hertha BSC,Mediocampista,Germany,62,77,650000,2000,['Diamante en Bruto'],58,8.90E-05,-0.506146058,-2.248511639
+13721,T. Payne,24,Agente Libre,Mediocampista,New Zealand,62,66,0,0,['Talento Infravalorado'],60.83333333,60.83333333,-0.069698801,0.838755709
+13740,C. Sabaly,19,FC Metz,Mediocampista,Senegal,62,79,650000,1000,['Diamante en Bruto'],57.16666667,8.78E-05,-1.815487826,-2.329755516
+13744,A. Ndiaye,18,FC Metz,Atacante,Senegal,62,80,625000,1000,['Diamante en Bruto'],58.16666667,9.29E-05,0.688844659,-0.393460599
+13764,J. Teze,18,PSV,Defensor,Netherlands,62,80,550000,1000,['Diamante en Bruto'],59.16666667,0.00010738,-0.37392928,-1.572802037
+13776,J. Kitolano,18,Wolverhampton Wanderers,Defensor,Norway,62,77,550000,4000,['Diamante en Bruto'],52.83333333,9.54E-05,-1.197458154,-1.667304195
+13781,A. McDonald,17,Heart of Midlothian,Mediocampista,Scotland,62,84,650000,1000,['Diamante en Bruto'],58.83333333,9.04E-05,-0.506146058,-1.111097353
+13855,K. Michalak,20,Lechia Gda?sk,Mediocampista,Poland,62,76,675000,1000,['Diamante en Bruto'],58.33333333,8.63E-05,-0.506146058,-1.517316741
+13862,S. Polat,21,Atiker Konyaspor,Defensor,Turkey,62,74,475000,2000,['Anomalía Física'],56.16666667,0.00011775,-0.785693717,-3.651849528
+13865,C. Brittain,20,Milton Keynes Dons,Defensor,England,62,79,600000,2000,['Diamante en Bruto'],55.83333333,9.27E-05,-0.37392928,-0.722282609
+13875,S. Odey,20,FC Zürich,Atacante,Nigeria,62,76,675000,2000,['Diamante en Bruto'],58.16666667,8.59E-05,0.303371338,-0.617788927
+13876,M. Zemzemi,18,RC Strasbourg Alsace,Mediocampista,Tunisia,62,76,625000,2000,['Diamante en Bruto'],59.5,9.49E-05,0.803195711,-0.86736572
+13882,I. Diarra,20,FC Girondins de Bordeaux,Atacante,France,62,79,675000,5000,['Diamante en Bruto'],56.83333333,8.36E-05,-1.238521945,-2.711519989
+13955,Y. Akgün,17,Galatasaray SK,Atacante,Turkey,61,79,500000,5000,['Diamante en Bruto'],57.5,0.000113861,-1.238521945,-2.56196777
+14022,N. Barona,20,La Equidad,Mediocampista,Colombia,61,76,550000,1000,['Diamante en Bruto'],59.16666667,0.00010738,-0.506146058,-1.517316741
+14033,I. Minchev,27,Agente Libre,Mediocampista,Bulgaria,61,62,0,0,['Talento Infravalorado'],60,60,-1.815487826,-2.329755516
+14046,S. Klaas,20,VfL Osnabrück,Mediocampista,Germany,61,76,550000,1000,['Diamante en Bruto'],63.16666667,0.00011464,-0.069698801,-1.842292251
+14058,T. Chorý,23,Viktoria Plze?,Atacante,Czech Republic,61,66,350000,1000,['Anomalía Física'],55.66666667,0.000158594,3.001684584,2.148927119
+14066,A. Khormi,27,Al Hazem,Mediocampista,Saudi Arabia,61,61,260000,2000,['Anomalía Física'],57.83333333,0.000220737,-3.124829595,-2.329755516
+14125,I. Ugbo,19,Scunthorpe United,Atacante,England,61,76,550000,1000,['Diamante en Bruto'],57,0.000103448,0.688844659,-0.169132271
+14144,L. Bolton,18,Manchester City,Mediocampista,England,61,79,525000,7000,['Diamante en Bruto'],56.5,0.000106203,-0.506146058,-0.054926944
+14242,Y. Fofana,19,RC Strasbourg Alsace,Mediocampista,France,61,78,500000,1000,['Diamante en Bruto'],58.83333333,0.000117432,-0.506146058,0.432536321
+14315,T. Hudson-Wihongi,23,Agente Libre,Mediocampista,New Zealand,61,67,0,0,['Talento Infravalorado'],61.33333333,61.33333333,1.239642967,0.676267954
+14323,P. Prado,22,FC Nantes,Defensor,Peru,61,72,375000,3000,['Anomalía Física'],50.5,0.000133598,-1.609222591,-3.273840893
+14382,J. Vagnoman,17,Hamburger SV,Defensor,Germany,61,83,500000,1000,['Diamante en Bruto'],55.66666667,0.000111111,0.861364031,0.222738978
+14410,B. Anderson,19,Aberdeen,Atacante,Scotland,61,77,550000,1000,['Diamante en Bruto'],58,0.000105263,-0.467575304,-1.739430567
+14424,D. Lippert,22,1. FC Nürnberg,Defensor,Germany,61,70,325000,3000,['Anomalía Física'],52.33333333,0.000159552,-1.609222591,-3.368343052
+14428,J. Lotomba,19,BSC Young Boys,Defensor,Switzerland,61,78,475000,2000,['Diamante en Bruto'],54.5,0.000114256,-0.785693717,-1.761806354
+14445,M. Borquez,19,CD Palestino,Portero,Chile,61,71,300000,1000,['Anomalía Física'],55,0.000182724,-3.250332202,-2.304382892
+14489,M. Qvist,25,AC Horsens,Defensor,Denmark,61,64,325000,2000,['Anomalía Física'],65,0.000198776,3.331950654,1.356764882
+14503,J. Clarke,17,Leeds United,Mediocampista,England,61,80,500000,3000,['Diamante en Bruto'],57.16666667,0.000113651,-0.069698801,-0.298658577
+14621,B. Adekanye,19,Liverpool,Atacante,Netherlands,60,80,450000,7000,['Diamante en Bruto'],57,0.000124726,-1.623995266,-0.169132271
+14642,R. Gül,17,Galatasaray SK,Mediocampista,Turkey,60,77,400000,3000,['Diamante en Bruto'],52.66666667,0.000130686,-1.815487826,-0.461146332
+14652,N. Das,24,Agente Libre,Defensor,India,60,65,0,0,['Talento Infravalorado'],61.33333333,61.33333333,-1.197458154,-1.194793402
+14702,E. Erenler,25,Antalyaspor,Defensor,Turkey,60,65,230000,2000,['Anomalía Física'],58.83333333,0.000253591,-0.785693717,-3.084836576
+14751,S. Atakayi,19,Rangers FC,Mediocampista,Finland,60,78,450000,3000,['Diamante en Bruto'],53.33333333,0.000117733,-1.37904057,-0.786121843
+14795,F. Rossi,27,Atalanta,Portero,Italy,60,64,180000,3000,['Anomalía Física'],56.2,0.000307102,1.018446207,-3.294432827
+14841,K. Athiu,25,Melbourne Victory,Atacante,South Sudan,60,63,260000,2000,['Anomalía Física'],54,0.000206106,3.001684584,0.503852713
+14865,L. Czyborra,19,Heracles Almelo,Defensor,Germany,60,76,400000,1000,['Diamante en Bruto'],54.33333333,0.000135494,-0.785693717,-1.005789085
+14927,B. Galván,17,Club Atlético Colón,Atacante,Argentina,60,77,425000,1000,['Diamante en Bruto'],56.83333333,0.000133411,-2.394941908,-1.141221692
+14928,P. Perina,26,Cosenza,Portero,Italy,60,62,170000,1000,['Anomalía Física'],57.4,0.000335671,-0.582345696,-3.924464604
+14955,K. Bennetts,19,Borussia Mönchengladbach,Mediocampista,England,60,78,450000,2000,['Diamante en Bruto'],53.83333333,0.0001191,0.803195711,0.026316933
+14973,F. Rohner,19,FC Zürich,Mediocampista,Switzerland,60,76,450000,1000,['Diamante en Bruto'],54.5,0.000120842,-0.069698801,-2.410999394
+14996,Park Chang Jun,21,Gangwon FC,Defensor,Korea Republic,60,68,260000,1000,['Anomalía Física'],52.33333333,0.00020051,-1.197458154,-3.273840893
+15008,A. Pululu,19,FC Basel 1893,Atacante,Angola,60,76,450000,2000,['Diamante en Bruto'],55.5,0.000122787,-0.853048625,0.204748276
+15157,B. Garré,17,Manchester City,Atacante,Argentina,60,78,400000,7000,['Diamante en Bruto'],54.83333333,0.000134725,-1.623995266,-1.515102239
+15208,B. Ashley-Seal,19,Wolverhampton Wanderers,Atacante,England,60,76,450000,5000,['Diamante en Bruto'],54.5,0.00011978,1.07431798,0.503852713
+15212,A. Akinola,18,Toronto FC,Atacante,United States,60,79,425000,1000,['Diamante en Bruto'],54,0.00012676,-1.623995266,0.503852713
+15321,K. Sidibé,19,Toulouse Football Club,Mediocampista,France,59,74,300000,2000,['Anomalía Física'],54.83333333,0.000181567,3.858326505,0.676267954
+15330,V. Kušej,18,SG Dynamo Dresden,Atacante,Czech Republic,59,77,325000,2000,['Diamante en Bruto'],55.33333333,0.000169215,-2.009468587,-2.188087223
+15447,F. López,20,Argentinos Juniors,Atacante,Argentina,59,76,350000,2000,['Diamante en Bruto'],53.5,0.000151988,-1.623995266,-1.963758895
+15461,N. Okafor,18,FC Basel 1893,Mediocampista,Switzerland,59,79,325000,2000,['Diamante en Bruto'],55,0.000168195,1.239642967,1.407462852
+15480,A. Ikedi,19,FK Haugesund,Mediocampista,Nigeria,59,72,260000,1000,['Anomalía Física'],57.16666667,0.000219029,3.421879249,1.407462852
+15549,F. Agu,18,VfL Osnabrück,Defensor,Germany,59,73,290000,1000,['Anomalía Física'],47.16666667,0.000162084,-2.844515902,-3.935356004
+15568,M. Kudus,17,FC Nordsjælland,Atacante,Ghana,59,79,300000,1000,['Diamante en Bruto'],53.83333333,0.000178848,-1.623995266,-0.094356161
+15582,C. Holse,19,FC København,Mediocampista,Denmark,59,76,325000,2000,['Diamante en Bruto'],56.5,0.000172782,-0.506146058,-1.354828986
+15587,T. Klup?,18,Lech Pozna?,Mediocampista,Poland,59,76,325000,1000,['Diamante en Bruto'],54.16666667,0.000166155,-0.069698801,-0.298658577
+15590,S. Singh,22,Agente Libre,Defensor,India,59,65,0,0,['Talento Infravalorado'],60.5,60.5,0.861364031,-0.155269657
+15599,A. Thapa,20,Agente Libre,Mediocampista,India,59,71,0,0,['Talento Infravalorado'],61.66666667,61.66666667,-1.37904057,-0.379902455
+15665,T. Matthews,17,Borussia Dortmund,Mediocampista,South Africa,59,79,300000,3000,['Diamante en Bruto'],58.16666667,0.000191969,-0.506146058,-2.248511639
+15790,L. Barreiro Martins,18,1. FSV Mainz 05,Mediocampista,Luxembourg,58,76,260000,2000,['Diamante en Bruto'],59.66666667,0.000227734,-0.506146058,-2.410999394
+15850,H. Al Ghamdi,19,Ettifaq FC,Mediocampista,Saudi Arabia,58,74,270000,2000,['Anomalía Física'],57,0.000209558,-3.124829595,-1.923536129
+16016,D. Petersson,23,Trelleborgs FF,Portero,Sweden,58,63,120000,1000,['Anomalía Física'],52.8,0.00043636,-0.582345696,-3.024419209
+16039,J. Romero,17,Atlético Tucumán,Atacante,Argentina,58,81,280000,1000,['Anomalía Física'],58.33333333,0.000207591,-3.16588855,-1.814206677
+16046,A. Appiah,17,Nottingham Forest,Atacante,England,58,81,280000,4000,['Diamante en Bruto'],52.16666667,0.000183685,-1.238521945,-2.113311114
+16082,S. Bose,22,Agente Libre,Defensor,India,58,66,0,0,['Talento Infravalorado'],62,62,0.449599594,0.222738978
+16123,Zhang Chong,30,Dalian YiFang FC,Portero,China PR,58,58,80000,1000,['Anomalía Física'],56.6,0.000698757,1.018446207,-3.114423748
+16197,L. Schneider,18,FC Energie Cottbus,Defensor,Germany,58,76,240000,1000,['Diamante en Bruto'],54.83333333,0.000227523,0.037835157,-0.533278291
+16220,I. Angulo,19,Envigado FC,Atacante,Colombia,57,78,240000,1000,['Diamante en Bruto'],48.33333333,0.000200552,-1.623995266,-1.888982786
+16265,O. Atilgan,18,SG Dynamo Dresden,Atacante,Germany,57,76,220000,2000,['Diamante en Bruto'],51.83333333,0.000233482,-0.467575304,-0.543012818
+16463,N. Lemaître,21,Stade de Reims,Portero,France,57,68,140000,1000,['Anomalía Física'],54.2,0.000384394,-0.582345696,-3.114423748
+16519,J. Hernandez,22,Real Salt Lake,Mediocampista,Mexico,57,65,150000,1000,['Anomalía Física'],57,0.000377481,-3.124829595,-1.842292251
+16604,D. Spence,17,Middlesbrough,Defensor,England,57,77,180000,3000,['Diamante en Bruto'],52.33333333,0.000285973,0.037835157,-1.572802037
+16657,M. Pedersen,18,Tromsø IL,Mediocampista,Norway,56,76,190000,1000,['Diamante en Bruto'],54.66666667,0.000286211,-0.069698801,-1.436072863
+16674,G. K?m???r,20,Antalyaspor,Defensor,Turkey,56,65,120000,2000,['Anomalía Física'],52.5,0.000430324,-0.785693717,-3.557347369
+16711,A. Nsakala,18,FC Sochaux-Montbéliard,Defensor,France,56,78,180000,1000,['Diamante en Bruto'],52.33333333,0.000289133,-0.785693717,-2.139814989
+16799,Y. Avc?lar,19,Medipol Ba?ak?ehir FK,Defensor,Turkey,56,70,180000,1000,['Anomalía Física'],53.33333333,0.000294658,-0.785693717,-3.273840893
+16807,R. Giles,18,Wolverhampton Wanderers,Defensor,England,56,76,170000,3000,['Diamante en Bruto'],43.83333333,0.00025337,-0.785693717,-2.423321465
+16830,A. Abdulhameed,24,Al Hazem,Portero,Saudi Arabia,56,59,80000,1000,['Anomalía Física'],52,0.000641967,-3.250332202,-1.854360195
+16867,S. Brolin,17,AIK,Portero,Sweden,56,78,160000,1000,['Anomalía Física'],52.6,0.000326706,3.152835411,1.025785071
+16883,K. Ito,19,Shimizu S-Pulse,Defensor,Japan,56,65,120000,1000,['Anomalía Física'],47.66666667,0.000393936,-1.197458154,-3.179338734
+16906,S. Abifade,18,Eintracht Braunschweig,Atacante,Germany,56,77,200000,1000,['Diamante en Bruto'],49.16666667,0.000244609,0.688844659,-0.094356161
+17000,M. Kristensen,25,AC Horsens,Atacante,Denmark,55,59,120000,2000,['Anomalía Física'],52.66666667,0.00043169,3.001684584,0.802957151
+17094,H. Guenouche,18,FC Zürich,Defensor,France,55,71,160000,1000,['Anomalía Física'],50,0.000310557,-2.432751465,-3.46284521
+17095,N. Hahn,17,FK Austria Wien,Mediocampista,Austria,55,77,180000,1000,['Diamante en Bruto'],56.16666667,0.000310311,-0.942593314,-2.086023884
+17100,K. Yamaguchi,23,Shonan Bellmare,Atacante,Japan,55,61,120000,1000,['Anomalía Física'],53.5,0.000442145,-3.936835191,-3.010624426
+17124,M. Orozco,22,Querétaro,Defensor,Mexico,55,64,120000,1000,['Anomalía Física'],52.33333333,0.000432503,-2.020987028,-3.46284521
+17288,C. MacDonald,20,Derby County,Defensor,Scotland,54,71,130000,4000,['Anomalía Física'],50.5,0.000376863,-0.37392928,-3.557347369
+17442,M. Saavedra,18,Audax Italiano,Atacante,Chile,54,69,140000,1000,['Anomalía Física'],50.83333333,0.000360518,-3.16588855,-0.767341146
+17634,M. Casey,18,Portsmouth,Defensor,England,53,73,110000,1000,['Anomalía Física'],53.5,0.000481978,3.331950654,-0.249771815
+17676,O. Kåhed,19,Örebro SK,Defensor,Sweden,52,64,80000,1000,['Anomalía Física'],44.5,0.000549376,-2.020987028,-3.273840893
+17815,D. Thøgersen,18,Aarhus GF,Defensor,Denmark,52,66,90000,1000,['Anomalía Física'],43.16666667,0.000474354,0.037835157,-3.557347369
+17860,D. Thiam,20,SPAL,Portero,Senegal,51,66,70000,1000,['Anomalía Física'],49,0.000690131,3.152835411,0.125739675
+17867,D. Hodzic,22,Vejle Boldklub,Portero,Croatia,51,61,50000,1000,['Anomalía Física'],47.4,0.000929394,3.686432712,-2.214378353
+17868,T. Nakagawa,25,Yokohama F. Marinos,Atacante,Japan,51,52,40000,1000,['Anomalía Física'],51.66666667,0.001260132,-3.16588855,-2.038535005
+17886,C. Royo,17,SV Darmstadt 98,Defensor,Germany,51,68,60000,1000,['Anomalía Física'],44,0.0007213,-2.020987028,-3.840853845
+17913,J. García,19,Audax Italiano,Portero,Chile,51,60,40000,1000,['Anomalía Física'],47.4,0.001156069,-3.250332202,-2.124373813
+17971,Zhou Xin,20,Stabæk Fotball,Defensor,China PR,50,61,40000,2000,['Anomalía Física'],44.5,0.001059499,-2.020987028,-3.651849528

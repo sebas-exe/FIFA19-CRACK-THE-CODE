@@ -1,0 +1,24 @@
+,Nombre,Edad,Club,Grupo_Posicion,Nacionalidad,Valoracion_General,Potencial,Valor_Mercado,Salario,Arquetipo_Atipico,Indice_Rendimiento,Ratio_Valor_Rendimiento,ZScore_Altura_cm,ZScore_Fuerza
+0,L. Messi,31,FC Barcelona,Atacante,Argentina,94,94,110500000,565000,"['El Especialista', 'El Especialista', 'El Especialista']",93.5,8.418493599077175e-07,-1.6252486135043283,-0.5442195946950729
+1,Cristiano Ronaldo,33,Juventus,Atacante,Portugal,94,94,77000000,405000,"['El Especialista', 'El Especialista']",94.83333333333333,1.2251577043882905e-06,1.0732752349457082,0.9517206082838235
+2,Neymar Jr,26,Paris Saint-Germain,Atacante,Brazil,92,93,118500000,290000,"['El Especialista', 'El Especialista', 'El Especialista', 'El Especialista']",89.83333333333333,7.562364894106982e-07,-0.8542417996614631,-1.292189696184521
+4,K. De Bruyne,27,Manchester City,Mediocampista,Belgium,91,92,102000000,355000,"['El Especialista', 'El Especialista', 'El Especialista', 'El Especialista']",90.16666666666667,8.809209690366441e-07,0.36530926570519656,1.0802121494123733
+5,E. Hazard,27,Chelsea,Atacante,Belgium,91,91,93000000,340000,"['El Especialista', 'El Especialista', 'El Especialista', 'El Especialista']",88.0,9.427897906279216e-07,-1.2397452065828956,-0.020640523652459136
+6,L. Modri?,32,Real Madrid,Mediocampista,Croatia,91,91,67000000,420000,"['El Especialista', 'El Especialista', 'El Especialista', 'El Especialista']",90.16666666666667,1.3373875011759e-06,-0.9436887247044472,-0.2992098641876754
+7,L. Suárez,31,FC Barcelona,Atacante,Uruguay,91,91,80000000,455000,"['El Especialista', 'El Especialista', 'El Especialista']",89.66666666666667,1.1144946311872728e-06,0.3022684211028388,1.2509086488796028
+8,Sergio Ramos,32,Real Madrid,Defensor,Spain,91,91,51000000,380000,"['El Especialista', 'El Especialista']",88.0,1.7127286548709876e-06,0.039011968633661465,1.1685562876561482
+315,David Villa,36,New York City FC,Atacante,Spain,82,82,8000000,12000,['Maestro Veterano'],84.0,1.0484272281044398e-05,-0.8542417996614631,-0.020640523652459136
+403,F. Quagliarella,35,Sampdoria,Atacante,Italy,81,81,8000000,39000,['Maestro Veterano'],83.0,1.0324665962847871e-05,-0.08323498581859375,0.727329577836989
+549,D. Srna,36,Cagliari,Defensor,Croatia,80,80,1700000,27000,['Maestro Veterano'],75.0,4.3427884523517937e-05,-0.7840836177574831,0.12837287399775227
+719,L. López,35,Racing Club,Atacante,Argentina,79,79,6000000,22000,['Maestro Veterano'],79.5,1.3201591962538698e-05,-0.8542417996614631,0.6525325676880442
+1092,R. Palacio,36,Bologna,Atacante,Argentina,77,77,3200000,27000,['Maestro Veterano'],78.0,2.41710492187638e-05,-0.8542417996614631,-0.3946255743971832
+2431,E. Dennis,20,Club Brugge KV,Mediocampista,Nigeria,74,85,9500000,15000,['Diamante en Bruto'],67.83333333333333,7.129093663083517e-06,-0.5073560612345676,-0.3803523355759136
+3346,P. Billing,22,Huddersfield Town,Mediocampista,Denmark,72,83,4700000,25000,['Anomalía Física'],69.66666666666667,1.4744264957122055e-05,3.4196379099943637,1.0802121494123733
+4161,Y. Soteldo,21,Universidad de Chile,Mediocampista,Venezuela,71,81,3800000,6000,['Anomalía Física'],69.5,1.826063629515599e-05,-3.12535204205385,-2.571199063058344
+4849,R. Nelson,18,TSG 1899 Hoffenheim,Atacante,England,70,85,3700000,25000,['Diamante en Bruto'],64.5,1.7315431593172726e-05,-0.8542417996614631,-1.8157687672271348
+5383,J. Dilrosun,20,Hertha BSC,Mediocampista,Netherlands,70,86,3900000,11000,['Diamante en Bruto'],62.166666666666664,1.5895333871473484e-05,-0.5073560612345676,-0.7860646925171044
+6275,N. Barrios,20,San Lorenzo de Almagro,Mediocampista,Argentina,69,82,2000000,7000,['Anomalía Física'],66.5,3.313401438265352e-05,-3.9980173689936143,-2.7334840058348204
+7217,Sergio Gómez,17,Borussia Dortmund,Mediocampista,Spain,68,87,1800000,8000,['Diamante en Bruto'],64.83333333333333,3.5859124709186185e-05,-1.3800213881743268,-2.0843442347289147
+8191,A. Gomes,17,Manchester United,Mediocampista,England,67,87,1500000,15000,['Anomalía Física'],66.16666666666667,4.36743386087974e-05,-3.12535204205385,-2.4089141202818674
+9158,M. Boadu,17,AZ Alkmaar,Atacante,Netherlands,66,85,1300000,3000,['Diamante en Bruto'],62.0,4.758246540102425e-05,-0.08323498581859375,-0.17023454395034876
+16092,J. Romero,17,Atlético Tucumán,Atacante,Argentina,58,81,280000,1000,['Anomalía Física'],58.333333333333336,0.00020759119481188087,-3.1672622411900626,-1.8157687672271348

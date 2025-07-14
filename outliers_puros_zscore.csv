@@ -1,0 +1,429 @@
+﻿Nombre,Club,Edad,Salario,ZScore_Salario,Tipo_Outlier_Puro,Valor_Mercado,ZScore_Valor_Mercado
+L. Messi,FC Barcelona,31,565000.0,25.204265349911175,Z-Score > 3 en Salario,,
+Cristiano Ronaldo,Juventus,33,405000.0,17.941324344324006,Z-Score > 3 en Salario,,
+Neymar Jr,Paris Saint-Germain,26,290000.0,12.721085496558224,Z-Score > 3 en Salario,,
+De Gea,Manchester United,27,260000.0,11.359284058010632,Z-Score > 3 en Salario,,
+K. De Bruyne,Manchester City,27,355000.0,15.671655280078014,Z-Score > 3 en Salario,,
+E. Hazard,Chelsea,27,340000.0,14.990754560804216,Z-Score > 3 en Salario,,
+L. Modri?,Real Madrid,32,420000.0,18.622225063597803,Z-Score > 3 en Salario,,
+L. Suárez,FC Barcelona,31,455000.0,20.210993408569994,Z-Score > 3 en Salario,,
+Sergio Ramos,Real Madrid,32,380000.0,16.806489812201008,Z-Score > 3 en Salario,,
+J. Oblak,Atlético Madrid,25,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+R. Lewandowski,FC Bayern München,29,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+T. Kroos,Real Madrid,29,355000.0,15.671655280078014,Z-Score > 3 en Salario,,
+D. Godín,Atlético Madrid,32,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+David Silva,Manchester City,32,285000.0,12.494118590133626,Z-Score > 3 en Salario,,
+N. Kanté,Chelsea,27,225000.0,9.770515713038437,Z-Score > 3 en Salario,,
+P. Dybala,Juventus,24,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+H. Kane,Tottenham Hotspur,24,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+A. Griezmann,Atlético Madrid,27,145000.0,6.139045210244852,Z-Score > 3 en Salario,,
+M. ter Stegen,FC Barcelona,26,240000.0,10.451416432312234,Z-Score > 3 en Salario,,
+T. Courtois,Real Madrid,26,240000.0,10.451416432312234,Z-Score > 3 en Salario,,
+Sergio Busquets,FC Barcelona,29,315000.0,13.85592002868122,Z-Score > 3 en Salario,,
+E. Cavani,Paris Saint-Germain,31,200000.0,8.635681180915443,Z-Score > 3 en Salario,,
+M. Neuer,FC Bayern München,32,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+S. Agüero,Manchester City,30,300000.0,13.175019309407423,Z-Score > 3 en Salario,,
+G. Chiellini,Juventus,33,215000.0,9.31658190018924,Z-Score > 3 en Salario,,
+K. Mbappé,Paris Saint-Germain,19,100000.0,4.096343052423461,Z-Score > 3 en Salario,,
+M. Salah,Liverpool,26,255000.0,11.132317151586031,Z-Score > 3 en Salario,,
+Casemiro,Real Madrid,26,285000.0,12.494118590133626,Z-Score > 3 en Salario,,
+J. Rodríguez,FC Bayern München,26,315000.0,13.85592002868122,Z-Score > 3 en Salario,,
+L. Insigne,Napoli,27,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+Isco,Real Madrid,26,315000.0,13.85592002868122,Z-Score > 3 en Salario,,
+C. Eriksen,Tottenham Hotspur,26,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+Coutinho,FC Barcelona,26,340000.0,14.990754560804216,Z-Score > 3 en Salario,,
+P. Aubameyang,Arsenal,29,265000.0,11.58625096443523,Z-Score > 3 en Salario,,
+M. Hummels,FC Bayern München,29,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+Marcelo,Real Madrid,30,285000.0,12.494118590133626,Z-Score > 3 en Salario,,
+G. Bale,Real Madrid,28,355000.0,15.671655280078014,Z-Score > 3 en Salario,,
+H. Lloris,Tottenham Hotspur,31,150000.0,6.366012116669451,Z-Score > 3 en Salario,,
+G. Higuaín,Milan,30,245000.0,10.678383338736834,Z-Score > 3 en Salario,,
+Thiago Silva,Paris Saint-Germain,33,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+S. Handanovi?,Inter,33,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+G. Buffon,Paris Saint-Germain,40,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+S. Umtiti,FC Barcelona,24,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+M. Icardi,Inter,25,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+K. Koulibaly,Napoli,27,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+P. Pogba,Manchester United,25,210000.0,9.08961499376464,Z-Score > 3 en Salario,,
+K. Navas,Real Madrid,31,195000.0,8.408714274490842,Z-Score > 3 en Salario,,
+R. Lukaku,Manchester United,25,230000.0,9.997482619463037,Z-Score > 3 en Salario,,
+C. Immobile,Lazio,28,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+Jordi Alba,FC Barcelona,29,250000.0,10.905350245161433,Z-Score > 3 en Salario,,
+D. Mertens,Napoli,31,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+J. Vertonghen,Tottenham Hotspur,31,155000.0,6.59297902309405,Z-Score > 3 en Salario,,
+M. Hamšík,Napoli,30,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+I. Rakiti?,FC Barcelona,30,260000.0,11.359284058010632,Z-Score > 3 en Salario,,
+Piqué,FC Barcelona,31,240000.0,10.451416432312234,Z-Score > 3 en Salario,,
+L. Sané,Manchester City,22,195000.0,8.408714274490842,Z-Score > 3 en Salario,,
+Bernardo Silva,Manchester City,23,180000.0,7.727813555217046,Z-Score > 3 en Salario,,
+Ederson,Manchester City,24,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+S. Mané,Liverpool,26,195000.0,8.408714274490842,Z-Score > 3 en Salario,,
+V. van Dijk,Liverpool,26,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+R. Sterling,Manchester City,23,195000.0,8.408714274490842,Z-Score > 3 en Salario,,
+Roberto Firmino,Liverpool,26,195000.0,8.408714274490842,Z-Score > 3 en Salario,,
+R. Varane,Real Madrid,25,210000.0,9.08961499376464,Z-Score > 3 en Salario,,
+M. Verratti,Paris Saint-Germain,25,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+Alex Sandro,Juventus,27,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+Douglas Costa,Juventus,27,175000.0,7.500846648792447,Z-Score > 3 en Salario,,
+T. Müller,FC Bayern München,28,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+Thiago,FC Bayern München,27,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+M. Reus,Borussia Dortmund,29,100000.0,4.096343052423461,Z-Score > 3 en Salario,,
+Azpilicueta,Chelsea,28,175000.0,7.500846648792447,Z-Score > 3 en Salario,,
+L. Bonucci,Juventus,31,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+T. Alderweireld,Tottenham Hotspur,29,150000.0,6.366012116669451,Z-Score > 3 en Salario,,
+M. Pjani?,Juventus,28,180000.0,7.727813555217046,Z-Score > 3 en Salario,,
+M. Benatia,Juventus,31,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+M. Özil,Arsenal,29,190000.0,8.181747368066244,Z-Score > 3 en Salario,,
+Fernandinho,Manchester City,33,185000.0,7.954780461641644,Z-Score > 3 en Salario,,
+M. Škriniar,Inter,23,82000.0,3.2792621892949043,Z-Score > 3 en Salario,,
+Marco Asensio,Real Madrid,22,215000.0,9.31658190018924,Z-Score > 3 en Salario,,
+N. Fekir,Olympique Lyonnais,24,92000.0,3.7331960021441026,Z-Score > 3 en Salario,,
+Alisson,Liverpool,25,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+J. Kimmich,FC Bayern München,23,92000.0,3.7331960021441026,Z-Score > 3 en Salario,,
+Saúl,Atlético Madrid,23,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+R. Mahrez,Manchester City,27,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+D. Alaba,FC Bayern München,26,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+Koke,Atlético Madrid,26,88000.0,3.551622477004423,Z-Score > 3 en Salario,,
+A. Lacazette,Arsenal,27,180000.0,7.727813555217046,Z-Score > 3 en Salario,,
+K. Manolas,Roma,27,96000.0,3.9147695272837817,Z-Score > 3 en Salario,,
+N. Otamendi,Manchester City,30,170000.0,7.273879742367847,Z-Score > 3 en Salario,,
+Paulinho,Guangzhou Evergrande Taobao FC,29,235000.0,10.224449525887636,Z-Score > 3 en Salario,,
+W. Szcz?sny,Juventus,28,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+A. Sánchez,Manchester United,29,215000.0,9.31658190018924,Z-Score > 3 en Salario,,
+J. Boateng,FC Bayern München,29,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+A. Vidal,FC Barcelona,31,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+I. Periši?,Inter,29,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+E. Džeko,Roma,32,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+S. Khedira,Juventus,31,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+Diego Costa,Atlético Madrid,29,100000.0,4.096343052423461,Z-Score > 3 en Salario,,
+R. Nainggolan,Inter,30,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+B. Matuidi,Juventus,31,145000.0,6.139045210244852,Z-Score > 3 en Salario,,
+Miranda,Inter,33,96000.0,3.9147695272837817,Z-Score > 3 en Salario,,
+K. Benzema,Real Madrid,30,240000.0,10.451416432312234,Z-Score > 3 en Salario,,
+Filipe Luís,Atlético Madrid,32,81000.0,3.2338688080099844,Z-Score > 3 en Salario,,
+V. Kompany,Manchester City,32,170000.0,7.273879742367847,Z-Score > 3 en Salario,,
+D. Sánchez,Tottenham Hotspur,22,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+A. Laporte,Manchester City,24,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+N. Süle,FC Bayern München,22,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+A. Martial,Manchester United,22,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+D. Alli,Tottenham Hotspur,22,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+Fabinho,Liverpool,24,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+Marquinhos,Paris Saint-Germain,24,90000.0,3.642409239574263,Z-Score > 3 en Salario,,
+Jorginho,Chelsea,26,155000.0,6.59297902309405,Z-Score > 3 en Salario,,
+Carvajal,Real Madrid,26,185000.0,7.954780461641644,Z-Score > 3 en Salario,,
+M. Depay,Olympique Lyonnais,24,93000.0,3.778589383429022,Z-Score > 3 en Salario,,
+H. Son,Tottenham Hotspur,25,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+S. de Vrij,Inter,26,88000.0,3.551622477004423,Z-Score > 3 en Salario,,
+M. Perin,Juventus,25,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+J. Cuadrado,Juventus,30,150000.0,6.366012116669451,Z-Score > 3 en Salario,,
+B. Leno,Arsenal,26,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+N. Mati?,Manchester United,29,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+K. Walker,Manchester City,28,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+I. Gündo?an,Manchester City,27,175000.0,7.500846648792447,Z-Score > 3 en Salario,,
+José Callejón,Napoli,31,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+A. Di María,Paris Saint-Germain,30,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+M. Mandžuki?,Juventus,32,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+Willian,Chelsea,29,175000.0,7.500846648792447,Z-Score > 3 en Salario,,
+A. Witsel,Borussia Dortmund,29,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+Sokratis,Arsenal,30,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+Falcao,AS Monaco,32,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+K. Schmeichel,Leicester City,31,78000.0,3.0976886641552253,Z-Score > 3 en Salario,,
+Raúl Albiol,Napoli,32,88000.0,3.551622477004423,Z-Score > 3 en Salario,,
+A. Barzagli,Juventus,37,95000.0,3.869376145998862,Z-Score > 3 en Salario,,
+Quaresma,Be?ikta? JK,34,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+A. Robben,FC Bayern München,34,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+O. Dembélé,FC Barcelona,21,155000.0,6.59297902309405,Z-Score > 3 en Salario,,
+Gabriel Jesus,Manchester City,21,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+P. Kimpembe,Paris Saint-Germain,22,82000.0,3.2792621892949043,Z-Score > 3 en Salario,,
+N. Keïta,Liverpool,23,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+C. Tolisso,FC Bayern München,23,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+K. Coman,FC Bayern München,22,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+A. Rabiot,Paris Saint-Germain,23,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+L. Goretzka,FC Bayern München,23,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+Lucas Vázquez,Real Madrid,27,205000.0,8.862648087340041,Z-Score > 3 en Salario,,
+M. Kova?i?,Chelsea,24,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+Kepa,Chelsea,23,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+S. Gnabry,FC Bayern München,22,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+J. Pickford,Everton,24,78000.0,3.0976886641552253,Z-Score > 3 en Salario,,
+J. Stones,Manchester City,24,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+Suso,Milan,24,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+J. Draxler,Paris Saint-Germain,24,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+Felipe Anderson,West Ham United,25,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+Lucas Moura,Tottenham Hotspur,25,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+Nacho Fernández,Real Madrid,28,180000.0,7.727813555217046,Z-Score > 3 en Salario,,
+Allan,Napoli,27,87000.0,3.5062290957195033,Z-Score > 3 en Salario,,
+Sergi Roberto,FC Barcelona,26,170000.0,7.273879742367847,Z-Score > 3 en Salario,,
+I. Gueye,Everton,28,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+H. Mkhitaryan,Arsenal,29,145000.0,6.139045210244852,Z-Score > 3 en Salario,,
+Marcos Alonso,Chelsea,27,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+K. Glik,AS Monaco,30,86000.0,3.4608357144345834,Z-Score > 3 en Salario,,
+David Luiz,Chelsea,31,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+Juan Mata,Manchester United,30,160000.0,6.819945929518649,Z-Score > 3 en Salario,,
+Javi Martínez,FC Bayern München,29,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+L. Bender,Bayer 04 Leverkusen,29,82000.0,3.2792621892949043,Z-Score > 3 en Salario,,
+Cesc Fàbregas,Chelsea,31,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+M. Dembélé,Tottenham Hotspur,30,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+D. De Rossi,Roma,34,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+Arthur,FC Barcelona,21,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+L. Torreira,Arsenal,22,98000.0,4.005556289853621,Z-Score > 3 en Salario,,
+Malcom,FC Barcelona,21,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+C. Lenglet,FC Barcelona,23,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+A. Robertson,Liverpool,24,98000.0,4.005556289853621,Z-Score > 3 en Salario,,
+F. Bernardeschi,Juventus,24,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+D. Rugani,Juventus,23,95000.0,3.869376145998862,Z-Score > 3 en Salario,,
+Samu Castillejo,Milan,23,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+João Cancelo,Juventus,24,95000.0,3.869376145998862,Z-Score > 3 en Salario,,
+A. Romagnoli,Milan,23,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+Fred,Manchester United,25,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+J. Vardy,Leicester City,31,96000.0,3.9147695272837817,Z-Score > 3 en Salario,,
+J. Lingard,Manchester United,25,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+A. Rüdiger,Chelsea,25,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+H. Maguire,Leicester City,25,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+T. Meunier,Paris Saint-Germain,26,87000.0,3.5062290957195033,Z-Score > 3 en Salario,,
+Rafinha,FC Barcelona,25,165000.0,7.046912835943249,Z-Score > 3 en Salario,,
+Morata,Chelsea,25,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+J. Cillessen,FC Barcelona,29,135000.0,5.685111397395654,Z-Score > 3 en Salario,,
+W. Zaha,Crystal Palace,25,78000.0,3.0976886641552253,Z-Score > 3 en Salario,,
+S. Mustafi,Arsenal,26,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+J. Pastore,Roma,29,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+Pedro,Chelsea,30,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+G. Bonaventura,Milan,28,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+S. Nzonzi,Roma,29,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+A. Ramsey,Arsenal,27,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+K. Trippier,Tottenham Hotspur,27,99000.0,4.050949671138541,Z-Score > 3 en Salario,,
+G. Sigurðsson,Everton,28,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+M. Arnautovi?,West Ham United,29,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+J. Henderson,Liverpool,28,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+G. Wijnaldum,Liverpool,27,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+O. Giroud,Chelsea,31,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+L. Koscielny,Arsenal,32,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+L. Biglia,Milan,32,98000.0,4.005556289853621,Z-Score > 3 en Salario,,
+M. Rashford,Manchester United,20,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+Nélson Semedo,FC Barcelona,24,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+E. Bailly,Manchester United,24,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+Dani Ceballos,Real Madrid,21,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+A. Christensen,Chelsea,22,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+B. Davies,Tottenham Hotspur,25,87000.0,3.5062290957195033,Z-Score > 3 en Salario,,
+B. Mendy,Manchester City,23,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+K. Bellarabi,Bayer 04 Leverkusen,28,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+K. Volland,Bayer 04 Leverkusen,25,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+G. Xhaka,Arsenal,25,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+C. Aránguiz,Bayer 04 Leverkusen,29,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+S. Verdi,Napoli,25,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+D. Lovren,Liverpool,28,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+X. Shaqiri,Liverpool,26,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+Ander Herrera,Manchester United,28,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+S. El Shaarawy,Roma,25,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+C. Smalling,Manchester United,28,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+M. Lanzini,West Ham United,25,90000.0,3.642409239574263,Z-Score > 3 en Salario,,
+D. Perotti,Roma,29,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+M. Valbuena,Fenerbahçe SK,33,86000.0,3.4608357144345834,Z-Score > 3 en Salario,,
+E. Lamela,Tottenham Hotspur,26,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+D. Rose,Tottenham Hotspur,27,92000.0,3.7331960021441026,Z-Score > 3 en Salario,,
+A. Valencia,Manchester United,32,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+João Moutinho,Wolverhampton Wanderers,31,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+J. Milner,Liverpool,32,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+Odriozola,Real Madrid,22,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+F. Balbuena,West Ham United,26,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+Mariano,Real Madrid,24,140000.0,5.912078303820254,Z-Score > 3 en Salario,,
+T. Bakayoko,Milan,23,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+André Gomes,Everton,24,130000.0,5.458144490971056,Z-Score > 3 en Salario,,
+E. Can,Juventus,24,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+H. Çalhano?lu,Milan,24,89000.0,3.597015858289343,Z-Score > 3 en Salario,,
+M. Keane,Everton,25,88000.0,3.551622477004423,Z-Score > 3 en Salario,,
+L. Shaw,Manchester United,22,96000.0,3.9147695272837817,Z-Score > 3 en Salario,,
+Bernard,Everton,25,97000.0,3.9601629085687016,Z-Score > 3 en Salario,,
+M. Batshuayi,Valencia CF,24,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+Héctor Bellerín,Arsenal,23,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+L. Digne,Everton,24,79000.0,3.1430820454401447,Z-Score > 3 en Salario,,
+A. Oxlade-Chamberlain,Liverpool,24,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+S. Aurier,Tottenham Hotspur,25,82000.0,3.2792621892949043,Z-Score > 3 en Salario,,
+J. Matip,Liverpool,26,99000.0,4.050949671138541,Z-Score > 3 en Salario,,
+A. Yarmolenko,West Ham United,28,92000.0,3.7331960021441026,Z-Score > 3 en Salario,,
+R. Rodríguez,Milan,25,81000.0,3.2338688080099844,Z-Score > 3 en Salario,,
+V. Wanyama,Tottenham Hotspur,27,86000.0,3.4608357144345834,Z-Score > 3 en Salario,,
+M. Musacchio,Milan,27,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+F. Delph,Manchester City,28,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+A. Lallana,Liverpool,30,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+S. Coleman,Everton,29,97000.0,3.9601629085687016,Z-Score > 3 en Salario,,
+Nacho Monreal,Arsenal,32,99000.0,4.050949671138541,Z-Score > 3 en Salario,,
+S. Romero,Manchester United,31,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+D. Sturridge,Liverpool,28,125000.0,5.231177584546456,Z-Score > 3 en Salario,,
+G. Cahill,Chelsea,32,99000.0,4.050949671138541,Z-Score > 3 en Salario,,
+Richarlison,Everton,21,79000.0,3.1430820454401447,Z-Score > 3 en Salario,,
+André Silva,Sevilla FC,22,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+Marcos Llorente,Real Madrid,23,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+V. Lindelöf,Manchester United,23,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+D. Zappacosta,Chelsea,26,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+S. Kolašinac,Arsenal,25,89000.0,3.597015858289343,Z-Score > 3 en Salario,,
+Denis Suárez,FC Barcelona,24,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+K. Zouma,Everton,23,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+M. Rojo,Manchester United,28,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+M. van Ginkel,Chelsea,25,98000.0,4.005556289853621,Z-Score > 3 en Salario,,
+Danilo,Manchester City,26,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+R. Barkley,Chelsea,24,89000.0,3.597015858289343,Z-Score > 3 en Salario,,
+C. Wilson,Bournemouth,26,77000.0,3.0522952828703054,Z-Score > 3 en Salario,,
+P. Jones,Manchester United,26,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+C. Tosun,Everton,27,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+N. Clyne,Liverpool,27,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+J. Wilshere,West Ham United,26,83000.0,3.324655570579824,Z-Score > 3 en Salario,,
+D. Drinkwater,Chelsea,28,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+S. Joveti?,AS Monaco,28,79000.0,3.1430820454401447,Z-Score > 3 en Salario,,
+J. Hernández,West Ham United,30,90000.0,3.642409239574263,Z-Score > 3 en Salario,,
+Kiko Casilla,Real Madrid,31,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+M. Schneiderlin,Everton,28,92000.0,3.7331960021441026,Z-Score > 3 en Salario,,
+M. Fellaini,Manchester United,30,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+D. Ospina,Napoli,29,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+S. Mignolet,Liverpool,30,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+T. Walcott,Everton,29,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+A. Young,Manchester United,32,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+S. Lichtsteiner,Arsenal,34,94000.0,3.823982764713942,Z-Score > 3 en Salario,,
+Vallejo,Real Madrid,21,81000.0,3.2338688080099844,Z-Score > 3 en Salario,,
+A. Iwobi,Arsenal,22,81000.0,3.2338688080099844,Z-Score > 3 en Salario,,
+D. Laxalt,Milan,25,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+Andreas Pereira,Manchester United,22,91000.0,3.6878026208591828,Z-Score > 3 en Salario,,
+M. De Sciglio,Juventus,25,78000.0,3.0976886641552253,Z-Score > 3 en Salario,,
+Lucas Pérez,West Ham United,29,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+V. Moses,Chelsea,27,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+D. Welbeck,Arsenal,27,95000.0,3.869376145998862,Z-Score > 3 en Salario,,
+A. Carroll,West Ham United,29,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+M. Elneny,Arsenal,25,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+Munir,FC Barcelona,22,115000.0,4.7772437716972584,Z-Score > 3 en Salario,,
+M. Sissoko,Tottenham Hotspur,28,79000.0,3.1430820454401447,Z-Score > 3 en Salario,,
+T. Vermaelen,FC Barcelona,32,110000.0,4.550276865272659,Z-Score > 3 en Salario,,
+A. Turan,Medipol Ba?ak?ehir FK,31,120000.0,5.004210678121857,Z-Score > 3 en Salario,,
+L. Spinazzola,Juventus,25,80000.0,3.1884754267250646,Z-Score > 3 en Salario,,
+D. Origi,Liverpool,23,83000.0,3.324655570579824,Z-Score > 3 en Salario,,
+R. Loftus-Cheek,Chelsea,22,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+T. Hernández,Real Sociedad,20,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+Alberto Moreno,Liverpool,25,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+D. Ings,Southampton,25,85000.0,3.415442333149664,Z-Score > 3 en Salario,,
+E. Mangala,Manchester City,27,84000.0,3.370048951864744,Z-Score > 3 en Salario,,
+M. Darmian,Manchester United,28,88000.0,3.551622477004423,Z-Score > 3 en Salario,,
+Llorente,Tottenham Hotspur,33,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+F. Borini,Milan,27,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+De Tomás,Rayo Vallecano,23,105000.0,4.32330995884806,Z-Score > 3 en Salario,,
+Borja Mayoral,Levante UD,21,86000.0,3.4608357144345834,Z-Score > 3 en Salario,,
+O. Niasse,Everton,28,82000.0,3.2792621892949043,Z-Score > 3 en Salario,,
+Y. Bolasie,Aston Villa,29,76000.0,3.0069019015853855,Z-Score > 3 en Salario,,
+Iniesta,Vissel Kobe,34,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+S. Milinkovi?-Savi?,Lazio,23,,,Z-Score > 3 en Valor_Mercado,50500000.0,8.582025026098632
+Parejo,Valencia CF,29,,,Z-Score > 3 en Valor_Mercado,37000000.0,6.172460426090242
+Y. Brahimi,FC Porto,28,,,Z-Score > 3 en Valor_Mercado,39000000.0,6.529432959424819
+J. Giménez,Atlético Madrid,23,,,Z-Score > 3 en Valor_Mercado,34000000.0,5.637001626088378
+Alex Telles,FC Porto,25,,,Z-Score > 3 en Valor_Mercado,32000000.0,5.280029092753802
+Bruno Fernandes,Sporting CP,23,,,Z-Score > 3 en Valor_Mercado,40500000.0,6.797162359425751
+William Carvalho,Real Betis,26,,,Z-Score > 3 en Valor_Mercado,31500000.0,5.190785959420158
+F. Thauvin,Olympique de Marseille,25,,,Z-Score > 3 en Valor_Mercado,39000000.0,6.529432959424819
+A. Lopes,Olympique Lyonnais,27,,,Z-Score > 3 en Valor_Mercado,25000000.0,4.030625226082785
+Iago Aspas,RC Celta,30,,,Z-Score > 3 en Valor_Mercado,30000000.0,4.9230565594192255
+L. Hrádecký,Bayer 04 Leverkusen,28,,,Z-Score > 3 en Valor_Mercado,22000000.0,3.495166426080921
+Illarramendi,Real Sociedad,28,,,Z-Score > 3 en Valor_Mercado,31000000.0,5.101542826086514
+Sergio Asenjo,Villarreal CF,29,,,Z-Score > 3 en Valor_Mercado,24000000.0,3.8521389594154973
+E. Banega,Sevilla FC,30,,,Z-Score > 3 en Valor_Mercado,29000000.0,4.744570292751938
+D. Payet,Olympique de Marseille,31,,,Z-Score > 3 en Valor_Mercado,27500000.0,4.476840892751006
+A. Gómez,Atalanta,30,,,Z-Score > 3 en Valor_Mercado,30000000.0,4.9230565594192255
+Ronaldo Cabrais,Grêmio,26,,,Z-Score > 3 en Valor_Mercado,28000000.0,4.56608402608465
+Josué Chiamulera,Grêmio,26,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+Louri Beretta,Atlético Mineiro,26,,,Z-Score > 3 en Valor_Mercado,28500000.0,4.6553271594182934
+T. Lemar,Atlético Madrid,22,,,Z-Score > 3 en Valor_Mercado,35500000.0,5.90473102608931
+J. Tah,Bayer 04 Leverkusen,22,,,Z-Score > 3 en Valor_Mercado,29500000.0,4.833813426085582
+Anderson Talisca,Guangzhou Evergrande Taobao FC,24,,,Z-Score > 3 en Valor_Mercado,36500000.0,6.083217292756599
+T. Werner,RB Leipzig,22,,,Z-Score > 3 en Valor_Mercado,34500000.0,5.7262447594220225
+Q. Promes,Sevilla FC,26,,,Z-Score > 3 en Valor_Mercado,30500000.0,5.01229969275287
+H. Ziyech,Ajax,25,,,Z-Score > 3 en Valor_Mercado,32500000.0,5.369272226087446
+Y. Carrasco,Dalian YiFang FC,24,,,Z-Score > 3 en Valor_Mercado,33000000.0,5.4585153594210905
+Gerard Moreno,Villarreal CF,26,,,Z-Score > 3 en Valor_Mercado,32000000.0,5.280029092753802
+Felipe,FC Porto,29,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+Manu Trigueros,Villarreal CF,26,,,Z-Score > 3 en Valor_Mercado,30000000.0,4.9230565594192255
+S. Savi?,Atlético Madrid,27,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Danilo Pereira,FC Porto,26,,,Z-Score > 3 en Valor_Mercado,27000000.0,4.387597759417361
+T. Horn,1. FC Köln,25,,,Z-Score > 3 en Valor_Mercado,24000000.0,3.8521389594154973
+Rodrigo,Valencia CF,27,,,Z-Score > 3 en Valor_Mercado,30500000.0,5.01229969275287
+Pizzi,SL Benfica,28,,,Z-Score > 3 en Valor_Mercado,25500000.0,4.119868359416429
+K. Kampl,RB Leipzig,27,,,Z-Score > 3 en Valor_Mercado,26500000.0,4.298354626083717
+Neto,Valencia CF,28,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+O. Baumann,TSG 1899 Hoffenheim,28,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+K. Strootman,Olympique de Marseille,28,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+B. Dost,Sporting CP,29,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Oscar,Shanghai SIPG FC,26,,,Z-Score > 3 en Valor_Mercado,30500000.0,5.01229969275287
+M. Balotelli,OGC Nice,27,,,Z-Score > 3 en Valor_Mercado,27500000.0,4.476840892751006
+Giuliano,Al Nassr,28,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+R. Fährmann,FC Schalke 04,29,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+Y. Sommer,Borussia Mönchengladbach,29,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+J. Pavlenka,SV Werder Bremen,26,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+M. de Ligt,Ajax,18,,,Z-Score > 3 en Valor_Mercado,27000000.0,4.387597759417361
+Rodri,Atlético Madrid,22,,,Z-Score > 3 en Valor_Mercado,29000000.0,4.744570292751938
+G. Donnarumma,Milan,19,,,Z-Score > 3 en Valor_Mercado,29000000.0,4.744570292751938
+Gelson Martins,Atlético Madrid,23,,,Z-Score > 3 en Valor_Mercado,29500000.0,4.833813426085582
+Gonçalo Guedes,Valencia CF,21,,,Z-Score > 3 en Valor_Mercado,29000000.0,4.744570292751938
+Pau López,Real Betis,23,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+L. Hernández,Atlético Madrid,22,,,Z-Score > 3 en Valor_Mercado,25500000.0,4.119868359416429
+A. Kramari?,TSG 1899 Hoffenheim,27,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Dani García,Athletic Club de Bilbao,28,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+J. Brandt,Bayer 04 Leverkusen,22,,,Z-Score > 3 en Valor_Mercado,30500000.0,5.01229969275287
+T. Partey,Atlético Madrid,25,,,Z-Score > 3 en Valor_Mercado,25500000.0,4.119868359416429
+A. Belotti,Torino,24,,,Z-Score > 3 en Valor_Mercado,30000000.0,4.9230565594192255
+E. Forsberg,RB Leipzig,26,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+F. Vázquez,Sevilla FC,29,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+E. Viš?a,Medipol Ba?ak?ehir FK,28,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+A. Florenzi,Roma,27,,,Z-Score > 3 en Valor_Mercado,20500000.0,3.227437026079989
+G. Kondogbia,Valencia CF,25,,,Z-Score > 3 en Valor_Mercado,27500000.0,4.476840892751006
+Gabriel Paulista,Valencia CF,27,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+W. Ben Yedder,Sevilla FC,27,,,Z-Score > 3 en Valor_Mercado,23500000.0,3.762895826081853
+C. Bakambu,Beijing Sinobo Guoan FC,27,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Pablo Sarabia,Sevilla FC,26,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Luis Alberto,Lazio,25,,,Z-Score > 3 en Valor_Mercado,28500000.0,4.6553271594182934
+Jonathan Viera,Beijing Sinobo Guoan FC,28,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+Bartra,Real Betis,27,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+S. Coates,Sporting CP,27,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+Willian José,Real Sociedad,26,,,Z-Score > 3 en Valor_Mercado,26500000.0,4.298354626083717
+Víctor Ruiz,Villarreal CF,29,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+T. Delaney,Borussia Dortmund,26,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+K. Casteels,VfL Wolfsburg,26,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+M. Götze,Borussia Dortmund,26,,,Z-Score > 3 en Valor_Mercado,27000000.0,4.387597759417361
+Taison,Shakhtar Donetsk,30,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+Marlos,Shakhtar Donetsk,30,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+S. Giovinco,Toronto FC,31,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+N. Gaitán,Dalian YiFang FC,30,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+M. Kruse,SV Werder Bremen,30,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+L. Bailey,Bayer 04 Leverkusen,20,,,Z-Score > 3 en Valor_Mercado,26500000.0,4.298354626083717
+M. Akanji,Borussia Dortmund,22,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+F. de Jong,Ajax,21,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+Pablo Fornals,Villarreal CF,22,,,Z-Score > 3 en Valor_Mercado,24000000.0,3.8521389594154973
+Fabián,Napoli,22,,,Z-Score > 3 en Valor_Mercado,26000000.0,4.209111492750074
+H. Lozano,PSV,22,,,Z-Score > 3 en Valor_Mercado,24000000.0,3.8521389594154973
+J. Seri,Fulham,26,,,Z-Score > 3 en Valor_Mercado,20500000.0,3.227437026079989
+M. Politano,Inter,24,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+Williams,Athletic Club de Bilbao,24,,,Z-Score > 3 en Valor_Mercado,24500000.0,3.941382092749141
+A. Correa,Atlético Madrid,23,,,Z-Score > 3 en Valor_Mercado,24500000.0,3.941382092749141
+João Mário,Inter,25,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+E. Hysaj,Napoli,24,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+P. Zieli?ski,Napoli,24,,,Z-Score > 3 en Valor_Mercado,24500000.0,3.941382092749141
+Grimaldo,SL Benfica,22,,,Z-Score > 3 en Valor_Mercado,20500000.0,3.227437026079989
+R. Guerreiro,Borussia Dortmund,24,,,Z-Score > 3 en Valor_Mercado,24000000.0,3.8521389594154973
+A. Doucouré,Watford,25,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+J. Martínez,Atlanta United,25,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+A. Plea,Borussia Mönchengladbach,25,,,Z-Score > 3 en Valor_Mercado,22000000.0,3.495166426080921
+A. Milik,Napoli,24,,,Z-Score > 3 en Valor_Mercado,25500000.0,4.119868359416429
+M. Sabitzer,RB Leipzig,24,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+T. Hazard,Borussia Mönchengladbach,25,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+S. Zaza,Torino,27,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+Paco Alcácer,Borussia Dortmund,24,,,Z-Score > 3 en Valor_Mercado,23500000.0,3.762895826081853
+J. Corona,FC Porto,25,,,Z-Score > 3 en Valor_Mercado,21500000.0,3.405923292747277
+M. Gómez,RC Celta,21,,,Z-Score > 3 en Valor_Mercado,20500000.0,3.227437026079989
+K. Havertz,Bayer 04 Leverkusen,19,,,Z-Score > 3 en Valor_Mercado,22000000.0,3.495166426080921
+T. Ndombele,Olympique Lyonnais,21,,,Z-Score > 3 en Valor_Mercado,22500000.0,3.5844095594145653
+H. Aouar,Olympique Lyonnais,20,,,Z-Score > 3 en Valor_Mercado,23500000.0,3.762895826081853
+Carlos Soler,Valencia CF,21,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+M. Almirón,Atlanta United,24,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+Oyarzabal,Real Sociedad,21,,,Z-Score > 3 en Valor_Mercado,21000000.0,3.316680159413633
+G. Lo Celso,Real Betis,22,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+Rúben Neves,Wolverhampton Wanderers,21,,,Z-Score > 3 en Valor_Mercado,20500000.0,3.227437026079989
+M. Dahoud,Borussia Dortmund,22,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+K. Baldé,Inter,23,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+Rony Lopes,AS Monaco,22,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+Santi Mina,Valencia CF,22,,,Z-Score > 3 en Valor_Mercado,20000000.0,3.1381938927463446
+K. Demirbay,TSG 1899 Hoffenheim,24,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+M. Sanson,Olympique de Marseille,23,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
+F. Kessié,Milan,21,,,Z-Score > 3 en Valor_Mercado,19500000.0,3.0489507594127008
